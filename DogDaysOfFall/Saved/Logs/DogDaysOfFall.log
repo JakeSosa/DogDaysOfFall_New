@@ -1,4 +1,4 @@
-﻿Log file open, 03/07/19 15:12:45
+﻿Log file open, 03/07/19 16:22:29
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: DogDaysOfFall
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.281641
+LogStats: Stats thread started at 0.307387
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -94,7 +94,7 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.083s to configure plugins.
+LogStreaming: Display: Took  0.111s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -123,7 +123,7 @@ LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.21
-LogInit: Command Line: 
+LogInit: Command Line:  -EpicPortal -epicusername=SosaJacob -epicuserid=a995f7a4267343ae969b6d33b4d10643 -epiclocale=en-US
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 22
@@ -149,904 +149,717 @@ LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
 LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
-LogStreaming: Display: Took  0.000s to delete old logs.
+LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.45:984][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.03.07-20.12.45:984][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.03.07-20.12.45:985][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.45:985][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.45:989][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:989][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.03.07-20.12.45:989][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.03.07-20.12.45:989][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:989][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.03.07-20.12.45:990][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.03.07-20.12.45:991][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.03.07-20.12.45:991][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.03.07-20.12.45:991][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.03.07-20.12.45:991][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.45:991][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.03.07-20.12.45:991][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.03.07-20.12.45:991][  0]LogInit: Selected Device Profile: [Windows]
-[2019.03.07-20.12.45:991][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.03.07-20.12.46:004][  0]LogHAL: Display: Platform has ~ 16 GB [17053204480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
-[2019.03.07-20.12.46:004][  0]LogInit: Going up to parent DeviceProfile []
-[2019.03.07-20.12.46:004][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.03.07-20.12.46:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.03.07-20.12.46:005][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.03.07-20.12.46:006][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.03.07-20.12.46:006][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
-[2019.03.07-20.12.46:006][  0]LogInit: Computer: DESKTOP-IOL7IH2
-[2019.03.07-20.12.46:006][  0]LogInit: User: topan
-[2019.03.07-20.12.46:006][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.03.07-20.12.46:006][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.03.07-20.12.46:006][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.03.07-20.12.46:006][  0]LogMemory: Platform Memory Stats for Windows
-[2019.03.07-20.12.46:006][  0]LogMemory: Process Physical Memory: 102.04 MB used, 102.04 MB peak
-[2019.03.07-20.12.46:006][  0]LogMemory: Process Virtual Memory: 91.46 MB used, 91.46 MB peak
-[2019.03.07-20.12.46:006][  0]LogMemory: Physical Memory: 10260.08 MB used,  6003.13 MB free, 16263.20 MB total
-[2019.03.07-20.12.46:006][  0]LogMemory: Virtual Memory: 4649.98 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2019.03.07-20.12.46:023][  0]LogInit: Using OS detected language (en-US).
-[2019.03.07-20.12.46:023][  0]LogInit: Using OS detected locale (en-US).
-[2019.03.07-20.12.46:023][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.03.07-20.12.46:441][  0]LogStreaming: Display: Took  0.418s to InitEngineTextLocalization.
-[2019.03.07-20.12.46:441][  0]LogInit: Setting process to per monitor DPI aware
-[2019.03.07-20.12.46:488][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.03.07-20.12.46:488][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.03.07-20.12.46:767][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.03.07-20.12.46:767][  0]LogD3D11RHI: D3D11 adapters:
-[2019.03.07-20.12.46:821][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
-[2019.03.07-20.12.46:821][  0]LogD3D11RHI:       16257/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.03.07-20.12.46:829][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2019.03.07-20.12.46:829][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.03.07-20.12.46:831][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.03.07-20.12.46:831][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.03.07-20.12.46:831][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.03.07-20.12.46:868][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.03.07-20.12.46:868][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
-[2019.03.07-20.12.46:868][  0]LogWindows: EnumDisplayDevices:
-[2019.03.07-20.12.46:868][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2019.03.07-20.12.46:868][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2019.03.07-20.12.46:868][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2019.03.07-20.12.46:869][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:1)
-[2019.03.07-20.12.46:869][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2019.03.07-20.12.46:869][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2019.03.07-20.12.46:869][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
-[2019.03.07-20.12.46:869][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2019.03.07-20.12.46:869][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
-[2019.03.07-20.12.46:869][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
-[2019.03.07-20.12.46:869][  0]LogD3D11RHI:      Driver Date: 3-16-2018
-[2019.03.07-20.12.46:870][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
-[2019.03.07-20.12.46:913][  0]LogD3D11RHI: Async texture creation enabled
-[2019.03.07-20.12.46:931][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.03.07-20.12.47:284][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2019.03.07-20.12.47:297][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2019.03.07-20.12.47:309][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2019.03.07-20.12.47:322][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2019.03.07-20.12.47:334][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2019.03.07-20.12.47:347][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.03.07-20.12.47:360][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.03.07-20.12.47:372][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.03.07-20.12.47:379][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.07-20.12.47:451][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2019.03.07-20.12.47:510][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.03.07-20.12.47:510][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.03.07-20.12.47:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.03.07-20.12.47:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.03.07-20.12.47:544][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2019.03.07-20.12.47:556][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2019.03.07-20.12.47:567][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2019.03.07-20.12.47:580][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2019.03.07-20.12.47:621][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.03.07-20.12.47:621][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.03.07-20.12.47:621][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.03.07-20.12.47:677][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Intermediate/Shaders/WorkingDirectory/144488/).
-[2019.03.07-20.12.47:677][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/topan/AppData/Local/Temp/UnrealShaderWorkingDir/97A4AAB84297D7AEB33DDF880759EF72/'.
-[2019.03.07-20.12.47:679][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.03.07-20.12.47:680][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.03.07-20.12.47:680][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.03.07-20.12.48:201][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.03.07-20.12.48:257][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/topan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.03.07-20.12.48:257][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/topan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
-[2019.03.07-20.12.48:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.03.07-20.12.48:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.03.07-20.12.48:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.03.07-20.12.48:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.03.07-20.12.48:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.03.07-20.12.48:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.03.07-20.12.48:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.03.07-20.12.48:283][  0]LogDerivedDataCache: Using Local data cache path C:/Users/topan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.03.07-20.12.48:283][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.03.07-20.12.48:283][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.03.07-20.12.48:307][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.03.07-20.12.48:308][  0]LogSlate: Using FreeType 2.6.0
-[2019.03.07-20.12.48:309][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.03.07-20.12.48:396][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
-[2019.03.07-20.12.48:734][  0]LogInit: Selected Device Profile: [Windows]
-[2019.03.07-20.12.48:809][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.03.07-20.12.48:812][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.03.07-20.12.48:812][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.03.07-20.12.48:812][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.03.07-20.12.48:812][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.03.07-20.12.48:909][  0]LogNetVersion: DogDaysOfFall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1062122466)
-[2019.03.07-20.12.49:525][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.094536 seconds
-[2019.03.07-20.12.49:536][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
-[2019.03.07-20.12.49:536][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
-[2019.03.07-20.12.49:536][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.03.07-20.12.50:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.03.07-20.12.50:497][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.03.07-20.12.51:152][  0]SourceControl: Source control is disabled
-[2019.03.07-20.12.51:153][  0]SourceControl: Source control is disabled
-[2019.03.07-20.12.51:153][  0]SourceControl: Source control is disabled
-[2019.03.07-20.12.51:154][  0]SourceControl: Source control is disabled
-[2019.03.07-20.12.51:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.03.07-20.12.51:377][  0]LogOcInput: OculusInput pre-init called
-[2019.03.07-20.12.51:511][  0]LogEngine: Initializing Engine...
-[2019.03.07-20.12.51:512][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.03.07-20.12.51:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.03.07-20.12.51:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.03.07-20.12.51:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.03.07-20.12.51:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.03.07-20.12.51:759][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.03.07-20.12.51:773][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.03.07-20.12.51:839][  0]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.03.07-20.12.51:858][  0]LogInit: FAudioDevice initialized.
-[2019.03.07-20.12.51:859][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.03.07-20.12.51:929][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/topan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.03.07-20.12.51:940][  0]LogInit: Texture streaming: Enabled
-[2019.03.07-20.12.51:957][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.03.07-20.12.51:979][  0]LogInit: Transaction tracking system initialized
-[2019.03.07-20.12.52:003][  0]BlueprintLog: New page: Editor Load
-[2019.03.07-20.12.52:081][  0]LocalizationService: Localization service is disabled
-[2019.03.07-20.12.52:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/' took 0.01s
-[2019.03.07-20.12.52:539][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.03.07-20.12.52:539][  0]LogCook: Display: Mobile HDR setting 1
-[2019.03.07-20.12.52:539][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.03.07-20.12.52:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.03.07-20.12.52:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.03.07-20.12.52:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.03.07-20.12.52:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.03.07-20.12.52:672][  0]SourceControl: Source control is disabled
-[2019.03.07-20.12.52:777][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.03.07-20.13.11:964][  0]LogSlate: Window 'Restore Packages' being destroyed
-[2019.03.07-20.13.11:965][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.03.07-20.13.11:971][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.03.07-20.13.11:977][  0]Cmd: MAP LOAD FILE="../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/L_blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.03.07-20.13.11:977][  0]LightingResults: New page: Lighting Build
-[2019.03.07-20.13.11:982][  0]MapCheck: New page: Map Check
-[2019.03.07-20.13.11:982][  0]LightingResults: New page: Lighting Build
-[2019.03.07-20.13.12:019][  0]LogLinker: Warning: Can't find file '/Game/Scenes/L_blockout_BuiltData'
-[2019.03.07-20.13.12:019][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/L_blockout_BuiltData' while loading ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/L_blockout.umap.
-[2019.03.07-20.13.12:019][  0]LoadErrors: Error: /Game/Scenes/L_blockout : Can't find file for asset. /Game/Scenes/L_blockout_BuiltData
-[2019.03.07-20.13.12:061][  0]LogLinker: Warning: Can't find file '/Game/Scenes/L_blockout_BuiltData'
-[2019.03.07-20.13.12:061][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/L_blockout_BuiltData' while loading ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/L_blockout.umap.
-[2019.03.07-20.13.12:061][  0]LoadErrors: Error: /Game/Scenes/L_blockout : Can't find file for asset. /Game/Scenes/L_blockout_BuiltData
-[2019.03.07-20.13.12:064][  0]LogLinker: Warning: Can't find file '/Game/Scenes/L_blockout_BuiltData'
-[2019.03.07-20.13.12:065][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/L_blockout_BuiltData' while loading NULL.
-[2019.03.07-20.13.12:065][  0]LogLinker: Warning: Can't find file '/Game/Scenes/L_blockout_BuiltData'
-[2019.03.07-20.13.12:066][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/L_blockout_BuiltData' while loading NULL.
-[2019.03.07-20.13.12:077][  0]LogLinker: Warning: Can't find file '/Game/Scenes/L_blockout_BuiltData'
-[2019.03.07-20.13.12:077][  0]LoadErrors: Failed to load /Game/Scenes/L_blockout_BuiltData.L_blockout_BuiltData Referenced by PersistentLevel
-[2019.03.07-20.13.12:077][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/L_blockout_BuiltData' while loading NULL.
-[2019.03.07-20.13.12:077][  0]LoadErrors: Failed to load /Game/Scenes/L_blockout_BuiltData.L_blockout_BuiltData Referenced by PersistentLevel
-[2019.03.07-20.13.12:125][  0]LogAIModule: Creating AISystem for world L_blockout
-[2019.03.07-20.13.12:131][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.03.07-20.13.12:159][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.03.07-20.13.12:159][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
-[2019.03.07-20.13.12:159][  0]LogFileHelpers: Loading map 'L_blockout' took 0.183
-[2019.03.07-20.13.12:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.03.07-20.13.12:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.03.07-20.13.12:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.03.07-20.13.12:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.03.07-20.13.12:262][  0]LogCollectionManager: Loaded 0 collections in 0.002249 seconds
-[2019.03.07-20.13.12:284][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Collections/' took 0.01s
-[2019.03.07-20.13.12:284][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Developers/topan/Collections/' took 0.00s
-[2019.03.07-20.13.12:284][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Collections/' took 0.00s
-[2019.03.07-20.13.12:284][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.03.07-20.13.12:294][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2651 classes and 620 folders.
-[2019.03.07-20.13.12:301][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.03.07-20.13.12:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.03.07-20.13.12:353][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.03.07-20.13.12:359][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2019.03.07-20.13.12:374][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.03.07-20.13.12:382][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.03.07-20.13.12:439][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2019.03.07-20.13.12:498][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.03.07-20.13.12:613][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.07-20.13.12:639][  0]LogSlate: Window 'Tutorials' being destroyed
-[2019.03.07-20.13.12:675][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.03.07-20.13.12:675][  0]LogLoad: (Engine Initialization) Total time: 28.37 seconds
-[2019.03.07-20.13.12:675][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.03.07-20.13.12:733][  0]LogAssetRegistry: Asset discovery search completed in 24.3600 seconds
-[2019.03.07-20.13.12:734][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.03.07-20.13.12:734][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
-[2019.03.07-20.13.12:736][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.03.07-20.13.12:749][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.07-20.13.26:822][838]LogSlate: Window 'Message Log' being destroyed
-[2019.03.07-20.13.26:828][838]LogSlate: Window 'Message Log' being destroyed
-[2019.03.07-20.13.30:322][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.07-20.17.06:949][787]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.03.07-20.17.06:981][787]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\topan\Desktop\Cellec\Dog Days\Textures\Dumpster_Model_Export_Dumpster_BaseColor.png)
-[2019.03.07-20.17.07:122][787]LogTexture: Display: Building textures: Dumpster_Model_Export_Dumpster_BaseColor (AutoDXT, 2048X2048)
-[2019.03.07-20.17.07:968][787]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\topan\Desktop\Cellec\Dog Days\Textures\Dumpster_Model_Export_Dumpster_Normal.png)
-[2019.03.07-20.17.08:143][787]LogTexture: Display: Building textures: Dumpster_Model_Export_Dumpster_Normal (BC5, 2048X2048)
-[2019.03.07-20.17.08:434][787]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\topan\Desktop\Cellec\Dog Days\Textures\Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic.png)
-[2019.03.07-20.17.08:575][787]LogTexture: Display: Building textures: Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
-[2019.03.07-20.17.13:893][818]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\topan\Desktop\Cellec\Dog Days\Exports\Dumpster_Model_Export.fbx)
-[2019.03.07-20.17.13:934][818]LogFbx: Loading FBX Scene from C:\Users\topan\Desktop\Cellec\Dog Days\Exports\Dumpster_Model_Export.fbx
-[2019.03.07-20.17.13:962][818]LogFbx: FBX Scene Loaded Succesfully
-[2019.03.07-20.17.23:524][818]LogSlate: Window 'FBX Import Options' being destroyed
-[2019.03.07-20.17.23:565][818]LogFbx: Warning: Triangulating static mesh Lift_Grips
-[2019.03.07-20.17.23:579][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Lift_Grips...
-[2019.03.07-20.17.23:587][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Lift_Grips.Dumpster_Model_Export_Lift_Grips
-[2019.03.07-20.17.23:598][818]LogFbx: Warning: Triangulating static mesh Latches
-[2019.03.07-20.17.23:602][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Latches...
-[2019.03.07-20.17.23:606][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Latches.Dumpster_Model_Export_Latches
-[2019.03.07-20.17.23:614][818]LogFbx: Warning: Triangulating static mesh Dumpster_Base
-[2019.03.07-20.17.23:615][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Dumpster_Base...
-[2019.03.07-20.17.23:619][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_Base.Dumpster_Model_Export_Dumpster_Base
-[2019.03.07-20.17.23:630][818]LogFbx: Warning: Triangulating static mesh Lid2
-[2019.03.07-20.17.23:674][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Lid2...
-[2019.03.07-20.17.23:714][818]LogStaticMesh: Built static mesh [0.04s] /Game/Art/Dumpster/Dumpster_Model_Export_Lid2.Dumpster_Model_Export_Lid2
-[2019.03.07-20.17.23:716][818]LogStaticMesh: Warning: Dumpster_Model_Export_Lid2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2019.03.07-20.17.23:725][818]LogFbx: Warning: Triangulating static mesh Bar_Guard13
-[2019.03.07-20.17.23:746][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard13...
-[2019.03.07-20.17.23:755][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard13.Dumpster_Model_Export_Bar_Guard13
-[2019.03.07-20.17.23:762][818]LogFbx: Warning: Triangulating static mesh Bar_Guard12
-[2019.03.07-20.17.23:785][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard12...
-[2019.03.07-20.17.23:794][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard12.Dumpster_Model_Export_Bar_Guard12
-[2019.03.07-20.17.23:801][818]LogFbx: Warning: Triangulating static mesh Lid1
-[2019.03.07-20.17.23:835][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Lid1...
-[2019.03.07-20.17.23:873][818]LogStaticMesh: Built static mesh [0.04s] /Game/Art/Dumpster/Dumpster_Model_Export_Lid1.Dumpster_Model_Export_Lid1
-[2019.03.07-20.17.23:875][818]LogStaticMesh: Warning: Dumpster_Model_Export_Lid1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2019.03.07-20.17.23:882][818]LogFbx: Warning: Triangulating static mesh Bar_Guard14
-[2019.03.07-20.17.23:904][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard14...
-[2019.03.07-20.17.23:915][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard14.Dumpster_Model_Export_Bar_Guard14
-[2019.03.07-20.17.23:921][818]LogFbx: Warning: Triangulating static mesh Bar_Guard8
-[2019.03.07-20.17.23:942][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard8...
-[2019.03.07-20.17.23:951][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard8.Dumpster_Model_Export_Bar_Guard8
-[2019.03.07-20.17.23:959][818]LogFbx: Warning: Triangulating static mesh Bar_Holder2
-[2019.03.07-20.17.23:960][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Holder2...
-[2019.03.07-20.17.23:963][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Holder2.Dumpster_Model_Export_Bar_Holder2
-[2019.03.07-20.17.23:970][818]LogFbx: Warning: Triangulating static mesh Bar_Guard11
-[2019.03.07-20.17.23:993][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard11...
-[2019.03.07-20.17.24:005][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard11.Dumpster_Model_Export_Bar_Guard11
-[2019.03.07-20.17.24:012][818]LogFbx: Warning: Triangulating static mesh Bar_Guard10
-[2019.03.07-20.17.24:034][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard10...
-[2019.03.07-20.17.24:046][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard10.Dumpster_Model_Export_Bar_Guard10
-[2019.03.07-20.17.24:053][818]LogFbx: Warning: Triangulating static mesh Bar_Guard9
-[2019.03.07-20.17.24:076][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard9...
-[2019.03.07-20.17.24:084][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard9.Dumpster_Model_Export_Bar_Guard9
-[2019.03.07-20.17.24:090][818]LogFbx: Warning: Triangulating static mesh Bar_Holder1
-[2019.03.07-20.17.24:091][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Holder1...
-[2019.03.07-20.17.24:094][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Holder1.Dumpster_Model_Export_Bar_Holder1
-[2019.03.07-20.17.24:102][818]LogFbx: Warning: Triangulating static mesh polySurface11
-[2019.03.07-20.17.24:157][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_polySurface11...
-[2019.03.07-20.17.24:237][818]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Dumpster/Dumpster_Model_Export_polySurface11.Dumpster_Model_Export_polySurface11
-[2019.03.07-20.17.24:248][818]LogFbx: Warning: Triangulating static mesh polySurface10
-[2019.03.07-20.17.24:299][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_polySurface10...
-[2019.03.07-20.17.24:360][818]LogStaticMesh: Built static mesh [0.06s] /Game/Art/Dumpster/Dumpster_Model_Export_polySurface10.Dumpster_Model_Export_polySurface10
-[2019.03.07-20.17.24:368][818]LogFbx: Warning: Triangulating static mesh polySurface12
-[2019.03.07-20.17.24:421][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_polySurface12...
-[2019.03.07-20.17.24:498][818]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Dumpster/Dumpster_Model_Export_polySurface12.Dumpster_Model_Export_polySurface12
-[2019.03.07-20.17.24:512][818]LogFbx: Warning: Triangulating static mesh polySurface9
-[2019.03.07-20.17.24:565][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_polySurface9...
-[2019.03.07-20.17.24:629][818]LogStaticMesh: Built static mesh [0.07s] /Game/Art/Dumpster/Dumpster_Model_Export_polySurface9.Dumpster_Model_Export_polySurface9
-[2019.03.07-20.17.24:638][818]LogFbx: Warning: Triangulating static mesh Lift_Grips1
-[2019.03.07-20.17.24:640][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Lift_Grips1...
-[2019.03.07-20.17.24:645][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Lift_Grips1.Dumpster_Model_Export_Lift_Grips1
-[2019.03.07-20.17.24:651][818]LogFbx: Warning: Triangulating static mesh Latches1
-[2019.03.07-20.17.24:655][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Latches1...
-[2019.03.07-20.17.24:659][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Latches1.Dumpster_Model_Export_Latches1
-[2019.03.07-20.17.24:664][818]LogFbx: Warning: Triangulating static mesh Bar
-[2019.03.07-20.17.24:667][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar...
-[2019.03.07-20.17.24:671][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar.Dumpster_Model_Export_Bar
-[2019.03.07-20.17.24:677][818]LogFbx: Warning: Triangulating static mesh Dumpster_Base1
-[2019.03.07-20.17.24:692][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Dumpster_Base1...
-[2019.03.07-20.17.24:699][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_Base1.Dumpster_Model_Export_Dumpster_Base1
-[2019.03.07-20.17.24:710][818]LogFbx: Warning: Triangulating static mesh Bar_Guard7
-[2019.03.07-20.17.24:731][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Guard7...
-[2019.03.07-20.17.24:740][818]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Guard7.Dumpster_Model_Export_Bar_Guard7
-[2019.03.07-20.17.24:747][818]LogFbx: Warning: Triangulating static mesh Bar_Holder
-[2019.03.07-20.17.24:749][818]LogStaticMesh: Building static mesh Dumpster_Model_Export_Bar_Holder...
-[2019.03.07-20.17.24:751][818]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Dumpster/Dumpster_Model_Export_Bar_Holder.Dumpster_Model_Export_Bar_Holder
-[2019.03.07-20.17.24:762][818]FBXImport: Warning: Dumpster_Model_Export_Lid2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2019.03.07-20.17.24:762][818]FBXImport: Warning: Dumpster_Model_Export_Lid1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2019.03.07-20.17.33:112][311]LogSlate: Window 'Message Log' being destroyed
-[2019.03.07-20.17.33:122][311]LogSlate: Window 'Message Log' being destroyed
-[2019.03.07-20.17.50:691][119]LogSlate: Window 'Delete Assets' being destroyed
-[2019.03.07-20.17.56:424][450]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic.Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic
-[2019.03.07-20.17.56:442][450]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2019.03.07-20.18.00:503][684]LogTexture: Display: Building textures: Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
-[2019.03.07-20.18.07:868][  6]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Dumpster_O82DA3CD5414FCFC7486658936A121DBF.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic.uasset'
-[2019.03.07-20.18.09:079][ 78]LogSlate: Window 'Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic' being destroyed
-[2019.03.07-20.18.09:083][ 78]LogSlate: Window 'Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic' being destroyed
-[2019.03.07-20.20.20:949][764]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\topan\Desktop\Cellec\Dog Days\Exports\Dumpster_Model_Export.fbx)
-[2019.03.07-20.20.20:960][764]LogFbx: Loading FBX Scene from C:\Users\topan\Desktop\Cellec\Dog Days\Exports\Dumpster_Model_Export.fbx
-[2019.03.07-20.20.20:979][764]LogFbx: FBX Scene Loaded Succesfully
-[2019.03.07-20.20.22:585][764]LogSlate: Window 'FBX Import Options' being destroyed
-[2019.03.07-20.20.22:636][764]LogFbx: Warning: Triangulating static mesh Dumpster1_Latches
-[2019.03.07-20.20.23:145][764]LogStaticMesh: Building static mesh Dumpster_Model_Export...
-[2019.03.07-20.20.23:647][764]LogStaticMesh: Built static mesh [0.50s] /Game/Art/Dumpster/Dumpster_Model_Export.Dumpster_Model_Export
-[2019.03.07-20.20.23:661][764]LogStaticMesh: Warning: Dumpster_Model_Export has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2019.03.07-20.20.23:688][764]FBXImport: Warning: Dumpster_Model_Export has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2019.03.07-20.20.28:131][ 27]LogSlate: Window 'Message Log' being destroyed
-[2019.03.07-20.20.28:141][ 27]LogSlate: Window 'Message Log' being destroyed
-[2019.03.07-20.20.50:700][275]LogAssetEditorManager: Opening Asset editor for Material /Game/Art/Dumpster/DUmpster.DUmpster
-[2019.03.07-20.20.50:704][275]LogMaterial: Display: Missing cached shader map for material DUmpster, compiling. 
-[2019.03.07-20.20.51:104][275]LogMaterial: Display: Missing cached shader map for material DUmpster, compiling. 
-[2019.03.07-20.20.51:123][275]LogMaterial: Display: Missing cached shader map for material DUmpster, compiling. 
-[2019.03.07-20.20.51:154][275]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.20.51:154][275]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.20.51:154][275]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.20.51:154][275]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.20.51:223][275]LogSlate: Took 0.010312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2019.03.07-20.20.51:700][285]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.20.51:740][287]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.20.51:811][290]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.20.51:811][290]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.20.51:982][298]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.20.52:026][300]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.20.52:071][302]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.20.52:092][303]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.20.52:282][314]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.20.52:452][323]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.20.52:675][335]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.20.52:768][340]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.20.52:864][346]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.20.52:886][347]LogSlate: Window 'DUmpster*' being destroyed
-[2019.03.07-20.20.52:894][347]LogSlate: Window 'DUmpster*' being destroyed
-[2019.03.07-20.20.52:985][347]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.20.53:041][350]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.20.53:293][365]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.20.53:340][368]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.20.59:644][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Dumpster/DUmpster" FILE="../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/DUmpster.uasset" SILENT=true
-[2019.03.07-20.20.59:661][737]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/DUmpsterC5B51D554D4CCDEE308323A50BB8B321.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/DUmpster.uasset'
-[2019.03.07-20.21.03:019][928]LogActorFactory: Actor Factory created Dumpster_Model_Export
-[2019.03.07-20.21.04:077][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.07-20.21.05:795][ 92]LogAssetEditorManager: Opening Asset editor for Material /Game/Art/Dumpster/DUmpster.Dumpster
-[2019.03.07-20.21.05:798][ 92]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.05:898][ 92]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.05:916][ 92]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.05:933][ 92]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.05:934][ 92]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.05:934][ 92]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.05:934][ 92]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.06:216][ 96]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.06:237][ 97]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.06:251][ 98]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.06:251][ 98]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.06:467][109]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.06:501][111]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.06:518][112]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.06:533][113]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.06:682][120]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.06:914][130]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.07:185][142]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.07:215][142]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.07:279][145]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.07:510][157]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.07:532][158]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.07:847][171]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.07:867][172]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.08:267][194]MaterialEditorStats: Base pass shader: 103 instructions
-[2019.03.07-20.21.08:267][194]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
-[2019.03.07-20.21.08:267][194]MaterialEditorStats: Base pass vertex shader: 32 instructions
-[2019.03.07-20.21.08:267][194]MaterialEditorStats: Texture samplers: 3/16
-[2019.03.07-20.21.12:326][293]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.12:340][293]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.12:341][293]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.12:341][293]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.12:341][293]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.12:341][293]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.12:377][293]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.12:610][300]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.12:631][301]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.12:631][301]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.12:649][302]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.12:815][310]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.12:832][311]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.12:852][312]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.12:868][313]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.13:008][321]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.13:165][328]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.13:334][338]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.13:349][339]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.13:410][341]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.13:428][341]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.13:431][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2019.03.07-20.21.13:466][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.13:476][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2019.03.07-20.21.13:586][343]LogShaderCompilers: Display: Shaders left to compile 25
-[2019.03.07-20.21.13:603][344]LogShaderCompilers: Display: Shaders left to compile 24
-[2019.03.07-20.21.13:820][353]LogShaderCompilers: Display: Shaders left to compile 23
-[2019.03.07-20.21.13:852][353]LogShaderCompilers: Display: Shaders left to compile 22
-[2019.03.07-20.21.13:871][355]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.13:886][356]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.14:042][363]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.14:080][365]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.14:098][366]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.14:113][367]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.14:242][373]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.14:254][374]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.14:273][375]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.14:530][389]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.14:548][390]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.14:676][396]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.14:703][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
-[2019.03.07-20.21.14:714][396]LogShaderCompilers: Display: Shaders left to compile 27
-[2019.03.07-20.21.14:714][396]LogShaderCompilers: Display: Shaders left to compile 26
-[2019.03.07-20.21.14:743][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.14:750][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2019.03.07-20.21.14:758][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
-[2019.03.07-20.21.14:819][397]LogShaderCompilers: Display: Shaders left to compile 27
-[2019.03.07-20.21.14:967][403]LogShaderCompilers: Display: Shaders left to compile 26
-[2019.03.07-20.21.15:018][406]LogShaderCompilers: Display: Shaders left to compile 25
-[2019.03.07-20.21.15:055][408]LogShaderCompilers: Display: Shaders left to compile 24
-[2019.03.07-20.21.15:117][411]LogShaderCompilers: Display: Shaders left to compile 23
-[2019.03.07-20.21.15:250][418]LogShaderCompilers: Display: Shaders left to compile 22
-[2019.03.07-20.21.15:269][419]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.15:283][420]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.15:330][423]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.15:434][428]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.15:452][429]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.15:468][430]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.15:514][433]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.15:773][446]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.16:000][455]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.16:059][457]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.16:076][458]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.16:297][470]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.16:317][471]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.16:596][487]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.16:648][489]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.16:675][491]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.16:745][495]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.16:900][503]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.17:045][511]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.17:045][511]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.17:061][512]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.17:825][555]MaterialEditorStats: Base pass shader: 103 instructions
-[2019.03.07-20.21.17:825][555]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
-[2019.03.07-20.21.17:825][555]MaterialEditorStats: Base pass vertex shader: 32 instructions
-[2019.03.07-20.21.17:825][555]MaterialEditorStats: Texture samplers: 3/16
-[2019.03.07-20.21.30:991][334]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.31:009][334]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.31:009][334]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.31:009][334]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.31:009][334]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.31:013][334]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2019.03.07-20.21.31:272][345]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.31:291][346]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.31:291][346]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.31:306][347]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.31:489][356]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.31:506][357]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.31:520][358]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.31:520][358]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.31:712][368]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.31:813][373]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.32:015][383]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.32:068][386]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.32:184][393]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.32:292][399]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.32:310][400]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.32:589][416]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.32:601][417]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.32:719][424]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.32:719][424]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.36:662][657]MaterialEditorStats: Base pass shader: 109 instructions
-[2019.03.07-20.21.36:662][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
-[2019.03.07-20.21.36:662][657]MaterialEditorStats: Base pass vertex shader: 36 instructions
-[2019.03.07-20.21.36:662][657]MaterialEditorStats: Texture samplers: 4/16
-[2019.03.07-20.21.36:662][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
-[2019.03.07-20.21.36:662][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.03.07-20.21.39:407][819]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.39:422][819]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.39:422][819]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.39:422][819]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.39:422][819]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.39:426][819]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
-[2019.03.07-20.21.39:709][833]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.39:726][834]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.39:740][835]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.39:740][835]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.39:915][843]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.39:927][844]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.39:945][845]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.39:961][846]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.40:131][855]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.40:279][862]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.40:467][872]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.40:538][876]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.40:684][884]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.40:790][890]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.40:854][893]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.41:121][907]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.41:176][910]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.41:373][921]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.41:389][922]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.41:632][936]MaterialEditorStats: Base pass shader: 112 instructions
-[2019.03.07-20.21.41:632][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
-[2019.03.07-20.21.41:632][936]MaterialEditorStats: Base pass vertex shader: 36 instructions
-[2019.03.07-20.21.41:632][936]MaterialEditorStats: Texture samplers: 5/16
-[2019.03.07-20.21.41:632][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2019.03.07-20.21.41:632][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.03.07-20.21.45:417][161]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.45:439][161]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.45:439][161]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.45:439][161]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.45:439][161]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.45:439][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.45:727][173]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.45:727][173]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.45:746][174]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.45:746][174]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.45:916][183]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.45:952][185]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.45:969][186]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.45:998][188]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.46:104][194]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.46:305][204]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.46:516][214]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.46:557][216]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.46:666][221]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.46:815][229]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.46:850][231]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.47:135][246]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.47:150][247]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.47:285][255]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.47:339][258]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.48:061][299]MaterialEditorStats: Base pass shader: 114 instructions
-[2019.03.07-20.21.48:061][299]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
-[2019.03.07-20.21.48:061][299]MaterialEditorStats: Base pass vertex shader: 36 instructions
-[2019.03.07-20.21.48:061][299]MaterialEditorStats: Texture samplers: 6/16
-[2019.03.07-20.21.48:061][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
-[2019.03.07-20.21.48:061][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.03.07-20.21.49:771][399]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.49:791][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.49:806][399]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.49:806][399]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.49:806][399]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.49:806][399]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.50:066][412]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.50:093][412]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.50:093][412]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.50:095][412]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.50:286][421]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.50:286][421]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.50:302][422]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.50:318][423]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.50:482][431]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.50:610][436]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.50:866][449]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.50:905][451]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.51:071][460]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.51:196][467]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.51:232][469]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.51:477][481]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.51:492][482]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.51:646][491]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.51:666][492]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.54:138][638]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.54:159][638]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.54:159][638]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.54:159][638]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.54:159][638]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.54:159][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2019.03.07-20.21.54:420][651]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.54:469][654]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.54:469][654]LogShaderCompilers: Display: Shaders left to compile 17
-[2019.03.07-20.21.54:469][654]LogShaderCompilers: Display: Shaders left to compile 16
-[2019.03.07-20.21.54:629][661]LogShaderCompilers: Display: Shaders left to compile 15
-[2019.03.07-20.21.54:644][662]LogShaderCompilers: Display: Shaders left to compile 14
-[2019.03.07-20.21.54:683][664]LogShaderCompilers: Display: Shaders left to compile 13
-[2019.03.07-20.21.54:697][665]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.54:840][672]LogShaderCompilers: Display: Shaders left to compile 11
-[2019.03.07-20.21.55:005][680]LogShaderCompilers: Display: Shaders left to compile 10
-[2019.03.07-20.21.55:164][689]LogShaderCompilers: Display: Shaders left to compile 9
-[2019.03.07-20.21.55:233][693]LogShaderCompilers: Display: Shaders left to compile 8
-[2019.03.07-20.21.55:357][700]LogShaderCompilers: Display: Shaders left to compile 7
-[2019.03.07-20.21.55:494][707]LogShaderCompilers: Display: Shaders left to compile 6
-[2019.03.07-20.21.55:563][711]LogShaderCompilers: Display: Shaders left to compile 5
-[2019.03.07-20.21.55:823][724]LogShaderCompilers: Display: Shaders left to compile 4
-[2019.03.07-20.21.55:824][724]LogShaderCompilers: Display: Shaders left to compile 3
-[2019.03.07-20.21.56:033][734]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.56:098][737]LogShaderCompilers: Display: Shaders left to compile 1
-[2019.03.07-20.21.56:331][750]MaterialEditorStats: Base pass shader: 114 instructions
-[2019.03.07-20.21.56:331][750]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
-[2019.03.07-20.21.56:331][750]MaterialEditorStats: Base pass vertex shader: 36 instructions
-[2019.03.07-20.21.56:331][750]MaterialEditorStats: Texture samplers: 6/16
-[2019.03.07-20.21.56:331][750]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
-[2019.03.07-20.21.56:331][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.03.07-20.21.57:901][844]LogMaterialEditor: Applying material Dumpster
-[2019.03.07-20.21.58:263][844]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.58:314][844]LogShaderCompilers: Display: Shaders left to compile 21
-[2019.03.07-20.21.58:315][844]LogShaderCompilers: Display: Shaders left to compile 20
-[2019.03.07-20.21.58:315][844]LogShaderCompilers: Display: Shaders left to compile 19
-[2019.03.07-20.21.58:315][844]LogShaderCompilers: Display: Shaders left to compile 18
-[2019.03.07-20.21.58:331][844]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.58:351][844]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
-[2019.03.07-20.21.58:403][844]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 40
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 39
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 38
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 37
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 36
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 35
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 34
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 33
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 32
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 31
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 30
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 29
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 28
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 27
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 26
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 25
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 24
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 23
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 22
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 12
-[2019.03.07-20.21.59:762][844]LogShaderCompilers: Display: Shaders left to compile 2
-[2019.03.07-20.21.59:765][844]TextureStreamingBuild: Display: Compiling optional shaders took 1.373 seconds.
-[2019.03.07-20.22.00:554][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.07-20.22.00:619][891]LogMaterialEditor: Saving and Compiling material Dumpster
-[2019.03.07-20.22.02:301][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Dumpster/DUmpster" FILE="../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/DUmpster.uasset" SILENT=true
-[2019.03.07-20.22.02:333][891]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/DUmpsterA441D6844100DD528DD4FFAD50DEE727.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/DUmpster.uasset'
-[2019.03.07-20.22.02:350][891]MaterialEditorStats: Base pass shader: 114 instructions
-[2019.03.07-20.22.02:350][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
-[2019.03.07-20.22.02:350][891]MaterialEditorStats: Base pass vertex shader: 36 instructions
-[2019.03.07-20.22.02:350][891]MaterialEditorStats: Texture samplers: 6/16
-[2019.03.07-20.22.02:350][891]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
-[2019.03.07-20.22.02:350][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.03.07-20.22.03:972][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.07-20.22.04:069][994]LogSlate: Window 'Dumpster' being destroyed
-[2019.03.07-20.22.04:076][994]LogSlate: Window 'Dumpster' being destroyed
-[2019.03.07-20.22.09:433][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.07-20.22.09:576][316]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Dumpster/Dumpster_Model_Export.Dumpster_Model_Export
-[2019.03.07-20.22.09:926][316]LogSlate: Took 0.004554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2019.03.07-20.22.27:606][368]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_ExportD1C39EED4A7E56F195E169B40E5865B5.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/Dumpster_Model_Export.uasset'
-[2019.03.07-20.22.29:279][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.07-20.22.29:376][473]LogSlate: Window 'Dumpster_Model_Export' being destroyed
-[2019.03.07-20.22.29:383][473]LogSlate: Window 'Dumpster_Model_Export' being destroyed
-[2019.03.07-20.22.30:998][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.07-20.22.31:121][570]LogActorFactory: Actor Factory created Dumpster_Model_Export
-[2019.03.07-20.22.33:109][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.07-20.23.13:213][194]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/L_blockout' took 0.024
-[2019.03.07-20.23.13:215][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_BaseColor] ([1] browsable assets)...
-[2019.03.07-20.23.13:223][194]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_BaseColor.Dumpster_Model_Export_Dumpster_BaseColor]
-[2019.03.07-20.23.13:224][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_BaseColor]
-[2019.03.07-20.23.13:247][194]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Dumpster_B900C874141149C05BD3817B832A147A5.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_BaseColor_Auto1.uasset'
-[2019.03.07-20.23.13:248][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_Normal] ([1] browsable assets)...
-[2019.03.07-20.23.13:257][194]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_Normal.Dumpster_Model_Export_Dumpster_Normal]
-[2019.03.07-20.23.13:257][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_Normal]
-[2019.03.07-20.23.13:279][194]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Dumpster_N84CDFCF843340B8C4383679A5955395D.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Dumpster/Dumpster_Model_Export_Dumpster_Normal_Auto1.uasset'
-[2019.03.07-20.23.13:280][194]LogFileHelpers: Auto-saving content packages took 0.066
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:888][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.07-21.22.29:888][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.07-21.22.29:889][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:889][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.07-21.22.29:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.07-21.22.29:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.07-21.22.29:892][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-21.22.29:892][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.07-21.22.29:908][  0]LogHAL: Display: Platform has ~ 16 GB [17053204480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.07-21.22.29:908][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.07-21.22.29:908][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.07-21.22.29:908][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.07-21.22.29:909][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.07-21.22.29:909][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.03.07-21.22.29:910][  0]LogInit: Computer: DESKTOP-CC382ON
+[2019.03.07-21.22.29:910][  0]LogInit: User: 17794
+[2019.03.07-21.22.29:910][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.07-21.22.29:910][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.07-21.22.29:910][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.07-21.22.29:910][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.07-21.22.29:910][  0]LogMemory: Process Physical Memory: 102.05 MB used, 102.06 MB peak
+[2019.03.07-21.22.29:910][  0]LogMemory: Process Virtual Memory: 91.21 MB used, 91.21 MB peak
+[2019.03.07-21.22.29:910][  0]LogMemory: Physical Memory: 11470.55 MB used,  4792.65 MB free, 16263.20 MB total
+[2019.03.07-21.22.29:910][  0]LogMemory: Virtual Memory: 4649.98 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.07-21.22.29:927][  0]LogInit: Using OS detected language (en-US).
+[2019.03.07-21.22.29:927][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.07-21.22.29:928][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.07-21.22.30:376][  0]LogStreaming: Display: Took  0.449s to InitEngineTextLocalization.
+[2019.03.07-21.22.30:376][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.07-21.22.30:428][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.07-21.22.30:428][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.07-21.22.30:722][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.07-21.22.30:722][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.07-21.22.30:801][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2019.03.07-21.22.30:801][  0]LogD3D11RHI:       16250/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.07-21.22.30:812][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.07-21.22.30:812][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.07-21.22.30:815][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.07-21.22.30:815][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.07-21.22.30:815][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.07-21.22.31:368][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.07-21.22.31:368][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.07-21.22.31:368][  0]LogWindows: EnumDisplayDevices:
+[2019.03.07-21.22.31:369][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.07-21.22.31:369][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.07-21.22.31:369][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.07-21.22.31:370][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.03.07-21.22.31:370][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.03.07-21.22.31:370][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.03.07-21.22.31:370][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.03.07-21.22.31:371][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.07-21.22.31:371][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2019.03.07-21.22.31:371][  0]LogD3D11RHI:   Driver Version: 385.73 (internal:22.21.13.8573, unified:385.73)
+[2019.03.07-21.22.31:371][  0]LogD3D11RHI:      Driver Date: 9-25-2017
+[2019.03.07-21.22.31:371][  0]LogRHI: Texture pool is 11375 MB (70% of 16250 MB)
+[2019.03.07-21.22.31:402][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.07-21.22.31:414][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.07-21.22.31:803][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.07-21.22.31:817][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.07-21.22.31:832][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.07-21.22.31:846][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.07-21.22.31:860][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.07-21.22.31:875][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.07-21.22.31:889][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.07-21.22.31:903][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.07-21.22.31:910][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-21.22.31:989][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.07-21.22.32:048][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.07-21.22.32:048][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.07-21.22.32:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.07-21.22.32:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.07-21.22.32:083][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.07-21.22.32:097][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.07-21.22.32:109][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.07-21.22.32:122][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.07-21.22.32:167][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.07-21.22.32:167][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.07-21.22.32:167][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.07-21.22.32:227][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Intermediate/Shaders/WorkingDirectory/1858600/).
+[2019.03.07-21.22.32:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/17794/AppData/Local/Temp/UnrealShaderWorkingDir/6D69D6684C4FDFFEAE9DDABBA6AD2331/'.
+[2019.03.07-21.22.32:229][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.07-21.22.32:229][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.07-21.22.32:229][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.07-21.22.32:791][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.07-21.22.32:863][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/17794/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.07-21.22.32:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/17794/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.07-21.22.32:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.07-21.22.32:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.07-21.22.32:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.07-21.22.32:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.07-21.22.32:877][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.07-21.22.32:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.07-21.22.32:878][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.07-21.22.32:890][  0]LogDerivedDataCache: Using Local data cache path C:/Users/17794/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.07-21.22.32:890][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.07-21.22.32:890][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.07-21.22.32:920][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.07-21.22.32:922][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.07-21.22.32:922][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.07-21.22.33:015][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2019.03.07-21.22.33:358][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-21.22.33:527][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.07-21.22.33:531][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.07-21.22.33:531][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.07-21.22.33:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.07-21.22.33:531][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.07-21.22.33:548][  0]LogNetVersion: DogDaysOfFall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1062122466)
+[2019.03.07-21.22.34:160][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.101523 seconds
+[2019.03.07-21.22.34:167][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.07-21.22.34:167][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.07-21.22.34:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.07-21.22.35:097][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.07-21.22.35:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.07-21.22.35:876][  0]SourceControl: Source control is disabled
+[2019.03.07-21.22.35:876][  0]SourceControl: Source control is disabled
+[2019.03.07-21.22.35:878][  0]SourceControl: Source control is disabled
+[2019.03.07-21.22.35:879][  0]SourceControl: Source control is disabled
+[2019.03.07-21.22.36:055][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.07-21.22.36:128][  0]LogOcInput: OculusInput pre-init called
+[2019.03.07-21.22.36:276][  0]LogEngine: Initializing Engine...
+[2019.03.07-21.22.36:277][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.07-21.22.36:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.07-21.22.36:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.07-21.22.36:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.07-21.22.36:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.07-21.22.36:538][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.07-21.22.36:553][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.07-21.22.36:631][  0]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.07-21.22.36:784][  0]LogInit: FAudioDevice initialized.
+[2019.03.07-21.22.36:784][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.07-21.22.36:941][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/17794/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.07-21.22.36:950][  0]LogInit: Texture streaming: Enabled
+[2019.03.07-21.22.36:979][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.07-21.22.37:622][  0]LogInit: Transaction tracking system initialized
+[2019.03.07-21.22.37:661][  0]BlueprintLog: New page: Editor Load
+[2019.03.07-21.22.37:764][  0]LocalizationService: Localization service is disabled
+[2019.03.07-21.22.38:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/' took 0.02s
+[2019.03.07-21.22.38:328][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.07-21.22.38:328][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.07-21.22.38:328][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.07-21.22.38:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.07-21.22.38:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.07-21.22.38:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.07-21.22.38:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.07-21.22.38:472][  0]SourceControl: Source control is disabled
+[2019.03.07-21.22.38:611][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.07-21.22.43:196][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.03.07-21.22.43:199][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.07-21.22.43:204][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.07-21.22.43:269][  0]Cmd: MAP LOAD FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/L_blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.07-21.22.43:270][  0]LightingResults: New page: Lighting Build
+[2019.03.07-21.22.43:274][  0]MapCheck: New page: Map Check
+[2019.03.07-21.22.43:274][  0]LightingResults: New page: Lighting Build
+[2019.03.07-21.22.43:449][  0]LogAIModule: Creating AISystem for world L_blockout
+[2019.03.07-21.22.43:456][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.07-21.22.43:491][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.07-21.22.43:491][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.289ms to complete.
+[2019.03.07-21.22.43:492][  0]LogFileHelpers: Loading map 'L_blockout' took 0.222
+[2019.03.07-21.22.43:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-21.22.43:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-21.22.43:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-21.22.43:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-21.22.43:712][  0]LogCollectionManager: Loaded 0 collections in 0.003807 seconds
+[2019.03.07-21.22.43:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Collections/' took 0.01s
+[2019.03.07-21.22.43:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Developers/17794/Collections/' took 0.00s
+[2019.03.07-21.22.43:732][  0]LogFileCache: Scanning file cache for directory 'C:/Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Collections/' took 0.00s
+[2019.03.07-21.22.43:732][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.07-21.22.43:747][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2651 classes and 620 folders.
+[2019.03.07-21.22.43:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.07-21.22.43:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.07-21.22.43:818][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.07-21.22.43:825][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.07-21.22.43:846][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.07-21.22.43:856][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.07-21.22.43:942][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.03.07-21.22.44:029][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.07-21.22.44:160][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.07-21.22.44:160][  0]LogLoad: (Engine Initialization) Total time: 16.36 seconds
+[2019.03.07-21.22.44:160][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.07-21.22.44:228][  0]LogAssetRegistry: Asset discovery search completed in 11.2363 seconds
+[2019.03.07-21.22.44:230][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.07-21.22.44:231][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2019.03.07-21.22.44:232][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.07-21.22.56:513][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.23.05:298][242]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.07-21.23.05:306][242]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/Alley.Alley
+[2019.03.07-21.23.07:354][242]LogSlate: Window 'Save Content' being destroyed
+[2019.03.07-21.23.07:364][242]Cmd: MAP LOAD FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.07-21.23.07:366][242]LightingResults: New page: Lighting Build
+[2019.03.07-21.23.07:368][242]LoadErrors: New page: Loading map: Alley.umap
+[2019.03.07-21.23.07:369][242]MapCheck: New page: Map Check
+[2019.03.07-21.23.07:370][242]LightingResults: New page: Lighting Build
+[2019.03.07-21.23.07:394][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.07-21.23.07:394][242]LogAIModule: Creating AISystem for world Alley
+[2019.03.07-21.23.07:449][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.07-21.23.07:449][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2019.03.07-21.23.07:454][242]LogFileHelpers: Loading map 'Alley' took 0.090
+[2019.03.07-21.23.36:961][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\Alley_Floor.fbx)
+[2019.03.07-21.23.36:979][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\Alley_Floor.fbx
+[2019.03.07-21.23.36:989][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.38:579][430]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.07-21.23.38:607][430]LogFbx: Warning: Triangulating static mesh pCube3
+[2019.03.07-21.23.38:663][430]LogStaticMesh: Building static mesh Alley_Floor...
+[2019.03.07-21.23.38:680][430]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Alley_FBX/Alley_Floor.Alley_Floor
+[2019.03.07-21.23.38:697][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.38:722][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\Bollard.fbx)
+[2019.03.07-21.23.38:749][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\Bollard.fbx
+[2019.03.07-21.23.38:759][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.40:244][430]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.07-21.23.40:280][430]LogFbx: Warning: Triangulating static mesh pCylinder6
+[2019.03.07-21.23.40:324][430]LogStaticMesh: Building static mesh Bollard...
+[2019.03.07-21.23.40:337][430]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Alley_FBX/Bollard.Bollard
+[2019.03.07-21.23.40:354][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.40:365][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\MainPillar.fbx)
+[2019.03.07-21.23.40:379][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\MainPillar.fbx
+[2019.03.07-21.23.40:386][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.40:387][430]LogFbx: Warning: Triangulating static mesh pCube74
+[2019.03.07-21.23.40:414][430]LogStaticMesh: Building static mesh MainPillar...
+[2019.03.07-21.23.40:428][430]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Alley_FBX/MainPillar.MainPillar
+[2019.03.07-21.23.40:442][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.40:447][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\Pipe.fbx)
+[2019.03.07-21.23.40:458][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\Pipe.fbx
+[2019.03.07-21.23.40:468][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.40:469][430]LogFbx: Warning: Triangulating static mesh pCube168
+[2019.03.07-21.23.40:799][430]LogStaticMesh: Building static mesh Pipe...
+[2019.03.07-21.23.40:955][430]LogStaticMesh: Built static mesh [0.16s] /Game/Art/Alley_FBX/Pipe.Pipe
+[2019.03.07-21.23.40:999][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:024][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\TopConcrete.fbx)
+[2019.03.07-21.23.41:037][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\TopConcrete.fbx
+[2019.03.07-21.23.41:044][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:044][430]LogFbx: Warning: Triangulating static mesh pCube51
+[2019.03.07-21.23.41:046][430]LogStaticMesh: Building static mesh TopConcrete...
+[2019.03.07-21.23.41:048][430]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Alley_FBX/TopConcrete.TopConcrete
+[2019.03.07-21.23.41:059][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:063][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\TopDeco.fbx)
+[2019.03.07-21.23.41:077][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\TopDeco.fbx
+[2019.03.07-21.23.41:083][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:083][430]LogFbx: Warning: Triangulating static mesh pCube169
+[2019.03.07-21.23.41:105][430]LogStaticMesh: Building static mesh TopDeco...
+[2019.03.07-21.23.41:122][430]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Alley_FBX/TopDeco.TopDeco
+[2019.03.07-21.23.41:137][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:144][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\Wall_Left.fbx)
+[2019.03.07-21.23.41:159][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\Wall_Left.fbx
+[2019.03.07-21.23.41:166][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:167][430]LogFbx: Warning: Triangulating static mesh polySurface17
+[2019.03.07-21.23.41:168][430]LogStaticMesh: Building static mesh Wall_Left...
+[2019.03.07-21.23.41:169][430]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Alley_FBX/Wall_Left.Wall_Left
+[2019.03.07-21.23.41:180][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:185][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\WallDoor_Left.fbx)
+[2019.03.07-21.23.41:196][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\WallDoor_Left.fbx
+[2019.03.07-21.23.41:202][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:203][430]LogFbx: Warning: Triangulating static mesh pCube167
+[2019.03.07-21.23.41:236][430]LogStaticMesh: Building static mesh WallDoor_Left...
+[2019.03.07-21.23.41:246][430]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Alley_FBX/WallDoor_Left.WallDoor_Left
+[2019.03.07-21.23.41:260][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:267][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\WallEdge.fbx)
+[2019.03.07-21.23.41:281][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\WallEdge.fbx
+[2019.03.07-21.23.41:290][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:290][430]LogFbx: Warning: Triangulating static mesh polySurface16
+[2019.03.07-21.23.41:292][430]LogStaticMesh: Building static mesh WallEdge...
+[2019.03.07-21.23.41:293][430]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Alley_FBX/WallEdge.WallEdge
+[2019.03.07-21.23.41:305][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:309][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\WallRight.fbx)
+[2019.03.07-21.23.41:324][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\WallRight.fbx
+[2019.03.07-21.23.41:331][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:331][430]LogFbx: Warning: Triangulating static mesh pCube15
+[2019.03.07-21.23.41:333][430]LogStaticMesh: Building static mesh WallRight...
+[2019.03.07-21.23.41:335][430]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Alley_FBX/WallRight.WallRight
+[2019.03.07-21.23.41:347][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.41:353][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\17794\Desktop\DogDays_Fbx\WallWindow_Right.fbx)
+[2019.03.07-21.23.41:366][430]LogFbx: Loading FBX Scene from C:\Users\17794\Desktop\DogDays_Fbx\WallWindow_Right.fbx
+[2019.03.07-21.23.41:372][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-21.23.41:373][430]LogFbx: Warning: Triangulating static mesh pCube170
+[2019.03.07-21.23.41:388][430]LogStaticMesh: Building static mesh WallWindow_Right...
+[2019.03.07-21.23.41:398][430]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Alley_FBX/WallWindow_Right.WallWindow_Right
+[2019.03.07-21.23.41:446][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.07-21.23.50:003][894]LogSlate: Window 'Message Log' being destroyed
+[2019.03.07-21.23.50:013][894]LogSlate: Window 'Message Log' being destroyed
+[2019.03.07-21.23.59:313][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.23.59:430][447]LogActorFactory: Actor Factory created Alley_Floor
+[2019.03.07-21.23.59:432][447]LogActorFactory: Actor Factory created Bollard
+[2019.03.07-21.23.59:433][447]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.23.59:435][447]LogActorFactory: Actor Factory created Pipe
+[2019.03.07-21.23.59:436][447]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.23.59:438][447]LogActorFactory: Actor Factory created TopDeco
+[2019.03.07-21.23.59:440][447]LogActorFactory: Actor Factory created Wall_Left
+[2019.03.07-21.23.59:441][447]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.07-21.23.59:443][447]LogActorFactory: Actor Factory created WallEdge
+[2019.03.07-21.23.59:444][447]LogActorFactory: Actor Factory created WallRight
+[2019.03.07-21.23.59:445][447]LogActorFactory: Actor Factory created WallWindow_Right
+[2019.03.07-21.24.00:294][484]LogActorFactory: Actor Factory created Alley_Floor
+[2019.03.07-21.24.00:325][484]LogActorFactory: Actor Factory created Bollard
+[2019.03.07-21.24.00:344][484]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.24.00:363][484]LogActorFactory: Actor Factory created Pipe
+[2019.03.07-21.24.00:383][484]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.24.00:403][484]LogActorFactory: Actor Factory created TopDeco
+[2019.03.07-21.24.00:425][484]LogActorFactory: Actor Factory created Wall_Left
+[2019.03.07-21.24.00:449][484]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.07-21.24.00:468][484]LogActorFactory: Actor Factory created WallEdge
+[2019.03.07-21.24.00:493][484]LogActorFactory: Actor Factory created WallRight
+[2019.03.07-21.24.00:521][484]LogActorFactory: Actor Factory created WallWindow_Right
+[2019.03.07-21.24.00:971][488]Cmd: TRANSACTION UNDO
+[2019.03.07-21.24.00:971][488]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.24.02:029][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.24.02:164][553]LogActorFactory: Actor Factory created Alley_Floor
+[2019.03.07-21.24.02:166][553]LogActorFactory: Actor Factory created Bollard
+[2019.03.07-21.24.02:169][553]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.24.02:171][553]LogActorFactory: Actor Factory created Pipe
+[2019.03.07-21.24.02:173][553]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.24.02:175][553]LogActorFactory: Actor Factory created TopDeco
+[2019.03.07-21.24.02:177][553]LogActorFactory: Actor Factory created Wall_Left
+[2019.03.07-21.24.02:179][553]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.07-21.24.02:181][553]LogActorFactory: Actor Factory created WallEdge
+[2019.03.07-21.24.02:183][553]LogActorFactory: Actor Factory created WallRight
+[2019.03.07-21.24.02:186][553]LogActorFactory: Actor Factory created WallWindow_Right
+[2019.03.07-21.24.02:539][570]LogActorFactory: Actor Factory created Alley_Floor
+[2019.03.07-21.24.02:557][570]LogActorFactory: Actor Factory created Bollard
+[2019.03.07-21.24.02:575][570]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.24.02:593][570]LogActorFactory: Actor Factory created Pipe
+[2019.03.07-21.24.02:612][570]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.24.02:628][570]LogActorFactory: Actor Factory created TopDeco
+[2019.03.07-21.24.02:646][570]LogActorFactory: Actor Factory created Wall_Left
+[2019.03.07-21.24.02:669][570]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.07-21.24.02:689][570]LogActorFactory: Actor Factory created WallEdge
+[2019.03.07-21.24.02:712][570]LogActorFactory: Actor Factory created WallRight
+[2019.03.07-21.24.02:740][570]LogActorFactory: Actor Factory created WallWindow_Right
+[2019.03.07-21.24.03:863][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.24.11:664][ 84]Cmd: DELETE
+[2019.03.07-21.24.11:664][ 84]Cmd: ACTOR DELETE
+[2019.03.07-21.24.11:685][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:686][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:686][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:686][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:687][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:687][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:688][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:688][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:689][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:689][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:690][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.24.11:716][ 84]LogEditorActor: Deleted 11 Actors (0.045 secs)
+[2019.03.07-21.24.12:923][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.24.15:699][314]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.03.07-21.24.15:745][314]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.07-21.24.15:745][314]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.03.07-21.24.15:794][314]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.07-21.24.15:794][314]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.07-21.24.15:794][314]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.03.07-21.24.15:864][314]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.03.07-21.24.15:983][314]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.07-21.24.15:983][314]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.03.07-21.24.16:121][314]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.07-21.24.16:160][314]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.07-21.24.16:207][314]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.07-21.24.16:246][314]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.07-21.24.16:309][314]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.03.07-21.24.16:353][314]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.07-21.24.16:411][314]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.03.07-21.24.16:447][314]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.03.07-21.24.19:715][480]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.03.07-21.24.22:820][649]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.03.07-21.24.24:769][764]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.03.07-21.24.24:966][771]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.03.07-21.24.27:682][903]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.03.07-21.24.31:771][107]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.03.07-21.24.35:554][285]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.03.07-21.24.36:353][310]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.07-21.24.36:684][328]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.07-21.24.39:064][433]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.07-21.24.41:730][546]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.07-21.24.42:406][572]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.07-21.24.42:518][576]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.07-21.24.45:269][681]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.07-21.24.47:509][781]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.07-21.24.47:954][797]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.07-21.24.48:809][825]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.07-21.24.50:746][913]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.07-21.26.05:280][383]LogActorFactory: Actor Factory created Skybox
+[2019.03.07-21.26.06:061][427]LogActorFactory: Actor Factory created Skybox
+[2019.03.07-21.26.08:006][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.26.09:495][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.26.10:021][644]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.07-21.26.11:655][740]Cmd: TRANSACTION UNDO
+[2019.03.07-21.26.11:655][740]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.26.15:944][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.26.16:897][ 42]LogActorFactory: Actor Factory created Alley_Floor
+[2019.03.07-21.26.17:560][ 76]LogActorFactory: Actor Factory created Alley_Floor
+[2019.03.07-21.26.18:111][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.26.21:134][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.26.32:122][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.26.33:382][965]Cmd: TRANSACTION UNDO
+[2019.03.07-21.26.33:382][965]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.26.33:847][990]Cmd: TRANSACTION UNDO
+[2019.03.07-21.26.33:848][990]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.07-21.26.34:293][ 16]Cmd: TRANSACTION UNDO
+[2019.03.07-21.26.34:294][ 16]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.26.43:430][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.26.46:672][741]Cmd: TRANSACTION UNDO
+[2019.03.07-21.26.46:672][741]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.26.47:940][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.26.57:561][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.27.00:757][510]LogActorFactory: Actor Factory created Wall_Left
+[2019.03.07-21.27.00:889][514]LogActorFactory: Actor Factory created Wall_Left
+[2019.03.07-21.27.05:802][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.27.07:043][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.07-21.27.07:572][897]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-21.27.11:048][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.07-21.27.16:906][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.27.17:848][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.07-21.27.22:843][779]Cmd: TRANSACTION UNDO
+[2019.03.07-21.27.22:844][779]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.27.25:911][960]Cmd: TRANSACTION UNDO
+[2019.03.07-21.27.25:911][960]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.27.27:029][ 24]Cmd: TRANSACTION UNDO
+[2019.03.07-21.27.27:029][ 24]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.27.28:651][119]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.27.46:897][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.27.47:744][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.27.51:751][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.27.51:882][456]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.07-21.27.53:260][533]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.07-21.28.11:394][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.28.13:681][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.20:184][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.28.24:530][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.27:203][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.28.28:954][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.31:350][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.28.33:782][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.34:376][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.07-21.28.38:830][170]Cmd: TRANSACTION UNDO
+[2019.03.07-21.28.38:830][170]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.28.39:701][220]Cmd: TRANSACTION UNDO
+[2019.03.07-21.28.39:701][220]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.07-21.28.40:431][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.07-21.28.42:539][383]Cmd: TRANSACTION UNDO
+[2019.03.07-21.28.42:539][383]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.28.42:882][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.44:759][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.28.48:887][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.50:597][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.28.52:037][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.28.54:548][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.28.58:021][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.29.02:627][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.30.10:775][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.30.45:978][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.30.54:670][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.30.55:730][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.30.55:754][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Alley" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.07-21.30.55:807][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/AlleyBE51C7524E9C0C99F72EC68025BDA137.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap'
+[2019.03.07-21.30.55:843][ 54]LogFileHelpers: Saving map 'Alley' took 0.089
+[2019.03.07-21.30.55:862][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Bollard" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Bollard.uasset" SILENT=true
+[2019.03.07-21.30.55:880][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Bollard683BF7FC4A96FA2453AE86BCAE951D37.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Bollard.uasset'
+[2019.03.07-21.30.55:902][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Alley_Floor" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Alley_Floor.uasset" SILENT=true
+[2019.03.07-21.30.55:926][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Floor5AFA8B30498FA13C4B6867BC8C5E7D0E.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Alley_Floor.uasset'
+[2019.03.07-21.30.55:952][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/MainPillar" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/MainPillar.uasset" SILENT=true
+[2019.03.07-21.30.55:983][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar8666C7E947B04D35625A55AF1DCE0ACC.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/MainPillar.uasset'
+[2019.03.07-21.30.56:007][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Pipe" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Pipe.uasset" SILENT=true
+[2019.03.07-21.30.56:027][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/PipeE0EE91974F1C6253505C6B8390098638.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Pipe.uasset'
+[2019.03.07-21.30.56:048][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/TopConcrete" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/TopConcrete.uasset" SILENT=true
+[2019.03.07-21.30.56:067][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/TopConcreteF464AA78405CBAF1D014F5A637CF8D57.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/TopConcrete.uasset'
+[2019.03.07-21.30.56:091][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/TopDeco" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/TopDeco.uasset" SILENT=true
+[2019.03.07-21.30.56:116][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/TopDecoA05E524D4C6935006888D180002D51D2.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/TopDeco.uasset'
+[2019.03.07-21.30.56:145][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Wall_Left" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Wall_Left.uasset" SILENT=true
+[2019.03.07-21.30.56:172][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Wall_Left045F5D8246F4D010940984A437B2304B.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Wall_Left.uasset'
+[2019.03.07-21.30.56:194][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallDoor_Left" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallDoor_Left.uasset" SILENT=true
+[2019.03.07-21.30.56:214][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallDoor_LeftF2A5D6944445DF0F954A60A0502DE4DA.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallDoor_Left.uasset'
+[2019.03.07-21.30.56:234][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallEdge" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallEdge.uasset" SILENT=true
+[2019.03.07-21.30.56:254][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallEdgeD5021D6A4A233DA7232882B173343D92.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallEdge.uasset'
+[2019.03.07-21.30.56:276][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallRight" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallRight.uasset" SILENT=true
+[2019.03.07-21.30.56:294][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallRightB2044C58428783D20ABBE7B256ACCE34.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallRight.uasset'
+[2019.03.07-21.30.56:317][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallWindow_Right" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallWindow_Right.uasset" SILENT=true
+[2019.03.07-21.30.56:338][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallWindow_Right3A57DAB14B3FE083DFADAD9E61847816.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallWindow_Right.uasset'
