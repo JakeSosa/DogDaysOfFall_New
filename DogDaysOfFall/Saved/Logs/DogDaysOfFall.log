@@ -863,3 +863,362 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.07-21.30.56:294][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallRightB2044C58428783D20ABBE7B256ACCE34.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallRight.uasset'
 [2019.03.07-21.30.56:317][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallWindow_Right" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallWindow_Right.uasset" SILENT=true
 [2019.03.07-21.30.56:338][ 54]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallWindow_Right3A57DAB14B3FE083DFADAD9E61847816.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallWindow_Right.uasset'
+[2019.03.07-21.31.18:063][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.31.23:789][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.07-21.31.24:673][592]Cmd: EDIT COPY
+[2019.03.07-21.31.24:815][599]Cmd: EDIT PASTE
+[2019.03.07-21.31.33:414][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.31.34:186][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.31.35:491][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left2)
+[2019.03.07-21.31.37:085][293]Cmd: TRANSACTION UNDO
+[2019.03.07-21.31.37:085][293]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.31.41:401][547]Cmd: TRANSACTION UNDO
+[2019.03.07-21.31.41:401][547]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.31.43:196][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.31.45:610][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left2)
+[2019.03.07-21.31.46:424][812]Cmd: EDIT COPY
+[2019.03.07-21.31.46:863][836]Cmd: EDIT PASTE
+[2019.03.07-21.31.49:689][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.31.51:456][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left3)
+[2019.03.07-21.31.52:609][157]Cmd: EDIT COPY
+[2019.03.07-21.31.52:768][166]Cmd: EDIT PASTE
+[2019.03.07-21.31.57:632][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left3)
+[2019.03.07-21.31.58:105][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.31.59:436][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left4)
+[2019.03.07-21.32.03:877][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.32.05:216][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left4)
+[2019.03.07-21.32.09:738][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.32.16:929][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.32.21:227][784]Cmd: TRANSACTION UNDO
+[2019.03.07-21.32.21:227][784]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.32.21:808][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.32.34:870][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.33.29:355][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.33.29:467][904]LogActorFactory: Actor Factory created WallWindow_Right
+[2019.03.07-21.33.31:991][ 48]LogActorFactory: Actor Factory created WallWindow_Right
+[2019.03.07-21.33.41:549][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow_Right)
+[2019.03.07-21.33.45:945][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.33.46:312][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.33.48:632][ 10]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-21.34.37:797][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.34.40:754][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.34.41:737][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.34.54:458][880]Cmd: TRANSACTION UNDO
+[2019.03.07-21.34.54:458][880]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.34.55:318][925]Cmd: TRANSACTION UNDO
+[2019.03.07-21.34.55:318][925]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.34.55:742][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.34.59:199][141]Cmd: TRANSACTION UNDO
+[2019.03.07-21.34.59:199][141]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.35.00:221][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.35.04:382][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.35.42:398][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.35.45:736][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.35.51:494][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.35.51:612][210]LogActorFactory: Actor Factory created WallRight
+[2019.03.07-21.35.53:692][329]LogActorFactory: Actor Factory created WallRight
+[2019.03.07-21.36.09:961][285]Cmd: TRANSACTION UNDO
+[2019.03.07-21.36.09:961][285]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.36.11:134][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.36.19:119][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.37.04:894][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.07-21.37.06:542][569]Cmd: TRANSACTION UNDO
+[2019.03.07-21.37.06:543][569]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.37.10:027][773]Cmd: EDIT COPY
+[2019.03.07-21.37.10:343][785]Cmd: EDIT PASTE
+[2019.03.07-21.37.13:362][960]Cmd: EDIT COPY
+[2019.03.07-21.37.13:511][967]Cmd: EDIT PASTE
+[2019.03.07-21.37.19:601][323]Cmd: EDIT COPY
+[2019.03.07-21.37.19:834][334]Cmd: EDIT PASTE
+[2019.03.07-21.37.32:477][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.37.33:623][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.37.33:713][154]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.37.36:840][331]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.37.37:919][394]Cmd: DELETE
+[2019.03.07-21.37.37:919][394]Cmd: ACTOR DELETE
+[2019.03.07-21.37.37:922][394]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.37.37:948][394]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.03.07-21.37.38:145][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.07-21.37.43:102][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.37.47:894][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.37.47:993][965]LogActorFactory: Actor Factory created Pipe
+[2019.03.07-21.37.49:222][ 26]LogActorFactory: Actor Factory created Pipe
+[2019.03.07-21.38.54:230][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.38.59:894][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.39.00:034][215]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.39.03:060][380]LogActorFactory: Actor Factory created MainPillar
+[2019.03.07-21.39.16:157][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.39.21:403][450]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.03.07-21.39.22:189][495]Cmd: EDIT COPY
+[2019.03.07-21.39.22:337][503]Cmd: EDIT PASTE
+[2019.03.07-21.39.25:105][666]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-21.39.25:729][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.39.28:206][838]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.03.07-21.39.32:464][ 88]Cmd: TRANSACTION UNDO
+[2019.03.07-21.39.32:465][ 88]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.39.42:703][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainPillar)
+[2019.03.07-21.39.47:713][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.39.55:223][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainPillar)
+[2019.03.07-21.39.59:807][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.40.18:065][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainPillar)
+[2019.03.07-21.40.19:234][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.40.34:150][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.40.59:806][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.41.06:653][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.41.06:796][623]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.41.07:763][678]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.41.08:179][701]Cmd: TRANSACTION UNDO
+[2019.03.07-21.41.08:179][701]LogEditorTransaction: Undo Create Actors
+[2019.03.07-21.41.12:915][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.41.13:065][970]LogActorFactory: Actor Factory created WallEdge
+[2019.03.07-21.41.16:094][140]LogActorFactory: Actor Factory created WallEdge
+[2019.03.07-21.41.28:970][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.07-21.41.31:759][ 49]Cmd: TRANSACTION UNDO
+[2019.03.07-21.41.31:759][ 49]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.41.33:197][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallEdge)
+[2019.03.07-21.41.34:658][216]Cmd: EDIT COPY
+[2019.03.07-21.41.35:025][235]Cmd: EDIT PASTE
+[2019.03.07-21.41.39:382][490]Cmd: EDIT COPY
+[2019.03.07-21.41.39:490][494]Cmd: EDIT PASTE
+[2019.03.07-21.41.42:798][688]Cmd: DELETE
+[2019.03.07-21.41.42:798][688]Cmd: ACTOR DELETE
+[2019.03.07-21.41.42:800][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.41.42:822][688]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.03.07-21.41.43:635][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallEdge)
+[2019.03.07-21.41.45:392][836]Cmd: EDIT COPY
+[2019.03.07-21.41.45:512][840]Cmd: EDIT PASTE
+[2019.03.07-21.42.07:785][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.42.09:816][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallEdge3)
+[2019.03.07-21.42.13:580][449]Cmd: EDIT COPY
+[2019.03.07-21.42.13:685][452]Cmd: EDIT PASTE
+[2019.03.07-21.42.28:630][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.42.36:693][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe)
+[2019.03.07-21.42.40:023][983]Cmd: TRANSACTION UNDO
+[2019.03.07-21.42.40:023][983]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.42.41:043][ 43]Cmd: EDIT COPY
+[2019.03.07-21.42.41:179][ 49]Cmd: EDIT PASTE
+[2019.03.07-21.42.43:139][160]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.42.48:983][498]Cmd: EDIT COPY
+[2019.03.07-21.42.49:107][504]Cmd: EDIT PASTE
+[2019.03.07-21.42.54:269][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.43.04:397][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.43.16:866][ 79]Cmd: EDIT COPY
+[2019.03.07-21.43.17:160][ 95]Cmd: EDIT PASTE
+[2019.03.07-21.43.19:784][237]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.43.23:661][456]Cmd: EDIT COPY
+[2019.03.07-21.43.24:087][479]Cmd: EDIT PASTE
+[2019.03.07-21.43.26:643][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.43.37:991][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.43.45:557][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe5)
+[2019.03.07-21.43.48:062][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left4)
+[2019.03.07-21.43.54:091][225]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Skybox)
+[2019.03.07-21.43.58:983][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.44.53:156][718]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto119F6751D45F3F67DCD6991A03BDC8BAA.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto1.umap'
+[2019.03.07-21.44.53:165][718]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.163
+[2019.03.07-21.44.53:165][718]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2019.03.07-21.45.04:040][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.45.07:119][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.45.12:830][315]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.45.36:409][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.45.43:907][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.45.45:837][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.47.13:594][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.47.13:720][286]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.47.15:068][354]LogActorFactory: Actor Factory created TopConcrete
+[2019.03.07-21.47.37:131][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.47.38:413][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.47.42:172][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.47.47:721][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.47.47:843][186]LogActorFactory: Actor Factory created TopDeco
+[2019.03.07-21.47.48:626][232]LogActorFactory: Actor Factory created TopDeco
+[2019.03.07-21.47.50:132][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.47.53:846][529]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.48.02:427][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.48.05:029][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.48.06:322][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.48.06:806][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.48.07:773][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.48.13:365][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.48.15:532][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.48.31:704][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.48.34:130][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.07-21.48.40:824][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.48.44:046][382]Cmd: EDIT COPY
+[2019.03.07-21.48.44:371][399]Cmd: EDIT PASTE
+[2019.03.07-21.48.54:589][980]Cmd: EDIT COPY
+[2019.03.07-21.48.54:816][990]Cmd: EDIT PASTE
+[2019.03.07-21.49.06:296][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.49.07:503][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete3)
+[2019.03.07-21.49.09:862][816]Cmd: EDIT COPY
+[2019.03.07-21.49.09:990][819]Cmd: EDIT PASTE
+[2019.03.07-21.49.13:080][987]Cmd: EDIT COPY
+[2019.03.07-21.49.13:253][996]Cmd: EDIT PASTE
+[2019.03.07-21.49.16:454][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.49.29:058][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.07-21.49.30:721][ 13]Cmd: EDIT COPY
+[2019.03.07-21.49.32:892][125]Cmd: TRANSACTION UNDO
+[2019.03.07-21.49.32:892][125]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.49.33:465][156]Cmd: EDIT COPY
+[2019.03.07-21.49.33:851][178]Cmd: EDIT PASTE
+[2019.03.07-21.49.40:250][547]Cmd: DELETE
+[2019.03.07-21.49.40:250][547]Cmd: ACTOR DELETE
+[2019.03.07-21.49.40:255][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.49.40:279][547]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.03.07-21.49.41:316][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.07-21.50.04:657][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete5)
+[2019.03.07-21.50.05:184][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.50.26:105][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.07-21.50.29:068][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.50.36:046][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.07-21.50.40:590][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.51.06:405][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.51.32:572][893]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TopConcrete2)
+[2019.03.07-21.51.32:632][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.51.33:163][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.07-21.51.35:629][ 58]Cmd: EDIT COPY
+[2019.03.07-21.51.35:823][ 64]Cmd: EDIT PASTE
+[2019.03.07-21.51.39:194][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete2)
+[2019.03.07-21.51.43:914][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.07-21.51.46:476][665]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (TopDeco2)
+[2019.03.07-21.51.55:233][ 55]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.03.07-21.52.08:510][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.52.23:444][702]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.03.07-21.52.24:264][748]Cmd: EDIT COPY
+[2019.03.07-21.52.24:444][756]Cmd: EDIT PASTE
+[2019.03.07-21.52.27:001][905]Cmd: TRANSACTION UNDO
+[2019.03.07-21.52.27:002][905]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.52.34:916][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.52.39:849][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.52.46:956][978]LogTexture: Display: Building textures: Dumpster_Model_Export_Dumpster_BaseColor (AutoDXT, 2048X2048)
+[2019.03.07-21.52.46:956][978]LogTexture: Display: Building textures: Dumpster_Model_Export_Dumpster_Normal (BC5, 2048X2048)
+[2019.03.07-21.52.46:956][978]LogMaterial: Display: Missing cached shader map for material Dumpster, compiling. 
+[2019.03.07-21.52.47:006][978]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-21.52.47:006][978]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.07-21.52.47:006][978]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-21.52.47:018][978]LogActorFactory: Actor Factory created Dumpster_Model_Export
+[2019.03.07-21.52.47:026][978]LogActorFactory: Actor Factory created Dumpster_Model_Export
+[2019.03.07-21.52.48:399][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.52.51:655][236]Cmd: TRANSACTION UNDO
+[2019.03.07-21.52.51:655][236]LogEditorTransaction: Undo Scale Actors
+[2019.03.07-21.52.54:665][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.53.22:651][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.53.33:812][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainPillar)
+[2019.03.07-21.53.34:393][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.53.36:106][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.53.41:338][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.53.43:645][267]LogActorFactory: Actor Factory created SM_boxSingle
+[2019.03.07-21.53.44:399][309]LogActorFactory: Actor Factory created SM_boxSingle
+[2019.03.07-21.53.45:576][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle)
+[2019.03.07-21.53.46:766][444]Cmd: DELETE
+[2019.03.07-21.53.46:767][444]Cmd: ACTOR DELETE
+[2019.03.07-21.53.46:770][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.07-21.53.46:792][444]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.07-21.53.47:462][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.53.49:633][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle2)
+[2019.03.07-21.53.53:735][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left3)
+[2019.03.07-21.53.54:156][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.53.55:250][934]Cmd: TRANSACTION UNDO
+[2019.03.07-21.53.55:250][934]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.07-21.53.55:462][943]Cmd: TRANSACTION UNDO
+[2019.03.07-21.53.55:463][943]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.07-21.53.55:938][966]Cmd: TRANSACTION UNDO
+[2019.03.07-21.53.55:938][966]LogEditorTransaction: Undo Rotate Actors
+[2019.03.07-21.53.58:330][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.54.00:850][220]LogActorFactory: Actor Factory created SM_Box_pilecombined_SM_box_3
+[2019.03.07-21.54.01:468][251]LogActorFactory: Actor Factory created SM_Box_pilecombined_SM_box_3
+[2019.03.07-21.54.15:043][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle2)
+[2019.03.07-21.54.17:448][166]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.54.31:670][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.54.41:616][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete5)
+[2019.03.07-21.54.59:638][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallEdge)
+[2019.03.07-21.55.25:821][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.55.26:002][ 49]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto22EC683114F17F793FD5594B372FDACEC.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto2.umap'
+[2019.03.07-21.55.26:009][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.153
+[2019.03.07-21.55.26:009][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.153
+[2019.03.07-21.55.32:540][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.55.39:593][843]Cmd: TRANSACTION UNDO
+[2019.03.07-21.55.39:593][843]LogEditorTransaction: Undo Move Actors
+[2019.03.07-21.55.42:775][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.55.58:012][617]Cmd: EDIT COPY
+[2019.03.07-21.55.58:263][631]Cmd: EDIT PASTE
+[2019.03.07-21.56.01:464][810]Cmd: TRANSACTION UNDO
+[2019.03.07-21.56.01:464][810]LogEditorTransaction: Undo Scale Actors
+[2019.03.07-21.56.03:392][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.56.45:666][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.56.55:062][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.57.04:950][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainPillar)
+[2019.03.07-21.57.06:451][583]Cmd: EDIT COPY
+[2019.03.07-21.57.06:888][606]Cmd: EDIT PASTE
+[2019.03.07-21.57.13:560][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.57.18:365][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.57.47:006][944]LogActorFactory: Actor Factory created Bollard
+[2019.03.07-21.57.48:711][ 42]LogActorFactory: Actor Factory created Bollard
+[2019.03.07-21.57.48:890][ 50]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.58.18:142][758]Cmd: EDIT COPY
+[2019.03.07-21.58.18:338][766]Cmd: EDIT PASTE
+[2019.03.07-21.58.30:453][471]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bollard)
+[2019.03.07-21.58.30:511][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.58.31:362][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left2)
+[2019.03.07-21.58.31:817][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bollard)
+[2019.03.07-21.58.34:655][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.58.37:758][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.58.44:455][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bollard2)
+[2019.03.07-21.58.46:793][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bollard)
+[2019.03.07-21.58.49:464][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-21.58.53:535][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bollard)
+[2019.03.07-21.58.55:306][890]Cmd: EDIT COPY
+[2019.03.07-21.58.55:549][901]Cmd: EDIT PASTE
+[2019.03.07-21.59.04:468][413]Cmd: EDIT PASTE
+[2019.03.07-21.59.10:370][748]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.07-21.59.18:115][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-21.59.18:670][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-21.59.43:614][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.00.03:577][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-22.00.03:736][ 50]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:115784).
+[2019.03.07-22.00.03:791][ 51]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:115786).
+[2019.03.07-22.00.03:848][ 52]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:115788).
+[2019.03.07-22.00.03:914][ 53]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:115790).
+[2019.03.07-22.00.03:978][ 54]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:115792).
+[2019.03.07-22.00.04:036][ 55]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:115794).
+[2019.03.07-22.00.04:086][ 56]LogRenderer: Reallocating scene render targets to support 1208x680 Format 10 NumSamples 1 (Frame:115796).
+[2019.03.07-22.00.04:137][ 57]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:115798).
+[2019.03.07-22.00.04:190][ 58]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:115800).
+[2019.03.07-22.00.04:247][ 59]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:115802).
+[2019.03.07-22.00.04:343][ 61]LogRenderer: Reallocating scene render targets to support 1208x724 Format 10 NumSamples 1 (Frame:115806).
+[2019.03.07-22.00.04:387][ 62]LogRenderer: Reallocating scene render targets to support 1208x728 Format 10 NumSamples 1 (Frame:115808).
+[2019.03.07-22.00.04:532][ 69]LogRenderer: Reallocating scene render targets to support 1208x732 Format 10 NumSamples 1 (Frame:115810).
+[2019.03.07-22.00.04:587][ 70]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:115812).
+[2019.03.07-22.00.04:697][ 73]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:115816).
+[2019.03.07-22.00.05:012][ 88]LogRenderer: Reallocating scene render targets to support 1208x748 Format 10 NumSamples 1 (Frame:115820).
+[2019.03.07-22.00.28:266][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.00.54:743][112]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (MainPillar)
+[2019.03.07-22.00.54:793][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.02.38:894][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-22.02.44:927][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle2)
+[2019.03.07-22.02.45:772][631]Cmd: EDIT COPY
+[2019.03.07-22.02.46:032][645]Cmd: EDIT PASTE
+[2019.03.07-22.02.58:011][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-22.03.06:399][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle3)
+[2019.03.07-22.03.13:589][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-22.04.01:869][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-22.04.04:766][298]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.03.07-22.04.15:421][931]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WallDoor_Left)
+[2019.03.07-22.04.15:481][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.04.16:920][  7]Cmd: TRANSACTION UNDO
+[2019.03.07-22.04.16:920][  7]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.03.07-22.04.17:614][ 42]Cmd: TRANSACTION UNDO
+[2019.03.07-22.04.17:614][ 42]LogEditorTransaction: Undo Move Actors
+[2019.03.07-22.05.02:119][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle3)
+[2019.03.07-22.06.09:857][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.06.10:044][826]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto31FAA4707431C3A974510E7818C197298.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto3.umap'
+[2019.03.07-22.06.10:051][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.160
+[2019.03.07-22.06.10:051][826]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.160
+[2019.03.07-22.07.41:500][776]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.03.07-22.07.52:443][428]Cmd: TRANSACTION UNDO
+[2019.03.07-22.07.52:443][428]LogEditorTransaction: Undo Move Actors
+[2019.03.07-22.07.58:609][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox)
+[2019.03.07-22.08.56:041][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.08.57:511][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-22.08.57:531][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Alley" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.07-22.08.57:685][295]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley722F59EF491D45BCAD9A679F41B5FFCE.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap'
+[2019.03.07-22.08.57:722][295]LogFileHelpers: Saving map 'Alley' took 0.192
