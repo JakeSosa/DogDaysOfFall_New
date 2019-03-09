@@ -4115,3 +4115,1551 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.08-23.18.19:114][476]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar_blinn1_BaseColorEEE6C43B4E358E6C4874DEA0B763C051.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/MainPillar/MainPillar_blinn1_BaseColor.uasset'
 [2019.03.08-23.18.19:886][476]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar_blinn1_Normal884B7CEF4B0B7CE2D05FCD94661F7E90.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/MainPillar/MainPillar_blinn1_Normal.uasset'
 [2019.03.08-23.18.19:941][476]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillarCC5C640248D0352F81B85B858854DDE1.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/MainPillar/MainPillar.uasset'
+[2019.03.08-23.19.12:751][714]LogEditorViewport: Clicking Background
+[2019.03.08-23.22.01:397][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow_Right)
+[2019.03.08-23.22.02:031][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow_Right)
+[2019.03.08-23.22.02:479][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow_Right)
+[2019.03.08-23.22.03:181][793]LogEditorViewport: Clicking Background
+[2019.03.08-23.23.02:962][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.14:489][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.15:231][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.15:394][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.22:225][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.26:445][655]LogRenderer: Reallocating scene render targets to support 1556x840 Format 10 NumSamples 1 (Frame:164616).
+[2019.03.08-23.23.26:549][656]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:164619).
+[2019.03.08-23.23.26:550][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.56:533][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.56:938][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.23.58:384][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.24.00:633][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.24.01:814][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.24.02:609][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.24.04:772][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.24.26:087][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.24.26:674][129]LogEditorViewport: Clicking Background
+[2019.03.08-23.25.40:247][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.26.19:903][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.08-23.26.20:073][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.08-23.26.20:621][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Left)
+[2019.03.08-23.26.20:666][743]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.08-23.26.21:504][789]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Wall_Left)
+[2019.03.08-23.26.24:021][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.26.25:736][ 32]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/Alley_Floor.Alley_Floor
+[2019.03.08-23.26.29:891][146]LogSlate: Window 'Message' being destroyed
+[2019.03.08-23.26.30:306][146]LogMaterial: Display: Missing cached shader map for material MainPillar, compiling. 
+[2019.03.08-23.26.30:379][146]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.08-23.26.30:379][146]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.08-23.26.30:379][146]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.08-23.26.30:379][146]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.08-23.26.30:398][146]LogMaterial: Display: Missing cached shader map for material MainPillar, compiling. 
+[2019.03.08-23.26.30:431][146]LogMaterial: Display: Missing cached shader map for material MainPillar, compiling. 
+[2019.03.08-23.26.30:504][146]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.08-23.26.34:386][146]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.08-23.26.34:387][146]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.08-23.26.34:392][146]TextureStreamingBuild: Display: Compiling optional shaders took 3.899 seconds.
+[2019.03.08-23.26.34:392][146]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.28.12:744][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.026
+[2019.03.08-23.28.12:745][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_Materials/MainPillar/MainPillar] ([1] browsable assets)...
+[2019.03.08-23.28.12:783][571]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Alley_Materials/MainPillar/MainPillar.MainPillar]
+[2019.03.08-23.28.12:783][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_Materials/MainPillar/MainPillar]
+[2019.03.08-23.28.12:822][571]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar_Auto694573D594BD22AFA3E5B2EB69066CBD5.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_Materials/MainPillar/MainPillar_Auto6.uasset'
+[2019.03.08-23.28.12:824][571]LogFileHelpers: Auto-saving content packages took 0.079
+[2019.03.08-23.37.58:946][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.38.06:957][815]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.03.08-23.38.15:743][335]Cmd: TRANSACTION UNDO
+[2019.03.08-23.38.15:743][335]LogEditorTransaction: Undo Move Actors
+[2019.03.08-23.38.15:894][335]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2019.03.08-23.38.15:923][335]LogMaterial: Display: Missing cached shader map for material Brick_Dirty, compiling. 
+[2019.03.08-23.38.15:952][335]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.08-23.38.15:952][335]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.08-23.38.15:952][335]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.08-23.38.15:952][335]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.08-23.38.15:959][335]LogMaterial: Display: Missing cached shader map for material Brick, compiling. 
+[2019.03.08-23.38.17:047][387]Cmd: TRANSACTION UNDO
+[2019.03.08-23.38.17:048][387]LogEditorTransaction: Undo Move Actors
+[2019.03.08-23.38.17:257][387]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.08-23.38.17:257][387]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.03.08-23.38.17:257][387]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.08-23.38.17:264][387]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2019.03.08-23.38.17:291][387]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.08-23.38.17:298][387]LogMaterial: Display: Missing cached shader map for material Brick_Dirty, compiling. 
+[2019.03.08-23.38.17:335][387]LogMaterial: Display: Missing cached shader map for material Brick, compiling. 
+[2019.03.08-23.38.17:482][388]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.03.08-23.38.17:517][389]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.03.08-23.38.17:594][394]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.08-23.38.17:753][403]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.03.08-23.38.18:111][421]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.08-23.38.18:152][423]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.03.08-23.38.18:175][424]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.08-23.38.18:214][426]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.03.08-23.38.18:839][460]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.03.08-23.38.18:892][463]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.03.08-23.38.18:907][464]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.03.08-23.38.18:926][465]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.03.08-23.38.19:389][491]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.08-23.38.19:697][508]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.03.08-23.38.20:329][541]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.08-23.38.20:707][562]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.03.08-23.38.20:799][567]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.03.08-23.38.20:963][576]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.03.08-23.38.20:999][578]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.03.08-23.38.21:521][606]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.03.08-23.38.21:774][620]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.03.08-23.38.21:940][629]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.03.08-23.38.21:996][632]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.08-23.38.22:918][683]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.03.08-23.38.23:216][699]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.08-23.38.23:253][701]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.03.08-23.38.23:305][704]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.03.08-23.38.23:530][717]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.03.08-23.38.23:945][739]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.08-23.38.24:457][767]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.08-23.38.24:688][780]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.08-23.38.24:949][794]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.03.08-23.38.25:003][797]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.08-23.38.25:072][801]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.08-23.38.25:102][802]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.03.08-23.38.25:103][802]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2019.03.08-23.38.25:103][802]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2019.03.08-23.38.25:103][802]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.08-23.38.25:103][802]MaterialEditorStats: Texture samplers: 6/16
+[2019.03.08-23.38.25:103][802]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.03.08-23.38.25:103][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.08-23.38.25:470][823]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.08-23.38.25:488][824]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.08-23.38.25:526][826]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.08-23.38.25:886][847]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.08-23.38.25:955][851]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.08-23.38.26:072][858]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.08-23.38.26:236][867]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.08-23.38.26:666][891]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.08-23.38.26:998][910]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.08-23.38.27:117][917]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.08-23.38.27:365][931]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.08-23.38.27:910][960]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.08-23.38.28:234][978]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.08-23.38.28:467][991]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.08-23.38.28:658][  1]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.08-23.38.29:079][ 22]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.08-23.38.29:099][ 23]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.08-23.38.29:274][ 33]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.08-23.38.29:689][ 54]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.08-23.38.29:780][ 59]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.08-23.38.30:166][ 80]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.08-23.38.30:469][ 97]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.08-23.38.30:674][108]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.08-23.38.31:320][142]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.08-23.38.31:517][152]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.08-23.38.31:732][164]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.08-23.38.32:336][196]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.08-23.38.32:495][204]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.08-23.38.32:740][216]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.08-23.38.32:862][223]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.08-23.38.32:965][229]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.08-23.38.33:136][238]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: Texture samplers: 7/16
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.03.08-23.38.33:137][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.08-23.38.33:256][245]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.08-23.38.33:339][249]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.08-23.38.33:518][259]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.08-23.38.33:864][276]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.08-23.38.33:882][277]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.08-23.38.33:900][278]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.08-23.38.34:051][287]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.08-23.38.34:626][318]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.08-23.38.35:186][347]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.08-23.38.35:455][361]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.08-23.38.35:474][362]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.08-23.38.35:663][373]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.08-23.38.35:729][377]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.08-23.38.36:217][403]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.08-23.38.36:459][416]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.08-23.38.36:477][417]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.08-23.38.36:744][432]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.08-23.38.37:211][457]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.08-23.38.37:460][471]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.08-23.38.37:960][499]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.08-23.38.37:978][500]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.08-23.38.38:015][502]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.08-23.38.38:599][536]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.38.38:789][546]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.38.41:165][632]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.03.08-23.38.41:166][632]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2019.03.08-23.38.41:166][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2019.03.08-23.38.41:166][632]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.08-23.38.41:166][632]MaterialEditorStats: Texture samplers: 7/16
+[2019.03.08-23.38.41:166][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.03.08-23.38.41:166][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.08-23.39.04:252][700]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto7D6E2CB2748629A714D90AF9A8BAB5BAB.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto7.umap'
+[2019.03.08-23.39.04:258][700]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.193
+[2019.03.08-23.39.04:258][700]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2019.03.08-23.39.57:399][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.39.59:871][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete2)
+[2019.03.08-23.40.00:574][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.40.13:633][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.40.13:830][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.40.14:442][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.40.14:510][817]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.08-23.40.15:678][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.40.35:559][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.40.46:592][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.41.12:237][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.41.12:376][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Alley_Floor" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Alley_Floor.uasset" SILENT=true
+[2019.03.08-23.41.12:411][627]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Floor6F3F818B4E2F8AF9F48CBAB819812479.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Alley_Floor.uasset'
+[2019.03.08-23.41.20:214][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.41.31:215][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete2)
+[2019.03.08-23.41.33:533][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.41.37:921][844]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/Bollard.Bollard
+[2019.03.08-23.41.44:453][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.08-23.41.46:729][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.41.46:884][289]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/MainPillar.MainPillar
+[2019.03.08-23.42.02:474][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.08-23.42.04:126][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.08-23.42.06:749][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.42.06:922][287]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/Pipe.Pipe
+[2019.03.08-23.42.14:065][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.42.15:598][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.42.16:383][741]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/TopConcrete.TopConcrete
+[2019.03.08-23.42.29:253][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.42.30:061][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.42.31:130][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.42.31:350][451]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/TopDeco.TopDeco
+[2019.03.08-23.42.34:211][536]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/Wall_Left.Wall_Left
+[2019.03.08-23.42.38:276][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.42.38:459][688]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/WallDoor_Left.WallDoor_Left
+[2019.03.08-23.42.47:567][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.42.51:709][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRight)
+[2019.03.08-23.42.53:246][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.42.53:464][222]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/WallEdge.WallEdge
+[2019.03.08-23.42.59:255][411]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/WallRight.WallRight
+[2019.03.08-23.43.08:041][668]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/WallWindow_Right.WallWindow_Right
+[2019.03.08-23.43.28:041][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.44.00:505][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_Materials/Dumpster" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster.uasset" SILENT=true
+[2019.03.08-23.44.00:529][686]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/DumpsterE27DE433468F39543E485BB4526895EF.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster.uasset'
+[2019.03.08-23.44.00:808][686]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_ExportB4EAA6804D728540D41A048685B7844E.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/Dumpster_Model_Export.uasset'
+[2019.03.08-23.44.12:363][ 67]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.08-23.44.25:428][577]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.08-23.44.31:580][839]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Dumpster_B6443F66A42806AC9CFAB2E811F0319B1.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster_Model_Export_Dumpster_BaseColor.uasset'
+[2019.03.08-23.44.32:388][839]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Dumpster_N415B722C4C3469AD1DC6C9B8698BFB08.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster_Model_Export_Dumpster_Normal.uasset'
+[2019.03.08-23.44.32:510][839]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Dumpster_O103DB017462B90A33E330FB6B7CEE12E.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster_Model_Export_Dumpster_OcclusionRoughnessMetallic.uasset'
+[2019.03.08-23.44.32:855][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_Materials/Dumpster" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster.uasset" SILENT=true
+[2019.03.08-23.44.32:878][839]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster96F286954384315C64FE67A91B7EAD6D.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Dumpster.uasset'
+[2019.03.08-23.44.42:852][313]LogMetaData: Removing '/Game/Art/Alley_FBX/Dumpster_Model_Export.Dumpster_Model_Export' ref from Metadata '/Game/Art/Dumpster/Dumpster_Model_Export.PackageMetaData'
+[2019.03.08-23.44.42:934][313]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export72561BB647A2FFB6CD6E7AAB1E5EE28C.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Dumpster_Model_Export.uasset'
+[2019.03.08-23.44.42:957][313]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export3CD6EA85405D40C8C63B11989ED901D5.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Dumpster/Dumpster_Model_Export.uasset'
+[2019.03.08-23.44.49:234][617]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/Dumpster_Model_Export.Dumpster_Model_Export
+[2019.03.08-23.45.04:141][366]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Matthew/box_single/SM_boxSingle.SM_boxSingle
+[2019.03.08-23.45.12:491][776]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Matthew/Boxpile/SM_Box_pilecombined_SM_box_3.SM_Box_pilecombined_SM_box_3
+[2019.03.08-23.45.26:584][427]LogSlate: Window 'Message' being destroyed
+[2019.03.08-23.45.27:016][427]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2019.03.08-23.45.27:096][427]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.08-23.45.27:096][427]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.08-23.45.27:096][427]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.08-23.45.27:096][427]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.08-23.45.27:113][427]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2019.03.08-23.45.27:139][427]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2019.03.08-23.45.27:195][427]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.08-23.45.30:403][427]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.45.30:407][427]TextureStreamingBuild: Display: Compiling optional shaders took 3.220 seconds.
+[2019.03.08-23.45.31:368][427]LogSlate: Window 'Message' being destroyed
+[2019.03.08-23.45.31:923][427]LogMaterial: Display: Missing cached shader map for material Brick_Dirty, compiling. 
+[2019.03.08-23.45.31:999][427]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.08-23.45.32:031][427]LogMaterial: Display: Missing cached shader map for material Brick_Dirty, compiling. 
+[2019.03.08-23.45.32:070][427]LogMaterial: Display: Missing cached shader map for material Brick_Dirty, compiling. 
+[2019.03.08-23.45.32:131][427]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick_Dirty, compiling. 
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.08-23.45.35:851][427]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.08-23.45.35:852][427]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.45.35:856][427]TextureStreamingBuild: Display: Compiling optional shaders took 3.732 seconds.
+[2019.03.08-23.45.41:135][427]LogSlate: Window 'Message' being destroyed
+[2019.03.08-23.45.41:563][427]LogMaterial: Display: Missing cached shader map for material Brick, compiling. 
+[2019.03.08-23.45.41:632][427]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.08-23.45.41:632][427]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.08-23.45.41:632][427]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.08-23.45.41:632][427]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.08-23.45.41:654][427]LogMaterial: Display: Missing cached shader map for material Brick, compiling. 
+[2019.03.08-23.45.41:688][427]LogMaterial: Display: Missing cached shader map for material Brick, compiling. 
+[2019.03.08-23.45.41:764][427]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.08-23.45.44:961][427]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.08-23.45.44:962][427]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.45.44:966][427]TextureStreamingBuild: Display: Compiling optional shaders took 3.213 seconds.
+[2019.03.08-23.45.45:012][427]LogSlate: Window 'SM_Box_pilecombined_SM_box_3*' being destroyed
+[2019.03.08-23.45.45:016][427]LogSlate: Window 'SM_Box_pilecombined_SM_box_3*' being destroyed
+[2019.03.08-23.46.10:787][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.46.14:572][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.46.20:262][450]MapCheck: New page: Map Check
+[2019.03.08-23.46.20:284][450]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.08-23.46.20:285][450]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.08-23.46.20:348][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.08-23.46.20:396][450]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.46.20:396][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.08-23.46.20:406][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.08-23.46.20:420][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.08-23.46.20:431][450]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.46.20:432][450]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.46.20:432][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.08-23.46.20:445][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.08-23.46.20:457][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.08-23.46.20:470][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.08-23.46.20:481][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.08-23.46.20:492][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.46.21:413][450]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.46.21:413][450]TextureStreamingBuild: Display: Compiling optional shaders took 1.069 seconds.
+[2019.03.08-23.46.21:434][450]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2019.03.08-23.46.21:466][450]TextureStreamingBuild: Display: Build Texture Streaming took 0.031 seconds.
+[2019.03.08-23.46.21:492][450]LightingResults: New page: Lighting Build - Mar 8, 2019, 1:46:21 PM
+[2019.03.08-23.46.21:509][450]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.08-23.46.22:483][450]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.08-23.46.22:483][450]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.08-23.46.22:485][450]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.08-23.46.22:485][450]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.08-23.46.27:025][450]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.08-23.46.27:025][450]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.08-23.46.27:025][450]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.08-23.46.27:025][450]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.08-23.46.27:025][450]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.08-23.46.34:057][450]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.08-23.46.34:057][450]MapCheck: New page: Alley - Mar 8, 2019, 1:46:34 PM
+[2019.03.08-23.46.34:058][450]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.08-23.46.34:061][450]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.157ms to complete.
+[2019.03.08-23.46.34:085][450]LogEditorBuildUtils: Build time 0:13
+[2019.03.08-23.46.34:120][450]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Asphalt, compiling. 
+[2019.03.08-23.46.34:129][450]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Asphalt, compiling. 
+[2019.03.08-23.46.34:179][451]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.08-23.46.34:206][451]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Brick, compiling. 
+[2019.03.08-23.46.34:224][451]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.46.34:224][451]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Brick, compiling. 
+[2019.03.08-23.46.34:252][451]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.46.34:285][452]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Window, compiling. 
+[2019.03.08-23.46.34:307][452]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.46.34:307][452]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Window, compiling. 
+[2019.03.08-23.46.34:397][453]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Pipe, compiling. 
+[2019.03.08-23.46.34:416][453]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Pipe, compiling. 
+[2019.03.08-23.46.34:498][454]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MainPillar, compiling. 
+[2019.03.08-23.46.34:522][454]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MainPillar, compiling. 
+[2019.03.08-23.46.34:586][455]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Dumpster, compiling. 
+[2019.03.08-23.46.34:607][455]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Dumpster, compiling. 
+[2019.03.08-23.46.34:649][456]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_box_single, compiling. 
+[2019.03.08-23.46.34:676][456]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_box_single, compiling. 
+[2019.03.08-23.46.34:724][457]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bollard, compiling. 
+[2019.03.08-23.46.34:742][457]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bollard, compiling. 
+[2019.03.08-23.46.37:687][459]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.08-23.46.37:687][459]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.08-23.46.37:688][459]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.46.54:560][516]Job is a success!
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.08-23.46.54:994][517]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.08-23.46.56:929][517]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.03.08-23.46.56:929][517]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.03.08-23.46.56:929][517]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.03.08-23.46.56:930][517]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.03.08-23.46.56:930][517]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.03.08-23.46.56:930][517]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.03.08-23.46.56:930][517]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.03.08-23.46.56:930][517]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.03.08-23.46.56:930][517]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.03.08-23.46.57:130][517]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2019.03.08-23.46.57:217][517]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.03.08-23.46.57:262][517]Lightmass on DESKTOP-CC382ON: 18.2 sec total, 1.10 sec importing, 63 ms setup, 1.74 sec photons, 15.2 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:46 min total, 1:04 min processing.
+[2019.03.08-23.46.57:267][517]LogStaticLightingSystem: Illumination: 35.4 sec (1.77 sec encoding lightmaps, 282 ms encoding shadowmaps)
+[2019.03.08-23.46.57:267][517]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.08-23.46.57:268][517]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.08-23.46.57:553][517]DumpUnbuiltLightIteractions
+[2019.03.08-23.46.57:553][517]Lights with unbuilt interactions: 0
+[2019.03.08-23.46.57:553][517]
+[2019.03.08-23.46.57:553][517]Primitives with unbuilt interactions: 0
+[2019.03.08-23.46.57:761][518]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.08-23.46.57:761][518]MapCheck: New page: Alley - Mar 8, 2019, 1:46:57 PM
+[2019.03.08-23.46.57:765][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.079ms to complete.
+[2019.03.08-23.48.28:505][879]LogSlate: Window 'Message Log' being destroyed
+[2019.03.08-23.48.28:510][879]LogSlate: Window 'Message Log' being destroyed
+[2019.03.08-23.48.35:108][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainPillar2)
+[2019.03.08-23.48.44:493][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.48.54:434][407]Cmd: TRANSACTION UNDO
+[2019.03.08-23.48.54:434][407]LogEditorTransaction: Undo Move Actors
+[2019.03.08-23.48.55:598][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.48.59:536][702]LogEditorViewport: Clicking Background
+[2019.03.08-23.49.18:202][816]Cmd: TRANSACTION UNDO
+[2019.03.08-23.49.18:202][816]LogEditorTransaction: Undo Clicking Background
+[2019.03.08-23.49.18:531][832]Cmd: TRANSACTION UNDO
+[2019.03.08-23.49.18:531][832]LogEditorTransaction: Undo Rotate Actors
+[2019.03.08-23.49.23:912][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.49.46:510][456]Cmd: DELETE
+[2019.03.08-23.49.46:510][456]Cmd: ACTOR DELETE
+[2019.03.08-23.49.46:516][456]LogEditorActor: Deleted Actor: PointLight
+[2019.03.08-23.49.46:542][456]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.03.08-23.49.49:257][617]LogEditorViewport: Clicking Background
+[2019.03.08-23.49.51:528][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.49.56:919][ 63]Cmd: TRANSACTION UNDO
+[2019.03.08-23.49.56:919][ 63]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2019.03.08-23.50.05:027][532]Cmd: TRANSACTION UNDO
+[2019.03.08-23.50.05:028][532]LogEditorTransaction: Undo Edit Intensity
+[2019.03.08-23.50.36:930][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto886B02A744AD78B0067F0EA86D18B7ACE.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto8.umap'
+[2019.03.08-23.50.36:944][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.205
+[2019.03.08-23.50.36:944][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2019.03.08-23.50.36:948][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_Materials/Brick/Brick] ([1] browsable assets)...
+[2019.03.08-23.50.36:962][ 41]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Alley_Materials/Brick/Brick.Brick]
+[2019.03.08-23.50.36:963][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_Materials/Brick/Brick]
+[2019.03.08-23.50.37:003][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Brick_Auto80FB4A83E4FD7AB0B851E5E9A18F6BCB5.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_Materials/Brick/Brick_Auto8.uasset'
+[2019.03.08-23.50.37:004][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/Alley_Floor] ([1] browsable assets)...
+[2019.03.08-23.50.37:017][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/Alley_Floor.Alley_Floor]
+[2019.03.08-23.50.37:017][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/Alley_Floor]
+[2019.03.08-23.50.37:053][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Floor_Auto85C28C229417391956860169956814811.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/Alley_Floor_Auto8.uasset'
+[2019.03.08-23.50.37:055][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/Bollard] ([1] browsable assets)...
+[2019.03.08-23.50.37:068][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/Bollard.Bollard]
+[2019.03.08-23.50.37:068][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/Bollard]
+[2019.03.08-23.50.37:102][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Bollard_Auto85979C1A54CD95DC7D9E7E8A160504C51.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/Bollard_Auto8.uasset'
+[2019.03.08-23.50.37:104][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/MainPillar] ([1] browsable assets)...
+[2019.03.08-23.50.37:118][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/MainPillar.MainPillar]
+[2019.03.08-23.50.37:118][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/MainPillar]
+[2019.03.08-23.50.37:153][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar_Auto80AF50CF14316C6360CF1018D07AE7DBA.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/MainPillar_Auto8.uasset'
+[2019.03.08-23.50.37:155][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/Pipe] ([1] browsable assets)...
+[2019.03.08-23.50.37:168][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/Pipe.Pipe]
+[2019.03.08-23.50.37:168][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/Pipe]
+[2019.03.08-23.50.37:201][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Pipe_Auto8FC47B6824B6D441DC52362B60340B7B9.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/Pipe_Auto8.uasset'
+[2019.03.08-23.50.37:202][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/TopConcrete] ([1] browsable assets)...
+[2019.03.08-23.50.37:214][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/TopConcrete.TopConcrete]
+[2019.03.08-23.50.37:214][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/TopConcrete]
+[2019.03.08-23.50.37:247][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/TopConcrete_Auto88D773CD54A0368036382A9BEFF153482.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/TopConcrete_Auto8.uasset'
+[2019.03.08-23.50.37:248][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/WallDoor_Left] ([1] browsable assets)...
+[2019.03.08-23.50.37:261][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/WallDoor_Left.WallDoor_Left]
+[2019.03.08-23.50.37:261][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/WallDoor_Left]
+[2019.03.08-23.50.37:299][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallDoor_Left_Auto8301B27C44731C9D9A25CE9AFFD5092ED.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/WallDoor_Left_Auto8.uasset'
+[2019.03.08-23.50.37:301][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/WallEdge] ([1] browsable assets)...
+[2019.03.08-23.50.37:314][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/WallEdge.WallEdge]
+[2019.03.08-23.50.37:314][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/WallEdge]
+[2019.03.08-23.50.37:345][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallEdge_Auto8C3C953054A60DFE992E3968659CFAE14.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/WallEdge_Auto8.uasset'
+[2019.03.08-23.50.37:349][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/WallRight] ([1] browsable assets)...
+[2019.03.08-23.50.37:366][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/WallRight.WallRight]
+[2019.03.08-23.50.37:366][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/WallRight]
+[2019.03.08-23.50.37:404][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallRight_Auto88E4EE6424128E79FD1752CA213E5F5FC.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/WallRight_Auto8.uasset'
+[2019.03.08-23.50.37:406][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/WallWindow_Right] ([1] browsable assets)...
+[2019.03.08-23.50.37:419][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/WallWindow_Right.WallWindow_Right]
+[2019.03.08-23.50.37:419][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/WallWindow_Right]
+[2019.03.08-23.50.37:463][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallWindow_Right_Auto8603B92A34E57B9ADFB29BAA4C0EA7E49.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/WallWindow_Right_Auto8.uasset'
+[2019.03.08-23.50.37:465][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_FBX/Dumpster_Model_Export] ([1] browsable assets)...
+[2019.03.08-23.50.37:479][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Alley_FBX/Dumpster_Model_Export.Dumpster_Model_Export]
+[2019.03.08-23.50.37:479][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_FBX/Dumpster_Model_Export]
+[2019.03.08-23.50.37:525][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export_Auto8E8CDD2724B0A60DB56D9B2BFC92456A9.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_FBX/Dumpster_Model_Export_Auto8.uasset'
+[2019.03.08-23.50.37:527][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Matthew/Boxpile/SM_Box_pilecombined_SM_box_3] ([1] browsable assets)...
+[2019.03.08-23.50.37:540][ 41]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Matthew/Boxpile/SM_Box_pilecombined_SM_box_3.SM_Box_pilecombined_SM_box_3]
+[2019.03.08-23.50.37:540][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Matthew/Boxpile/SM_Box_pilecombined_SM_box_3]
+[2019.03.08-23.50.37:589][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_Box_pilecombined_SM_box_3_Aut548002C74E3C45AD7E04E899E44BC2E5.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Matthew/Boxpile/SM_Box_pilecombined_SM_box_3_Auto8.uasset'
+[2019.03.08-23.50.37:591][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_Materials/Pipe/Pipe] ([1] browsable assets)...
+[2019.03.08-23.50.37:606][ 41]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Alley_Materials/Pipe/Pipe.Pipe]
+[2019.03.08-23.50.37:607][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_Materials/Pipe/Pipe]
+[2019.03.08-23.50.37:652][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Pipe_Auto8FD7686314ABC24B09C7DA3891BAFBA6D.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_Materials/Pipe/Pipe_Auto8.uasset'
+[2019.03.08-23.50.37:653][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Alley_Materials/Brick_Dirty/Brick_Dirty] ([1] browsable assets)...
+[2019.03.08-23.50.37:665][ 41]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Alley_Materials/Brick_Dirty/Brick_Dirty.Brick_Dirty]
+[2019.03.08-23.50.37:665][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Alley_Materials/Brick_Dirty/Brick_Dirty]
+[2019.03.08-23.50.37:699][ 41]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Brick_Dirty_Auto89ED0957642291B1746EC95A8F2DCA0EF.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/Alley_Materials/Brick_Dirty/Brick_Dirty_Auto8.uasset'
+[2019.03.08-23.50.37:701][ 41]LogFileHelpers: Auto-saving content packages took 0.753
+[2019.03.08-23.51.00:242][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.51.10:313][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.51.38:564][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.51.55:608][ 33]LogEditorViewport: Clicking Background
+[2019.03.08-23.51.59:618][265]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.08-23.52.21:968][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.52.27:296][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.52.27:378][864]MapCheck: New page: Map Check
+[2019.03.08-23.52.27:405][864]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.08-23.52.27:405][864]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.08-23.52.27:465][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.08-23.52.27:474][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.08-23.52.27:484][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.52.27:484][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.08-23.52.27:497][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.08-23.52.27:508][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.08-23.52.27:517][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.08-23.52.27:526][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.08-23.52.27:540][864]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.08-23.52.27:540][864]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.08-23.52.27:540][864]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.08-23.52.27:540][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.08-23.52.27:552][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.08-23.52.27:561][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.08-23.52.28:669][864]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.08-23.52.28:669][864]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.08-23.52.28:669][864]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.08-23.52.28:669][864]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.08-23.52.28:669][864]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.08-23.52.28:669][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.08-23.52.28:669][864]TextureStreamingBuild: Display: Compiling optional shaders took 1.207 seconds.
+[2019.03.08-23.52.28:682][864]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2019.03.08-23.52.28:708][864]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2019.03.08-23.52.28:731][864]LightingResults: New page: Lighting Build - Mar 8, 2019, 1:52:28 PM
+[2019.03.08-23.52.28:737][864]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.08-23.52.29:026][864]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.08-23.52.29:026][864]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.08-23.52.29:027][864]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.08-23.52.29:027][864]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.08-23.52.33:535][864]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.08-23.52.33:535][864]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.08-23.52.33:535][864]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.08-23.52.33:535][864]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.08-23.52.33:535][864]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.08-23.52.39:689][864]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.08-23.52.39:689][864]MapCheck: New page: Alley - Mar 8, 2019, 1:52:39 PM
+[2019.03.08-23.52.39:689][864]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.08-23.52.39:690][864]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.502ms to complete.
+[2019.03.08-23.52.39:714][864]LogEditorBuildUtils: Build time 0:12
+[2019.03.08-23.52.39:724][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.52.42:630][977]LogSlate: Window 'Message Log' being destroyed
+[2019.03.08-23.52.42:650][977]LogSlate: Window 'Message Log' being destroyed
+[2019.03.08-23.52.55:394][610]Job is a success!
+[2019.03.08-23.52.55:439][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.08-23.52.55:492][612]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.08-23.52.57:384][612]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.03.08-23.52.57:384][612]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.03.08-23.52.57:384][612]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.03.08-23.52.57:384][612]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.03.08-23.52.57:384][612]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.03.08-23.52.57:384][612]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.03.08-23.52.57:385][612]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.03.08-23.52.57:385][612]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.03.08-23.52.57:385][612]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.03.08-23.52.57:585][612]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2019.03.08-23.52.57:681][612]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2019.03.08-23.52.57:720][612]Lightmass on DESKTOP-CC382ON: 17.1 sec total, 2.03 sec importing, 131 ms setup, 2.42 sec photons, 12.5 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:25 min total, 53.5 sec processing.
+[2019.03.08-23.52.57:733][612]LogStaticLightingSystem: Illumination: 28.9 sec (1.74 sec encoding lightmaps, 286 ms encoding shadowmaps)
+[2019.03.08-23.52.57:733][612]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.08-23.52.57:733][612]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.08-23.52.58:223][612]DumpUnbuiltLightIteractions
+[2019.03.08-23.52.58:223][612]Lights with unbuilt interactions: 0
+[2019.03.08-23.52.58:223][612]
+[2019.03.08-23.52.58:223][612]Primitives with unbuilt interactions: 0
+[2019.03.08-23.52.58:230][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.08-23.52.58:325][613]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.08-23.52.58:325][613]MapCheck: New page: Alley - Mar 8, 2019, 1:52:58 PM
+[2019.03.08-23.52.58:327][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.337ms to complete.
+[2019.03.08-23.59.16:424][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.08-23.59.51:660][118]Cmd: TRANSACTION UNDO
+[2019.03.08-23.59.51:660][118]LogEditorTransaction: Undo Edit Source Angle
+[2019.03.08-23.59.55:118][323]Cmd: TRANSACTION UNDO
+[2019.03.08-23.59.55:118][323]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2019.03.08-23.59.55:672][355]Cmd: TRANSACTION UNDO
+[2019.03.08-23.59.55:672][355]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2019.03.08-23.59.56:387][397]Cmd: TRANSACTION UNDO
+[2019.03.08-23.59.56:387][397]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2019.03.09-00.00.41:044][613]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto98D1D95AF4AD30279F080FD820F480918.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto9.umap'
+[2019.03.09-00.00.41:048][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.176
+[2019.03.09-00.00.41:048][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.176
+[2019.03.09-00.01.52:587][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.01.57:788][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopDeco)
+[2019.03.09-00.01.59:038][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.09-00.02.11:358][153]Cmd: TRANSACTION UNDO
+[2019.03.09-00.02.11:358][153]LogEditorTransaction: Undo Move Actors
+[2019.03.09-00.02.11:690][166]Cmd: TRANSACTION UNDO
+[2019.03.09-00.02.11:690][166]LogEditorTransaction: Undo Move Actors
+[2019.03.09-00.02.12:978][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.02.14:971][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dumpster_Model_Export)
+[2019.03.09-00.02.15:810][399]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.03.09-00.02.21:646][743]Cmd: TRANSACTION UNDO
+[2019.03.09-00.02.21:646][743]LogEditorTransaction: Undo Scale Actors
+[2019.03.09-00.02.31:251][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.09-00.02.40:286][835]Cmd: TRANSACTION UNDO
+[2019.03.09-00.02.40:286][835]LogEditorTransaction: Undo Scale Actors
+[2019.03.09-00.02.41:006][876]Cmd: TRANSACTION UNDO
+[2019.03.09-00.02.41:007][876]LogEditorTransaction: Undo Scale Actors
+[2019.03.09-00.02.41:415][900]Cmd: TRANSACTION UNDO
+[2019.03.09-00.02.41:415][900]LogEditorTransaction: Undo Scale Actors
+[2019.03.09-00.02.56:923][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.04.21:707][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.04.27:033][416]Cmd: TRANSACTION UNDO
+[2019.03.09-00.04.27:033][416]LogEditorTransaction: Undo Edit Light Color
+[2019.03.09-00.04.28:821][518]Cmd: TRANSACTION UNDO
+[2019.03.09-00.04.28:821][518]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2019.03.09-00.04.29:718][571]Cmd: TRANSACTION UNDO
+[2019.03.09-00.04.29:719][571]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.09-00.04.30:407][611]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.09-00.04.31:759][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.04.49:622][732]Cmd: TRANSACTION UNDO
+[2019.03.09-00.04.49:622][732]LogEditorTransaction: Undo Edit Source Angle
+[2019.03.09-00.04.53:475][957]Cmd: TRANSACTION UNDO
+[2019.03.09-00.04.53:476][957]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2019.03.09-00.05.55:961][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.05.56:310][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.06.00:685][848]LogEditorViewport: Clicking Background
+[2019.03.09-00.06.02:078][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Floor)
+[2019.03.09-00.06.06:870][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.06.09:759][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.06.21:297][ 38]Cmd: TRANSACTION UNDO
+[2019.03.09-00.06.21:297][ 38]LogEditorTransaction: Undo Move Actors
+[2019.03.09-00.06.21:961][ 75]Cmd: TRANSACTION UNDO
+[2019.03.09-00.06.21:961][ 75]LogEditorTransaction: Undo Move Actors
+[2019.03.09-00.06.24:090][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.06.39:097][ 72]Cmd: TRANSACTION UNDO
+[2019.03.09-00.06.39:097][ 72]LogEditorTransaction: Undo Move Actors
+[2019.03.09-00.06.40:345][145]Cmd: DELETE
+[2019.03.09-00.06.40:345][145]Cmd: ACTOR DELETE
+[2019.03.09-00.06.40:350][145]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.03.09-00.06.40:377][145]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.03.09-00.06.41:654][222]Cmd: TRANSACTION UNDO
+[2019.03.09-00.06.41:655][222]LogEditorTransaction: Undo Delete Actors
+[2019.03.09-00.06.43:320][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.09.48:152][132]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.03.09-00.09.51:319][319]Cmd: TRANSACTION UNDO
+[2019.03.09-00.09.51:319][319]LogEditorTransaction: Undo Move Actors
+[2019.03.09-00.09.51:651][337]LogEditorViewport: Clicking Background
+[2019.03.09-00.10.35:588][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.10.53:008][994]Cmd: TRANSACTION UNDO
+[2019.03.09-00.10.53:009][994]LogEditorTransaction: Undo Edit Shadow Resolution Scale
+[2019.03.09-00.10.55:503][138]Cmd: TRANSACTION UNDO
+[2019.03.09-00.10.55:503][138]LogEditorTransaction: Undo Edit Specular Scale
+[2019.03.09-00.10.59:397][356]Cmd: TRANSACTION UNDO
+[2019.03.09-00.10.59:397][356]LogEditorTransaction: Undo Edit Shadow Bias
+[2019.03.09-00.11.26:419][573]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto0F7A1CE8846975DE958CB0BBF1D5450DC.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto0.umap'
+[2019.03.09-00.11.26:427][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.192
+[2019.03.09-00.11.26:427][573]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.192
+[2019.03.09-00.11.53:733][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.12.08:963][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.12.12:194][982]Cmd: TRANSACTION UNDO
+[2019.03.09-00.12.12:194][982]LogEditorTransaction: Undo Edit Temperature
+[2019.03.09-00.12.36:207][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.12.40:849][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_boxSingle3)
+[2019.03.09-00.12.43:080][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.12.43:164][811]MapCheck: New page: Map Check
+[2019.03.09-00.12.43:198][811]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.09-00.12.43:200][811]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.09-00.12.43:284][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.09-00.12.43:296][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.09-00.12.43:310][811]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.12.43:310][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.09-00.12.43:322][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.09-00.12.43:337][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.09-00.12.43:353][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.09-00.12.43:367][811]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.12.43:367][811]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.12.43:367][811]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.12.43:367][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.09-00.12.43:384][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.09-00.12.43:403][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.09-00.12.43:418][811]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.09-00.12.44:604][811]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-00.12.44:604][811]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.12.44:604][811]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.12.44:604][811]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.12.44:604][811]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-00.12.44:604][811]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.12.44:604][811]TextureStreamingBuild: Display: Compiling optional shaders took 1.327 seconds.
+[2019.03.09-00.12.44:619][811]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2019.03.09-00.12.44:652][811]TextureStreamingBuild: Display: Build Texture Streaming took 0.033 seconds.
+[2019.03.09-00.12.44:677][811]LightingResults: New page: Lighting Build - Mar 8, 2019, 2:12:44 PM
+[2019.03.09-00.12.44:683][811]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.09-00.12.45:092][811]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.09-00.12.45:092][811]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.09-00.12.45:093][811]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.09-00.12.45:093][811]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.09-00.12.49:602][811]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.09-00.12.49:602][811]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.09-00.12.49:602][811]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.09-00.12.49:602][811]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.09-00.12.49:602][811]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.09-00.12.55:539][811]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.09-00.12.55:540][811]MapCheck: New page: Alley - Mar 8, 2019, 2:12:55 PM
+[2019.03.09-00.12.55:540][811]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.09-00.12.55:542][811]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.086ms to complete.
+[2019.03.09-00.12.55:567][811]LogEditorBuildUtils: Build time 0:12
+[2019.03.09-00.12.55:580][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.12.59:622][979]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-00.12.59:637][979]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-00.13.12:007][588]Job is a success!
+[2019.03.09-00.13.12:053][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.09-00.13.12:105][590]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.03.09-00.13.13:915][590]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.03.09-00.13.14:115][590]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2019.03.09-00.13.14:184][590]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2019.03.09-00.13.14:224][590]Lightmass on DESKTOP-CC382ON: 17.7 sec total, 2.05 sec importing, 137 ms setup, 3.03 sec photons, 12.4 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:25 min total, 54.4 sec processing.
+[2019.03.09-00.13.14:234][590]LogStaticLightingSystem: Illumination: 29.5 sec (1.68 sec encoding lightmaps, 260 ms encoding shadowmaps)
+[2019.03.09-00.13.14:234][590]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.09-00.13.14:234][590]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.09-00.13.14:273][590]DumpUnbuiltLightIteractions
+[2019.03.09-00.13.14:274][590]Lights with unbuilt interactions: 0
+[2019.03.09-00.13.14:274][590]
+[2019.03.09-00.13.14:274][590]Primitives with unbuilt interactions: 0
+[2019.03.09-00.13.14:280][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.13.14:359][591]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.09-00.13.14:359][591]MapCheck: New page: Alley - Mar 8, 2019, 2:13:14 PM
+[2019.03.09-00.13.14:361][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.581ms to complete.
+[2019.03.09-00.13.34:827][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.13.42:451][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.14.23:421][644]MapCheck: New page: Map Check
+[2019.03.09-00.14.23:441][644]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.09-00.14.23:442][644]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.09-00.14.23:504][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.09-00.14.23:515][644]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.14.23:515][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.09-00.14.23:524][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.09-00.14.23:532][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.09-00.14.23:544][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.09-00.14.23:553][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.09-00.14.23:563][644]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.14.23:563][644]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.14.23:563][644]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.14.23:563][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.09-00.14.23:575][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.09-00.14.23:587][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.09-00.14.23:597][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.09-00.14.24:698][644]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-00.14.24:698][644]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.14.24:699][644]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.14.24:699][644]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.14.24:699][644]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-00.14.24:699][644]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.14.24:699][644]TextureStreamingBuild: Display: Compiling optional shaders took 1.198 seconds.
+[2019.03.09-00.14.24:715][644]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2019.03.09-00.14.24:757][644]TextureStreamingBuild: Display: Build Texture Streaming took 0.041 seconds.
+[2019.03.09-00.14.24:784][644]LightingResults: New page: Lighting Build - Mar 8, 2019, 2:14:24 PM
+[2019.03.09-00.14.24:792][644]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.09-00.14.25:299][644]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.09-00.14.25:299][644]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.09-00.14.25:299][644]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.09-00.14.25:299][644]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.09-00.14.29:806][644]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.09-00.14.29:806][644]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.09-00.14.29:806][644]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.09-00.14.29:806][644]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.09-00.14.29:806][644]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.09-00.14.36:396][644]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.09-00.14.36:397][644]MapCheck: New page: Alley - Mar 8, 2019, 2:14:36 PM
+[2019.03.09-00.14.36:398][644]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.578ms to complete.
+[2019.03.09-00.14.36:422][644]LogEditorBuildUtils: Build time 0:12
+[2019.03.09-00.14.52:224][413]Job is a success!
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.09-00.14.52:321][415]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.03.09-00.14.54:153][415]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.03.09-00.14.54:353][415]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X512)
+[2019.03.09-00.14.54:410][415]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2019.03.09-00.14.54:451][415]Lightmass on DESKTOP-CC382ON: 17.2 sec total, 2.00 sec importing, 66 ms setup, 2.06 sec photons, 13.1 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:27 min total, 55.1 sec processing.
+[2019.03.09-00.14.54:462][415]LogStaticLightingSystem: Illumination: 29.6 sec (1.69 sec encoding lightmaps, 248 ms encoding shadowmaps)
+[2019.03.09-00.14.54:462][415]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.09-00.14.54:462][415]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.09-00.14.54:575][415]DumpUnbuiltLightIteractions
+[2019.03.09-00.14.54:575][415]Lights with unbuilt interactions: 0
+[2019.03.09-00.14.54:575][415]
+[2019.03.09-00.14.54:575][415]Primitives with unbuilt interactions: 0
+[2019.03.09-00.14.54:787][416]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.09-00.14.54:788][416]MapCheck: New page: Alley - Mar 8, 2019, 2:14:54 PM
+[2019.03.09-00.14.54:789][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.602ms to complete.
+[2019.03.09-00.14.58:931][663]LogEditorViewport: Clicking Background
+[2019.03.09-00.14.59:600][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.09-00.15.06:978][125]LogEditorViewport: Clicking Background
+[2019.03.09-00.15.09:928][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete2)
+[2019.03.09-00.15.33:047][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.16.37:661][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.16.39:366][557]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/Alley_FBX/WallDoor_Left.WallDoor_Left
+[2019.03.09-00.16.57:921][510]Cmd: DELETE
+[2019.03.09-00.16.57:921][510]Cmd: ACTOR DELETE
+[2019.03.09-00.16.57:925][510]LogEditorActor: Deleted Actor: PointLight
+[2019.03.09-00.16.57:947][510]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.09-00.16.58:673][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.17.00:903][658]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.03.09-00.17.15:724][533]LogEditorViewport: Clicking Background
+[2019.03.09-00.17.18:290][682]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2019.03.09-00.17.32:815][540]Cmd: EDIT COPY
+[2019.03.09-00.17.33:027][549]Cmd: EDIT PASTE
+[2019.03.09-00.17.44:855][236]Cmd: DELETE
+[2019.03.09-00.17.44:855][236]Cmd: ACTOR DELETE
+[2019.03.09-00.17.44:861][236]LogEditorActor: Deleted Actor: RectLight
+[2019.03.09-00.17.44:885][236]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.03.09-00.17.45:871][295]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2019.03.09-00.17.46:575][335]Cmd: DELETE
+[2019.03.09-00.17.46:575][335]Cmd: ACTOR DELETE
+[2019.03.09-00.17.46:578][335]LogEditorActor: Deleted Actor: RectLight
+[2019.03.09-00.17.46:602][335]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.09-00.17.54:854][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.18.23:799][494]Cmd: TRANSACTION UNDO
+[2019.03.09-00.18.23:799][494]LogEditorTransaction: Undo Edit Occlusion Exponent
+[2019.03.09-00.18.29:991][839]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.03.09-00.19.03:665][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.19.28:552][268]Cmd: TRANSACTION UNDO
+[2019.03.09-00.19.28:552][268]LogEditorTransaction: Undo Edit Editor Billboard Scale
+[2019.03.09-00.19.42:466][ 68]Cmd: EDIT COPY
+[2019.03.09-00.19.42:630][ 76]Cmd: EDIT PASTE
+[2019.03.09-00.19.47:987][387]Cmd: EDIT COPY
+[2019.03.09-00.19.48:253][400]Cmd: EDIT PASTE
+[2019.03.09-00.19.51:773][607]LogEditorViewport: Clicking Background
+[2019.03.09-00.20.01:454][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.09-00.20.02:287][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor_Left)
+[2019.03.09-00.20.02:353][220]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.09-00.20.02:900][246]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.09-00.20.02:978][249]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (WallDoor_Left)
+[2019.03.09-00.20.04:859][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.20.05:032][336]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.09-00.20.06:970][422]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.09-00.20.07:585][456]LogActorFactory: Actor Factory created WallDoor_Left
+[2019.03.09-00.20.08:600][513]Cmd: TRANSACTION UNDO
+[2019.03.09-00.20.08:600][513]LogEditorTransaction: Undo Create Actors
+[2019.03.09-00.20.10:804][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.20.10:904][627]MapCheck: New page: Map Check
+[2019.03.09-00.20.10:927][627]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.09-00.20.10:928][627]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.09-00.20.11:129][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.09-00.20.11:140][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.09-00.20.11:150][627]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.20.11:150][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.09-00.20.11:159][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.09-00.20.11:170][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.09-00.20.11:181][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.09-00.20.11:191][627]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.20.11:191][627]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.20.11:191][627]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.20.11:191][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.09-00.20.11:203][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.09-00.20.11:214][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.09-00.20.11:224][627]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.09-00.20.12:173][627]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-00.20.12:173][627]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.20.12:173][627]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.20.12:173][627]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.20.12:173][627]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-00.20.12:173][627]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.20.12:173][627]TextureStreamingBuild: Display: Compiling optional shaders took 1.048 seconds.
+[2019.03.09-00.20.12:184][627]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2019.03.09-00.20.12:215][627]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2019.03.09-00.20.12:240][627]LightingResults: New page: Lighting Build - Mar 8, 2019, 2:20:12 PM
+[2019.03.09-00.20.12:249][627]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.09-00.20.12:599][627]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.09-00.20.12:599][627]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.09-00.20.12:600][627]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.09-00.20.12:600][627]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.09-00.20.17:111][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.09-00.20.17:111][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.09-00.20.17:111][627]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.09-00.20.17:111][627]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.09-00.20.17:111][627]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.09-00.20.23:370][627]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.09-00.20.23:370][627]MapCheck: New page: Alley - Mar 8, 2019, 2:20:23 PM
+[2019.03.09-00.20.23:371][627]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.09-00.20.23:372][627]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.813ms to complete.
+[2019.03.09-00.20.23:396][627]LogEditorBuildUtils: Build time 0:12
+[2019.03.09-00.20.40:472][373]Job is a success!
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.09-00.20.40:574][374]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.09-00.20.42:346][374]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.03.09-00.20.42:346][374]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.03.09-00.20.42:346][374]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.03.09-00.20.42:346][374]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.03.09-00.20.42:346][374]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.03.09-00.20.42:347][374]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.03.09-00.20.42:347][374]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.03.09-00.20.42:347][374]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.03.09-00.20.42:347][374]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.03.09-00.20.42:547][374]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X256)
+[2019.03.09-00.20.42:626][374]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2019.03.09-00.20.42:643][374]Lightmass on DESKTOP-CC382ON: 18.3 sec total, 1.98 sec importing, 89 ms setup, 2.35 sec photons, 13.8 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:36 min total, 1:04 min processing.
+[2019.03.09-00.20.42:682][374]LogStaticLightingSystem: Illumination: 30.3 sec (1.63 sec encoding lightmaps, 269 ms encoding shadowmaps)
+[2019.03.09-00.20.42:682][374]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.09-00.20.42:682][374]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.09-00.20.43:609][374]DumpUnbuiltLightIteractions
+[2019.03.09-00.20.43:609][374]Lights with unbuilt interactions: 0
+[2019.03.09-00.20.43:609][374]
+[2019.03.09-00.20.43:609][374]Primitives with unbuilt interactions: 0
+[2019.03.09-00.20.43:757][375]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.09-00.20.43:757][375]MapCheck: New page: Alley - Mar 8, 2019, 2:20:43 PM
+[2019.03.09-00.20.43:759][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.688ms to complete.
+[2019.03.09-00.21.00:859][382]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-00.21.00:871][382]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-00.21.54:005][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.21.54:261][542]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_Auto1350D9B1043ACD23047580CA1FC9C14BC.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Alley_Auto1.umap'
+[2019.03.09-00.21.54:271][542]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.231
+[2019.03.09-00.21.54:271][542]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2019.03.09-00.21.57:711][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.22.50:413][814]MapCheck: New page: Map Check
+[2019.03.09-00.22.50:439][814]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.09-00.22.50:439][814]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.09-00.22.50:506][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.09-00.22.50:514][814]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.22.50:514][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.09-00.22.50:526][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.09-00.22.50:541][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.09-00.22.50:554][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.09-00.22.50:567][814]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.22.50:567][814]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.22.50:567][814]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-00.22.50:567][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.09-00.22.50:580][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.09-00.22.50:590][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.09-00.22.50:604][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.09-00.22.50:618][814]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.09-00.22.51:876][814]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-00.22.51:876][814]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.22.51:876][814]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.22.51:876][814]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.22.51:876][814]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-00.22.51:876][814]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.22.51:876][814]TextureStreamingBuild: Display: Compiling optional shaders took 1.374 seconds.
+[2019.03.09-00.22.51:890][814]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2019.03.09-00.22.51:938][814]TextureStreamingBuild: Display: Build Texture Streaming took 0.047 seconds.
+[2019.03.09-00.22.51:965][814]LightingResults: New page: Lighting Build - Mar 8, 2019, 2:22:51 PM
+[2019.03.09-00.22.51:974][814]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.09-00.22.52:708][814]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.09-00.22.52:708][814]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.09-00.22.52:709][814]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.09-00.22.52:709][814]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.09-00.22.57:220][814]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.09-00.22.57:220][814]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.09-00.22.57:220][814]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.09-00.22.57:220][814]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.09-00.22.57:220][814]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.09-00.23.04:163][814]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.09-00.23.04:163][814]MapCheck: New page: Alley - Mar 8, 2019, 2:23:04 PM
+[2019.03.09-00.23.04:165][814]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.725ms to complete.
+[2019.03.09-00.23.04:188][814]LogEditorBuildUtils: Build time 0:13
+[2019.03.09-00.23.20:378][551]Job is a success!
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.09-00.23.20:476][552]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.03.09-00.23.22:247][552]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.03.09-00.23.22:448][552]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X256)
+[2019.03.09-00.23.22:495][552]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.03.09-00.23.22:539][552]Lightmass on DESKTOP-CC382ON: 17.4 sec total, 1.93 sec importing, 82 ms setup, 2.26 sec photons, 13.1 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:31 min total, 1:02 min processing.
+[2019.03.09-00.23.22:552][552]LogStaticLightingSystem: Illumination: 30.5 sec (1.63 sec encoding lightmaps, 239 ms encoding shadowmaps)
+[2019.03.09-00.23.22:552][552]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.09-00.23.22:552][552]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.09-00.23.23:227][552]DumpUnbuiltLightIteractions
+[2019.03.09-00.23.23:228][552]Lights with unbuilt interactions: 0
+[2019.03.09-00.23.23:228][552]
+[2019.03.09-00.23.23:228][552]Primitives with unbuilt interactions: 0
+[2019.03.09-00.23.23:343][553]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.09-00.23.23:343][553]MapCheck: New page: Alley - Mar 8, 2019, 2:23:23 PM
+[2019.03.09-00.23.23:345][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.001ms to complete.
+[2019.03.09-00.23.58:044][616]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.811 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.09-00.25.17:593][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete2)
+[2019.03.09-00.25.18:868][394]Cmd: DELETE
+[2019.03.09-00.25.18:868][394]Cmd: ACTOR DELETE
+[2019.03.09-00.25.18:872][394]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.09-00.25.18:896][394]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.09-00.25.20:061][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TopConcrete)
+[2019.03.09-00.25.26:991][872]Cmd: EDIT COPY
+[2019.03.09-00.25.27:174][882]Cmd: EDIT PASTE
+[2019.03.09-00.25.30:915][ 86]LogEditorViewport: Clicking Background
+[2019.03.09-00.25.39:265][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.25.39:348][581]MapCheck: New page: Map Check
+[2019.03.09-00.25.39:379][581]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.09-00.25.39:380][581]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.09-00.25.39:471][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Asphalt, compiling. 
+[2019.03.09-00.25.39:480][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.09-00.25.39:490][581]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.25.39:490][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Brick, compiling. 
+[2019.03.09-00.25.39:499][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Window, compiling. 
+[2019.03.09-00.25.39:510][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Pipe, compiling. 
+[2019.03.09-00.25.39:520][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MainPillar, compiling. 
+[2019.03.09-00.25.39:529][581]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.25.39:529][581]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.25.39:529][581]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.25.39:529][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dumpster, compiling. 
+[2019.03.09-00.25.39:542][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_box_single, compiling. 
+[2019.03.09-00.25.39:552][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Boxpile, compiling. 
+[2019.03.09-00.25.39:566][581]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bollard, compiling. 
+[2019.03.09-00.25.40:690][581]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-00.25.40:690][581]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-00.25.40:690][581]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-00.25.40:690][581]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-00.25.40:690][581]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-00.25.40:690][581]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-00.25.40:690][581]TextureStreamingBuild: Display: Compiling optional shaders took 1.224 seconds.
+[2019.03.09-00.25.40:705][581]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2019.03.09-00.25.40:743][581]TextureStreamingBuild: Display: Build Texture Streaming took 0.037 seconds.
+[2019.03.09-00.25.40:767][581]LightingResults: New page: Lighting Build - Mar 8, 2019, 2:25:40 PM
+[2019.03.09-00.25.40:774][581]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.09-00.25.41:207][581]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.09-00.25.41:207][581]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.09-00.25.41:207][581]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.09-00.25.41:208][581]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2011776
+[2019.03.09-00.25.45:715][581]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.09-00.25.45:715][581]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.09-00.25.45:715][581]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.09-00.25.45:715][581]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.09-00.25.45:715][581]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.09-00.25.51:935][581]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.09-00.25.51:935][581]MapCheck: New page: Alley - Mar 8, 2019, 2:25:51 PM
+[2019.03.09-00.25.51:936][581]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.09-00.25.51:937][581]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.641ms to complete.
+[2019.03.09-00.25.51:960][581]LogEditorBuildUtils: Build time 0:12
+[2019.03.09-00.25.59:023][880]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-00.25.59:038][880]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-00.26.10:411][434]Job is a success!
+[2019.03.09-00.26.10:458][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.26.10:509][435]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.03.09-00.26.10:510][435]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.09-00.26.10:510][435]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.09-00.26.10:510][435]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.09-00.26.10:510][435]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.09-00.26.10:510][435]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.09-00.26.10:510][435]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.09-00.26.12:242][435]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.03.09-00.26.12:243][435]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.03.09-00.26.12:442][435]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X256)
+[2019.03.09-00.26.12:497][435]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2019.03.09-00.26.12:538][435]Lightmass on DESKTOP-CC382ON: 19.6 sec total, 1.83 sec importing, 111 ms setup, 2.60 sec photons, 15.0 sec processing, 0 ms extra exporting [45/45 mappings]. Threads: 1:39 min total, 56.4 sec processing.
+[2019.03.09-00.26.12:549][435]LogStaticLightingSystem: Illumination: 31.7 sec (1.60 sec encoding lightmaps, 244 ms encoding shadowmaps)
+[2019.03.09-00.26.12:550][435]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.03.09-00.26.12:550][435]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.09-00.26.13:166][435]DumpUnbuiltLightIteractions
+[2019.03.09-00.26.13:166][435]Lights with unbuilt interactions: 0
+[2019.03.09-00.26.13:166][435]
+[2019.03.09-00.26.13:166][435]Primitives with unbuilt interactions: 0
+[2019.03.09-00.26.13:178][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.26.13:287][436]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.09-00.26.13:288][436]MapCheck: New page: Alley - Mar 8, 2019, 2:26:13 PM
+[2019.03.09-00.26.13:290][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.571ms to complete.
+[2019.03.09-00.30.03:868][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.30.17:958][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.30.24:991][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.30.27:260][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.30.27:277][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Alley" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.09-00.30.27:489][329]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/AlleyAE15D6784B234440BB9D8495B06EE287.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap'
+[2019.03.09-00.30.27:535][329]LogFileHelpers: Saving map 'Alley' took 0.258
+[2019.03.09-00.30.27:539][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Alley_BuiltData" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley_BuiltData.uasset" SILENT=true
+[2019.03.09-00.30.27:965][329]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_BuiltData6B8E93724AC6F91C9FF5748872D92EDA.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley_BuiltData.uasset'
+[2019.03.09-00.30.32:273][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-00.30.35:046][586]LogSlate: Window 'Save Content' being destroyed
+[2019.03.09-00.30.35:068][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-00.30.35:088][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Alley_Floor" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Alley_Floor.uasset" SILENT=true
+[2019.03.09-00.30.35:119][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Alley_FloorC1CBF38A4B938DB951EB29840DC5F133.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Alley_Floor.uasset'
+[2019.03.09-00.30.35:136][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Bollard" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Bollard.uasset" SILENT=true
+[2019.03.09-00.30.35:163][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Bollard119BB7544AF82752821458ADBF6A50B8.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Bollard.uasset'
+[2019.03.09-00.30.35:210][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Dumpster_Model_Export61EA02B047493EC622AA28852361AFA0.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Dumpster_Model_Export.uasset'
+[2019.03.09-00.30.35:222][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/MainPillar" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/MainPillar.uasset" SILENT=true
+[2019.03.09-00.30.35:248][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar0C3B02B9454AA93F2B18F09515AAF31B.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/MainPillar.uasset'
+[2019.03.09-00.30.35:262][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/Pipe" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Pipe.uasset" SILENT=true
+[2019.03.09-00.30.35:286][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/PipeACDBF02649A838BC9878E6A21127FFC0.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/Pipe.uasset'
+[2019.03.09-00.30.35:300][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/TopConcrete" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/TopConcrete.uasset" SILENT=true
+[2019.03.09-00.30.35:324][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/TopConcreteE113BABD45FE4B75A52BC294D126BC89.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/TopConcrete.uasset'
+[2019.03.09-00.30.35:337][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallDoor_Left" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallDoor_Left.uasset" SILENT=true
+[2019.03.09-00.30.35:365][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallDoor_Left87936DE9452E7A5C4DBB93A4AB57A47A.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallDoor_Left.uasset'
+[2019.03.09-00.30.35:379][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallEdge" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallEdge.uasset" SILENT=true
+[2019.03.09-00.30.35:403][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallEdge878C9D884F40CCFA650F9CAF9443A344.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallEdge.uasset'
+[2019.03.09-00.30.35:416][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallRight" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallRight.uasset" SILENT=true
+[2019.03.09-00.30.35:439][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallRightADE9C8FC4446402934917BB97BF153BA.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallRight.uasset'
+[2019.03.09-00.30.35:455][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_FBX/WallWindow_Right" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallWindow_Right.uasset" SILENT=true
+[2019.03.09-00.30.35:480][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/WallWindow_Right29B6EA2647DACCBBE31E29B23BFAF207.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_FBX/WallWindow_Right.uasset'
+[2019.03.09-00.30.35:493][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_Materials/Brick/Brick" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Brick/Brick.uasset" SILENT=true
+[2019.03.09-00.30.35:516][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Brick51A0ADA74B2660531470FFB1EE5B173E.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Brick/Brick.uasset'
+[2019.03.09-00.30.35:554][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/Brick_DirtyB0B438364531D50B5314098BFD621E16.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Brick_Dirty/Brick_Dirty.uasset'
+[2019.03.09-00.30.35:588][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/MainPillar408840074CB297E2980282A00120D931.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/MainPillar/MainPillar.uasset'
+[2019.03.09-00.30.35:601][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Alley_Materials/Pipe/Pipe" FILE="../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Pipe/Pipe.uasset" SILENT=true
+[2019.03.09-00.30.35:619][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/PipeD8B37E6342704A5DE8ECE38161BEF908.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Alley_Materials/Pipe/Pipe.uasset'
+[2019.03.09-00.30.35:656][586]LogSavePackage: Moving '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_Box_pilecombined_SM_box_3DE00929D4A539F69FC5E13911F3CCC6F.tmp' to '../../../../../../Users/17794/Desktop/DogDaysOfFall_New/DogDaysOfFall/Content/Art/Matthew/Boxpile/SM_Box_pilecombined_SM_box_3.uasset'
+[2019.03.09-00.30.35:758][586]LogSlate: Window 'WallDoor_Left' being destroyed
+[2019.03.09-00.30.35:940][586]LogSlate: Window 'DogDaysOfFall - Unreal Editor' being destroyed
+[2019.03.09-00.30.35:941][586]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.09-00.30.36:441][587]Cmd: QUIT_EDITOR
+[2019.03.09-00.30.37:490][587]LogExit: Preparing to exit.
+[2019.03.09-00.30.38:228][587]LogExit: Editor shut down
+[2019.03.09-00.30.38:230][587]LogExit: Transaction tracking system shut down
+[2019.03.09-00.30.38:652][587]LogExit: Object subsystem successfully closed.
+[2019.03.09-00.30.38:698][587]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.09-00.30.38:708][587]LogD3D11RHI: Shutdown
+[2019.03.09-00.30.38:708][587]LogD3D11RHI: CleanupD3DDevice
+[2019.03.09-00.30.38:720][587]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.09-00.30.38:769][587]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (632)
+[2019.03.09-00.30.38:769][587]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2019.03.09-00.30.38:770][587]LogModuleManager: Shutting down and abandoning module TextureEditor (628)
+[2019.03.09-00.30.38:771][587]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.03.09-00.30.38:771][587]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.03.09-00.30.38:771][587]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.09-00.30.38:771][587]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.03.09-00.30.38:771][587]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.03.09-00.30.38:774][587]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.03.09-00.30.38:774][587]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.03.09-00.30.38:774][587]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.03.09-00.30.38:776][587]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.09-00.30.38:776][587]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.09-00.30.38:776][587]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.09-00.30.38:777][587]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.09-00.30.38:778][587]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.09-00.30.38:779][587]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.09-00.30.38:779][587]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.09-00.30.38:779][587]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.09-00.30.38:779][587]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.09-00.30.38:780][587]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.09-00.30.38:780][587]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.09-00.30.38:780][587]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.09-00.30.38:780][587]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.09-00.30.38:780][587]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.09-00.30.38:780][587]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.09-00.30.38:781][587]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.09-00.30.38:781][587]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.09-00.30.38:782][587]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.09-00.30.38:783][587]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.09-00.30.38:784][587]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.09-00.30.38:785][587]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.09-00.30.38:786][587]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.09-00.30.38:787][587]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.09-00.30.38:788][587]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.09-00.30.38:788][587]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.09-00.30.38:788][587]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.09-00.30.38:788][587]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.09-00.30.38:788][587]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.09-00.30.39:109][587]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.09-00.30.39:110][587]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.09-00.30.39:110][587]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.09-00.30.39:110][587]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.09-00.30.39:110][587]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.09-00.30.39:110][587]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.09-00.30.39:110][587]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.09-00.30.39:111][587]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.09-00.30.39:111][587]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.09-00.30.39:112][587]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.09-00.30.39:112][587]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.09-00.30.39:112][587]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.09-00.30.39:112][587]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.09-00.30.39:112][587]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.09-00.30.39:112][587]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.09-00.30.39:113][587]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.09-00.30.39:113][587]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.09-00.30.39:113][587]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.09-00.30.39:114][587]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.09-00.30.39:115][587]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.09-00.30.39:116][587]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.09-00.30.39:116][587]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.09-00.30.39:116][587]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.09-00.30.39:161][587]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.09-00.30.39:161][587]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.09-00.30.39:162][587]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.09-00.30.39:163][587]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.09-00.30.39:163][587]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.09-00.30.39:163][587]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.09-00.30.39:164][587]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.09-00.30.39:164][587]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.09-00.30.39:164][587]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.09-00.30.39:165][587]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.09-00.30.39:166][587]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.09-00.30.39:167][587]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.09-00.30.39:168][587]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.09-00.30.39:168][587]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.09-00.30.39:168][587]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.09-00.30.39:168][587]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.09-00.30.39:168][587]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.09-00.30.39:173][587]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.09-00.30.39:286][587]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.09-00.30.39:287][587]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.09-00.30.39:288][587]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.09-00.30.39:288][587]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.09-00.30.39:288][587]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.09-00.30.39:288][587]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.09-00.30.39:288][587]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.09-00.30.39:288][587]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.09-00.30.39:289][587]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.09-00.30.39:289][587]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.09-00.30.39:289][587]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.09-00.30.39:296][587]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.09-00.30.39:297][587]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.09-00.30.39:299][587]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.09-00.30.39:299][587]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.09-00.30.39:299][587]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.09-00.30.39:300][587]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.09-00.30.39:300][587]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.09-00.30.39:300][587]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.09-00.30.39:300][587]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.09-00.30.39:300][587]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.09-00.30.39:300][587]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.09-00.30.39:301][587]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.09-00.30.39:302][587]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.09-00.30.39:303][587]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.09-00.30.39:303][587]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.09-00.30.39:303][587]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.09-00.30.39:304][587]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.09-00.30.39:304][587]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.09-00.30.39:304][587]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.09-00.30.39:304][587]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.09-00.30.39:304][587]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.09-00.30.39:305][587]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.09-00.30.39:406][587]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.09-00.30.39:507][587]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.09-00.30.39:507][587]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.09-00.30.39:507][587]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.09-00.30.39:507][587]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.09-00.30.39:507][587]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.09-00.30.39:507][587]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.09-00.30.39:508][587]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.09-00.30.39:510][587]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.09-00.30.39:511][587]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.09-00.30.39:511][587]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.09-00.30.39:511][587]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.09-00.30.39:512][587]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.09-00.30.39:515][587]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.09-00.30.39:515][587]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.09-00.30.39:515][587]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.09-00.30.39:515][587]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.09-00.30.39:516][587]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.09-00.30.39:516][587]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.09-00.30.39:516][587]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.09-00.30.39:519][587]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.09-00.30.39:525][587]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.09-00.30.39:525][587]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.09-00.30.39:526][587]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.09-00.30.39:526][587]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.09-00.30.39:526][587]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.09-00.30.39:526][587]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.09-00.30.39:526][587]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.09-00.30.39:527][587]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.09-00.30.39:527][587]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.09-00.30.39:527][587]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.09-00.30.39:528][587]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.09-00.30.39:528][587]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.09-00.30.39:530][587]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.09-00.30.39:530][587]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.09-00.30.39:530][587]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.09-00.30.39:531][587]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.09-00.30.39:533][587]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.09-00.30.39:533][587]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.09-00.30.39:535][587]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.09-00.30.39:535][587]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.09-00.30.39:539][587]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.09-00.30.39:540][587]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.09-00.30.39:540][587]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.09-00.30.39:540][587]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.09-00.30.39:541][587]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.09-00.30.39:541][587]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.09-00.30.39:541][587]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.09-00.30.39:542][587]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.09-00.30.39:542][587]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.09-00.30.39:543][587]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.09-00.30.39:634][587]LogDerivedDataCache: Shutdown
+[2019.03.09-00.30.39:634][587]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.09-00.30.39:634][587]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.09-00.30.39:634][587]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.09-00.30.39:635][587]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.09-00.30.39:635][587]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.09-00.30.39:635][587]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.09-00.30.39:635][587]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.09-00.30.39:636][587]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.09-00.30.39:637][587]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.09-00.30.39:646][587]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.09-00.30.39:646][587]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.09-00.30.39:646][587]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.09-00.30.39:646][587]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.09-00.30.39:646][587]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.09-00.30.39:652][587]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.09-00.30.39:652][587]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.09-00.30.39:667][587]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.09-00.30.39:667][587]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.09-00.30.39:704][587]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.09-00.30.39:705][587]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.09-00.30.39:705][587]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.09-00.30.39:705][587]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.09-00.30.39:705][587]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.09-00.30.39:705][587]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.09-00.30.39:705][587]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.09-00.30.39:706][587]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.09-00.30.39:706][587]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.09-00.30.39:707][587]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.09-00.30.39:709][587]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.09-00.30.39:722][587]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.09-00.30.39:722][587]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.09-00.30.39:722][587]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3D9758D1-45FD-94BB-17A9-B8BF21197268%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=53c623c04ff31cee6b5f53b5184fe267%7Ca995f7a4267343ae969b6d33b4d10643%7C4e09c516-aac8-478f-bf63-dd49a9a5a301&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.09-00.30.39:740][587]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.09-00.30.39:742][587]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.09-00.30.39:742][587]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.09-00.30.39:743][587]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.09-00.30.39:743][587]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.09-00.30.39:744][587]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.09-00.30.39:744][587]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.09-00.30.39:744][587]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.09-00.30.39:745][587]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.09-00.30.39:745][587]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.09-00.30.39:745][587]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.09-00.30.39:745][587]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.09-00.30.39:749][587]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.09-00.30.39:749][587]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.09-00.30.39:749][587]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.09-00.30.39:749][587]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.09-00.30.39:750][587]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.09-00.30.39:759][587]LogExit: Exiting.
+[2019.03.09-00.30.39:788][587]Log file closed, 03/08/19 19:30:39
