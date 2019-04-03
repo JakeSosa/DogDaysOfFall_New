@@ -1,0 +1,1247 @@
+﻿Log file open, 04/03/19 09:22:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DogDaysOfFall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285850
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.093s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.03-13.22.36:458][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.03-13.22.36:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:459][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:462][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-13.22.36:463][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-13.22.36:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-13.22.36:464][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-13.22.36:464][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-13.22.36:478][  0]LogHAL: Display: Platform has ~ 16 GB [17053204480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.03-13.22.36:478][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.03-13.22.36:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-13.22.36:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-13.22.36:479][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.03-13.22.36:480][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.03-13.22.36:480][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.04.03-13.22.36:480][  0]LogInit: Computer: MATTS-BEEFY-BOI
+[2019.04.03-13.22.36:480][  0]LogInit: User: Matth
+[2019.04.03-13.22.36:480][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.03-13.22.36:480][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.04.03-13.22.36:480][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.03-13.22.36:480][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-13.22.36:480][  0]LogMemory: Process Physical Memory: 103.15 MB used, 103.15 MB peak
+[2019.04.03-13.22.36:480][  0]LogMemory: Process Virtual Memory: 93.66 MB used, 93.66 MB peak
+[2019.04.03-13.22.36:480][  0]LogMemory: Physical Memory: 9932.22 MB used,  6330.98 MB free, 16263.20 MB total
+[2019.04.03-13.22.36:481][  0]LogMemory: Virtual Memory: 4654.79 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.04.03-13.22.36:510][  0]LogInit: Using OS detected language (en-US).
+[2019.04.03-13.22.36:510][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.03-13.22.36:511][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.03-13.22.36:951][  0]LogStreaming: Display: Took  0.441s to InitEngineTextLocalization.
+[2019.04.03-13.22.36:951][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-13.22.37:001][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-13.22.37:001][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-13.22.37:258][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-13.22.37:258][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-13.22.37:344][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2019.04.03-13.22.37:344][  0]LogD3D11RHI:       16257/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.03-13.22.37:360][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.03-13.22.37:360][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.03-13.22.37:363][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-13.22.37:363][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-13.22.37:363][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-13.22.37:450][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-13.22.37:450][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-13.22.37:450][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-13.22.37:450][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.03-13.22.37:451][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.03-13.22.37:451][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.03-13.22.37:451][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.04.03-13.22.37:452][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.04.03-13.22.37:452][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.04.03-13.22.37:453][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.04.03-13.22.37:453][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.03-13.22.37:453][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2019.04.03-13.22.37:453][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2019.04.03-13.22.37:453][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2019.04.03-13.22.37:453][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
+[2019.04.03-13.22.37:503][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-13.22.37:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.03-13.22.37:923][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.03-13.22.37:938][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.03-13.22.37:952][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.03-13.22.37:967][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.03-13.22.37:983][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.03-13.22.37:996][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.03-13.22.38:011][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.03-13.22.38:024][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.03-13.22.38:030][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-13.22.38:124][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.03-13.22.38:190][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-13.22.38:190][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-13.22.38:217][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-13.22.38:217][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-13.22.38:230][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.03-13.22.38:245][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.03-13.22.38:260][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.03-13.22.38:275][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.03-13.22.38:326][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-13.22.38:326][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-13.22.38:327][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-13.22.38:396][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Intermediate/Shaders/WorkingDirectory/272864/).
+[2019.04.03-13.22.38:396][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matth/AppData/Local/Temp/UnrealShaderWorkingDir/6304803947A126A2EC5E6BA4FA9E94BB/'.
+[2019.04.03-13.22.38:398][  0]LogXGEController: Cleaning working directory: C:/Users/Matth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-13.22.38:399][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.03-13.22.38:399][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.03-13.22.38:399][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.03-13.22.39:058][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-13.22.39:125][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Matth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-13.22.39:125][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.03-13.22.39:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-13.22.39:126][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-13.22.39:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-13.22.39:126][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.03-13.22.39:144][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.03-13.22.39:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-13.22.39:145][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.03-13.22.39:156][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.03-13.22.39:156][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-13.22.39:156][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-13.22.39:185][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-13.22.39:186][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.03-13.22.39:187][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-13.22.39:289][  0]LogAssetRegistry: FAssetRegistry took 0.0387 seconds to start up
+[2019.04.03-13.22.39:703][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-13.22.39:890][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.03-13.22.39:894][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.03-13.22.39:894][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.03-13.22.39:894][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-13.22.39:894][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.03-13.22.39:923][  0]LogNetVersion: DogDaysOfFall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1062122466)
+[2019.04.03-13.22.40:782][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.101554 seconds
+[2019.04.03-13.22.40:788][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.03-13.22.40:788][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.03-13.22.40:788][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-13.22.41:793][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-13.22.41:806][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-13.22.42:615][  0]SourceControl: Source control is disabled
+[2019.04.03-13.22.42:615][  0]SourceControl: Source control is disabled
+[2019.04.03-13.22.42:616][  0]SourceControl: Source control is disabled
+[2019.04.03-13.22.42:617][  0]SourceControl: Source control is disabled
+[2019.04.03-13.22.42:797][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-13.22.42:892][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-13.22.43:044][  0]LogEngine: Initializing Engine...
+[2019.04.03-13.22.43:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-13.22.43:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-13.22.43:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-13.22.43:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.04.03-13.22.43:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-13.22.43:383][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.03-13.22.43:399][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-13.22.43:474][  0]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-13.22.43:682][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-13.22.43:683][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.03-13.22.43:758][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Matth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-13.22.43:772][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-13.22.43:793][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-13.22.43:873][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-13.22.43:897][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-13.22.43:980][  0]LocalizationService: Localization service is disabled
+[2019.04.03-13.22.44:496][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/' took 0.03s
+[2019.04.03-13.22.44:496][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-13.22.44:497][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-13.22.44:497][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.03-13.22.44:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-13.22.44:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-13.22.44:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-13.22.44:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-13.22.44:673][  0]SourceControl: Source control is disabled
+[2019.04.03-13.22.44:673][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-13.22.44:673][  0]LightingResults: New page: Lighting Build
+[2019.04.03-13.22.44:676][  0]MapCheck: New page: Map Check
+[2019.04.03-13.22.44:676][  0]LightingResults: New page: Lighting Build
+[2019.04.03-13.22.45:415][  0]LogAIModule: Creating AISystem for world Alley
+[2019.04.03-13.22.45:431][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-13.22.45:459][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-13.22.45:460][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2019.04.03-13.22.45:460][  0]LogFileHelpers: Loading map 'Alley' took 0.786
+[2019.04.03-13.22.45:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-13.22.45:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-13.22.45:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-13.22.45:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-13.22.45:679][  0]LogCollectionManager: Loaded 0 collections in 0.003152 seconds
+[2019.04.03-13.22.45:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Collections/' took 0.01s
+[2019.04.03-13.22.45:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Developers/Matth/Collections/' took 0.00s
+[2019.04.03-13.22.45:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Collections/' took 0.00s
+[2019.04.03-13.22.45:698][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.03-13.22.45:710][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2651 classes and 620 folders.
+[2019.04.03-13.22.45:721][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.03-13.22.45:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-13.22.45:807][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.03-13.22.45:813][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.04.03-13.22.45:836][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-13.22.45:838][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-13.22.45:845][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-13.22.46:070][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.03-13.22.46:071][  0]LogLoad: (Engine Initialization) Total time: 11.73 seconds
+[2019.04.03-13.22.46:071][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-13.22.46:100][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-13.22.46:149][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.03-13.22.46:295][  1]LogRenderer: Reallocating scene render targets to support 1160x508 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-13.22.46:320][  1]LogAssetRegistry: Asset discovery search completed in 7.0552 seconds
+[2019.04.03-13.22.46:322][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.03-13.22.46:322][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2019.04.03-13.22.48:317][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.22.50:943][136]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-13.22.51:060][136]LogAIModule: Creating AISystem for world Garage_day
+[2019.04.03-13.22.51:069][136]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/Garage_day.Garage_day
+[2019.04.03-13.22.51:094][136]Cmd: MAP LOAD FILE="../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-13.22.51:094][136]LightingResults: New page: Lighting Build
+[2019.04.03-13.22.51:095][136]LoadErrors: New page: Loading map: Garage_day.umap
+[2019.04.03-13.22.51:096][136]MapCheck: New page: Map Check
+[2019.04.03-13.22.51:096][136]LightingResults: New page: Lighting Build
+[2019.04.03-13.22.51:126][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-13.22.51:183][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-13.22.51:183][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2019.04.03-13.22.51:184][136]LogFileHelpers: Loading map 'Garage_day' took 0.092
+[2019.04.03-13.22.55:952][283]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_backwall.fbx]
+[2019.04.03-13.22.56:003][283]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_backwall.fbx
+[2019.04.03-13.22.56:010][283]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.22.56:014][283]LogFbx: Warning: Triangulating static mesh SM_Backwall
+[2019.04.03-13.22.56:042][283]LogStaticMesh: Building static mesh SM_backwall...
+[2019.04.03-13.22.56:046][283]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_backwall.SM_backwall
+[2019.04.03-13.22.56:068][283]LogEditorFactories: -- imported successfully
+[2019.04.03-13.23.16:349][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_backwall)
+[2019.04.03-13.24.03:495][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.24.06:607][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.24.09:749][665]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_door.fbx]
+[2019.04.03-13.24.09:799][665]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_door.fbx
+[2019.04.03-13.24.09:805][665]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.24.09:809][665]LogFbx: Warning: Triangulating static mesh SM_door
+[2019.04.03-13.24.09:840][665]LogStaticMesh: Building static mesh SM_door...
+[2019.04.03-13.24.09:844][665]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_door.SM_door
+[2019.04.03-13.24.09:864][665]LogEditorFactories: -- imported successfully
+[2019.04.03-13.24.13:201][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.24.30:363][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.24.39:455][829]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_elevatordoor.fbx]
+[2019.04.03-13.24.39:508][829]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_elevatordoor.fbx
+[2019.04.03-13.24.39:514][829]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.24.39:518][829]LogFbx: Warning: Triangulating static mesh SM_elivatordoor
+[2019.04.03-13.24.39:548][829]LogStaticMesh: Building static mesh SM_elevatordoor...
+[2019.04.03-13.24.39:551][829]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_elevatordoor.SM_elevatordoor
+[2019.04.03-13.24.39:572][829]LogEditorFactories: -- imported successfully
+[2019.04.03-13.24.42:372][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.24.44:935][150]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_eleviator.fbx]
+[2019.04.03-13.24.44:991][150]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_eleviator.fbx
+[2019.04.03-13.24.44:998][150]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.24.45:003][150]LogFbx: Warning: Triangulating static mesh SM_elivator
+[2019.04.03-13.24.45:041][150]LogStaticMesh: Building static mesh SM_eleviator...
+[2019.04.03-13.24.45:047][150]LogStaticMesh: Built static mesh [0.01s] /Game/Art/garage/Garage_FBX/SM_eleviator.SM_eleviator
+[2019.04.03-13.24.45:064][150]LogEditorFactories: -- imported successfully
+[2019.04.03-13.24.48:679][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_elevatordoor2)
+[2019.04.03-13.24.49:418][468]Cmd: DELETE
+[2019.04.03-13.24.49:418][468]Cmd: ACTOR DELETE
+[2019.04.03-13.24.49:421][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-13.24.49:444][468]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.04.03-13.24.50:223][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_elevatordoor)
+[2019.04.03-13.24.52:720][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_eleviator)
+[2019.04.03-13.25.06:544][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_elevatordoor)
+[2019.04.03-13.25.19:572][899]Cmd: TRANSACTION UNDO
+[2019.04.03-13.25.19:572][899]LogEditorTransaction: Undo Move Actors
+[2019.04.03-13.25.42:671][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_elevatordoor)
+[2019.04.03-13.25.47:930][231]LogEditorViewport: Clicking Background
+[2019.04.03-13.25.49:397][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.25.51:323][509]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_floor.fbx]
+[2019.04.03-13.25.51:379][509]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_floor.fbx
+[2019.04.03-13.25.51:387][509]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.25.51:394][509]LogFbx: Warning: Triangulating static mesh SM_floor
+[2019.04.03-13.25.51:664][509]LogStaticMesh: Building static mesh SM_floor...
+[2019.04.03-13.25.51:715][509]LogStaticMesh: Built static mesh [0.05s] /Game/Art/garage/Garage_FBX/SM_floor.SM_floor
+[2019.04.03-13.25.51:753][509]LogEditorFactories: -- imported successfully
+[2019.04.03-13.25.56:672][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor)
+[2019.04.03-13.26.43:391][808]LogEditorViewport: Clicking Background
+[2019.04.03-13.26.46:002][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.26.48:946][229]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_leftwall.fbx]
+[2019.04.03-13.26.48:998][229]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_leftwall.fbx
+[2019.04.03-13.26.49:004][229]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.26.49:007][229]LogFbx: Warning: Triangulating static mesh SM_leftwall
+[2019.04.03-13.26.49:036][229]LogStaticMesh: Building static mesh SM_leftwall...
+[2019.04.03-13.26.49:040][229]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_leftwall.SM_leftwall
+[2019.04.03-13.26.49:057][229]LogEditorFactories: -- imported successfully
+[2019.04.03-13.26.52:000][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_leftwall)
+[2019.04.03-13.27.01:729][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-13.27.20:129][798]LogEditorViewport: Clicking Background
+[2019.04.03-13.27.25:088][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.27.27:002][430]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_piller.fbx]
+[2019.04.03-13.27.27:053][430]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_piller.fbx
+[2019.04.03-13.27.27:063][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.27.27:068][430]LogFbx: Warning: Triangulating static mesh SM_piller
+[2019.04.03-13.27.27:104][430]LogStaticMesh: Building static mesh SM_piller...
+[2019.04.03-13.27.27:108][430]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_piller.SM_piller
+[2019.04.03-13.27.27:123][430]LogEditorFactories: -- imported successfully
+[2019.04.03-13.27.29:822][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_piller)
+[2019.04.03-13.27.37:002][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_piller2)
+[2019.04.03-13.27.47:072][ 60]Cmd: TRANSACTION UNDO
+[2019.04.03-13.27.47:072][ 60]LogEditorTransaction: Undo Move Actors
+[2019.04.03-13.27.47:868][110]Cmd: TRANSACTION UNDO
+[2019.04.03-13.27.47:868][110]LogEditorTransaction: Undo Move Actors
+[2019.04.03-13.27.48:769][186]Cmd: TRANSACTION UNDO
+[2019.04.03-13.27.48:769][186]LogEditorTransaction: Undo Move Actors
+[2019.04.03-13.27.58:958][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_piller2)
+[2019.04.03-13.27.59:762][ 91]Cmd: DELETE
+[2019.04.03-13.27.59:762][ 91]Cmd: ACTOR DELETE
+[2019.04.03-13.27.59:766][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-13.27.59:790][ 91]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.04.03-13.28.00:614][161]Cmd: TRANSACTION UNDO
+[2019.04.03-13.28.00:614][161]LogEditorTransaction: Undo Delete Actors
+[2019.04.03-13.28.07:166][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_piller)
+[2019.04.03-13.28.18:185][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_piller2)
+[2019.04.03-13.28.19:195][656]Cmd: DELETE
+[2019.04.03-13.28.19:195][656]Cmd: ACTOR DELETE
+[2019.04.03-13.28.19:198][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-13.28.19:222][656]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.04.03-13.28.21:856][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.28.24:878][127]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_rightwall.fbx]
+[2019.04.03-13.28.24:926][127]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_rightwall.fbx
+[2019.04.03-13.28.24:933][127]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.28.24:939][127]LogFbx: Warning: Triangulating static mesh SM_rightwall
+[2019.04.03-13.28.24:996][127]LogStaticMesh: Building static mesh SM_rightwall...
+[2019.04.03-13.28.25:010][127]LogStaticMesh: Built static mesh [0.01s] /Game/Art/garage/Garage_FBX/SM_rightwall.SM_rightwall
+[2019.04.03-13.28.25:027][127]LogEditorFactories: -- imported successfully
+[2019.04.03-13.28.33:739][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.28.41:605][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.28.41:816][625]LogActorFactory: Actor Factory created SM_rightwall
+[2019.04.03-13.28.42:303][653]LogActorFactory: Actor Factory created SM_rightwall
+[2019.04.03-13.28.44:018][790]Cmd: DELETE
+[2019.04.03-13.28.44:018][790]Cmd: ACTOR DELETE
+[2019.04.03-13.28.44:023][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-13.28.44:047][790]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.04.03-13.28.44:711][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.28.46:305][980]Cmd: DELETE
+[2019.04.03-13.28.46:305][980]Cmd: ACTOR DELETE
+[2019.04.03-13.28.46:308][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-13.28.46:332][980]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.04.03-13.28.49:316][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.28.49:754][302]LogActorFactory: Actor Factory created SM_rightwall
+[2019.04.03-13.28.50:954][392]LogActorFactory: Actor Factory created SM_rightwall
+[2019.04.03-13.29.23:177][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.29.30:108][661]LogEditorViewport: Clicking Background
+[2019.04.03-13.30.05:502][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.30.11:285][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.30.16:764][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.30.30:394][490]Cmd: TRANSACTION UNDO
+[2019.04.03-13.30.30:394][490]LogEditorTransaction: Undo Move Actors
+[2019.04.03-13.30.30:976][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.30.45:994][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_leftwall)
+[2019.04.03-13.31.06:536][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.31.29:170][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.31.35:760][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.31.44:101][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.31.49:954][200]LogEditorViewport: Clicking Background
+[2019.04.03-13.31.55:500][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.32.11:300][113]Cmd: TRANSACTION UNDO
+[2019.04.03-13.32.11:300][113]LogEditorTransaction: Undo Scale Actors
+[2019.04.03-13.32.15:299][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.32.19:005][705]Cmd: TRANSACTION UNDO
+[2019.04.03-13.32.19:005][705]LogEditorTransaction: Undo Scale Actors
+[2019.04.03-13.32.19:841][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.32.24:041][ 99]Cmd: TRANSACTION UNDO
+[2019.04.03-13.32.24:041][ 99]LogEditorTransaction: Undo Scale Actors
+[2019.04.03-13.32.27:044][334]Cmd: TRANSACTION UNDO
+[2019.04.03-13.32.27:044][334]LogEditorTransaction: Undo Scale Actors
+[2019.04.03-13.32.30:470][614]Cmd: TRANSACTION UNDO
+[2019.04.03-13.32.30:470][614]LogEditorTransaction: Undo Scale Actors
+[2019.04.03-13.32.32:119][737]Cmd: TRANSACTION UNDO
+[2019.04.03-13.32.32:119][737]LogEditorTransaction: Undo Scale Actors
+[2019.04.03-13.32.38:651][300]LogEditorViewport: Clicking Background
+[2019.04.03-13.32.41:536][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.32.43:966][760]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_rightwallback.fbx]
+[2019.04.03-13.32.44:026][760]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_rightwallback.fbx
+[2019.04.03-13.32.44:033][760]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.32.44:037][760]LogFbx: Warning: Triangulating static mesh SM_rightwallback
+[2019.04.03-13.32.44:072][760]LogStaticMesh: Building static mesh SM_rightwallback...
+[2019.04.03-13.32.44:076][760]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_rightwallback.SM_rightwallback
+[2019.04.03-13.32.44:095][760]LogEditorFactories: -- imported successfully
+[2019.04.03-13.32.51:794][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_eleviator)
+[2019.04.03-13.32.59:450][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwallback)
+[2019.04.03-13.33.27:411][485]LogEditorViewport: Clicking Background
+[2019.04.03-13.33.33:037][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.33.38:871][478]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_roof.fbx]
+[2019.04.03-13.33.38:916][478]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_roof.fbx
+[2019.04.03-13.33.38:922][478]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.33.38:926][478]LogFbx: Warning: Triangulating static mesh SM_roof
+[2019.04.03-13.33.38:951][478]LogStaticMesh: Building static mesh SM_roof...
+[2019.04.03-13.33.38:953][478]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_roof.SM_roof
+[2019.04.03-13.33.38:969][478]LogEditorFactories: -- imported successfully
+[2019.04.03-13.33.42:223][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof)
+[2019.04.03-13.34.30:484][320]LogEditorViewport: Clicking Background
+[2019.04.03-13.34.41:921][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwallback)
+[2019.04.03-13.35.05:842][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.35.12:567][786]LogEditorFactories: Performing atomic reimport of [C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_Wheelstopers.fbx]
+[2019.04.03-13.35.12:621][786]LogFbx: Loading FBX Scene from C:/Users/Matth/OneDrive/Documents/Full Sail/Cellic/Dog days/models/garage/fbx/SM_Wheelstopers.fbx
+[2019.04.03-13.35.12:627][786]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-13.35.12:631][786]LogFbx: Warning: Triangulating static mesh SM_
+[2019.04.03-13.35.12:667][786]LogStaticMesh: Building static mesh SM_Wheelstopers...
+[2019.04.03-13.35.12:670][786]LogStaticMesh: Built static mesh [0.00s] /Game/Art/garage/Garage_FBX/SM_Wheelstopers.SM_Wheelstopers
+[2019.04.03-13.35.12:689][786]LogEditorFactories: -- imported successfully
+[2019.04.03-13.35.24:950][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor)
+[2019.04.03-13.35.25:514][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_sign)
+[2019.04.03-13.36.05:659][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day_Auto1239250C24F2290F1E9E20594A3735C11.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Scenes/Garage_day_Auto1.umap'
+[2019.04.03-13.36.05:668][546]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Garage_day' took 0.209
+[2019.04.03-13.36.05:668][546]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2019.04.03-13.36.05:672][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_backwall] ([1] browsable assets)...
+[2019.04.03-13.36.05:695][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_backwall.SM_backwall]
+[2019.04.03-13.36.05:695][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_backwall]
+[2019.04.03-13.36.05:734][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_backwall_Auto11D34C1624CD10F56B0EB1E91CF9809E2.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_backwall_Auto1.uasset'
+[2019.04.03-13.36.05:736][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_door] ([1] browsable assets)...
+[2019.04.03-13.36.05:756][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_door.SM_door]
+[2019.04.03-13.36.05:756][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_door]
+[2019.04.03-13.36.05:799][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_door_Auto1A8CAB67D44AD418497574F997C03294F.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_door_Auto1.uasset'
+[2019.04.03-13.36.05:801][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_elevatordoor] ([1] browsable assets)...
+[2019.04.03-13.36.05:823][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_elevatordoor.SM_elevatordoor]
+[2019.04.03-13.36.05:823][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_elevatordoor]
+[2019.04.03-13.36.05:862][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_elevatordoor_Auto1028AF57E4BF4BC84F67D4B93FB472079.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_elevatordoor_Auto1.uasset'
+[2019.04.03-13.36.05:864][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_eleviator] ([1] browsable assets)...
+[2019.04.03-13.36.05:882][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_eleviator.SM_eleviator]
+[2019.04.03-13.36.05:882][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_eleviator]
+[2019.04.03-13.36.05:937][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_eleviator_Auto11CB704684C766E6479FA05A1B8A727EE.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_eleviator_Auto1.uasset'
+[2019.04.03-13.36.05:940][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_floor] ([1] browsable assets)...
+[2019.04.03-13.36.05:963][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_floor.SM_floor]
+[2019.04.03-13.36.05:963][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_floor]
+[2019.04.03-13.36.06:017][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_floor_Auto1F67428E647AEE8F34DA474A9BD4DD143.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_floor_Auto1.uasset'
+[2019.04.03-13.36.06:019][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_leftwall] ([1] browsable assets)...
+[2019.04.03-13.36.06:044][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_leftwall.SM_leftwall]
+[2019.04.03-13.36.06:044][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_leftwall]
+[2019.04.03-13.36.06:110][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_leftwall_Auto10CCDCBF64A273294F8152AB09BBA7824.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_leftwall_Auto1.uasset'
+[2019.04.03-13.36.06:112][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_piller] ([1] browsable assets)...
+[2019.04.03-13.36.06:129][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_piller.SM_piller]
+[2019.04.03-13.36.06:129][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_piller]
+[2019.04.03-13.36.06:174][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_piller_Auto1FC8494D6423F51B32F028C9EAE0BE707.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_piller_Auto1.uasset'
+[2019.04.03-13.36.06:176][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_rightwall] ([1] browsable assets)...
+[2019.04.03-13.36.06:194][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_rightwall.SM_rightwall]
+[2019.04.03-13.36.06:194][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_rightwall]
+[2019.04.03-13.36.06:234][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_rightwall_Auto1D1E0B738428F7D0BF06202BD73027329.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_rightwall_Auto1.uasset'
+[2019.04.03-13.36.06:236][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_rightwallback] ([1] browsable assets)...
+[2019.04.03-13.36.06:256][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_rightwallback.SM_rightwallback]
+[2019.04.03-13.36.06:256][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_rightwallback]
+[2019.04.03-13.36.06:307][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_rightwallback_Auto10967D2834179F7C571B4A89EC7EA1818.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_rightwallback_Auto1.uasset'
+[2019.04.03-13.36.06:309][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_roof] ([1] browsable assets)...
+[2019.04.03-13.36.06:327][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_roof.SM_roof]
+[2019.04.03-13.36.06:327][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_roof]
+[2019.04.03-13.36.06:376][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_roof_Auto1EBFBDB1941792CAC736A1A820BA2B770.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_roof_Auto1.uasset'
+[2019.04.03-13.36.06:378][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/garage/Garage_FBX/SM_Wheelstopers] ([1] browsable assets)...
+[2019.04.03-13.36.06:400][546]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/garage/Garage_FBX/SM_Wheelstopers.SM_Wheelstopers]
+[2019.04.03-13.36.06:400][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/garage/Garage_FBX/SM_Wheelstopers]
+[2019.04.03-13.36.06:446][546]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_Wheelstopers_Auto109329FFB4C78999B9A65289DB30B57C5.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/garage/Garage_FBX/SM_Wheelstopers_Auto1.uasset'
+[2019.04.03-13.36.06:449][546]LogFileHelpers: Auto-saving content packages took 0.777
+[2019.04.03-13.37.06:620][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-13.37.08:918][767]LogEditorViewport: Clicking Background
+[2019.04.03-13.37.10:134][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.37.10:448][844]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_dayF444C6054E2E8A7EA05109821BB213F5.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day.umap'
+[2019.04.03-13.37.10:579][844]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day_BuiltData0A64A3534FBEF18D5C03D5A082CE8F0F.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day_BuiltData.uasset'
+[2019.04.03-13.37.13:976][932]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-13.37.14:053][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_backwall4A84E33745D3A22E3755B0AA332A4FF6.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_backwall.uasset'
+[2019.04.03-13.37.14:092][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_doorBA6DF3644947AEA6A8DBC6BD558F3730.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_door.uasset'
+[2019.04.03-13.37.14:129][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_elevatordoor0D48D475437B6D2E2E4DEB940BF8D34C.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_elevatordoor.uasset'
+[2019.04.03-13.37.14:165][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_eleviatorF93EAA2F427862E4E83534985483AE20.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_eleviator.uasset'
+[2019.04.03-13.37.14:204][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_floor70DA398948ECD5ADE94F338AC14D9E47.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_floor.uasset'
+[2019.04.03-13.37.14:244][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_leftwall3553C182440524B6A70B2A8945F85459.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_leftwall.uasset'
+[2019.04.03-13.37.14:282][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_piller51DCD5D44D0D2C77DA0745B280ADE03B.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_piller.uasset'
+[2019.04.03-13.37.14:321][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_rightwall1817856F4611E997E6199D82CA4E075E.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_rightwall.uasset'
+[2019.04.03-13.37.14:359][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_rightwallbackE14CBE1D4CF5421241CBC2997044F913.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_rightwallback.uasset'
+[2019.04.03-13.37.14:393][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_roof30E5025C47290DAF786C6A9D2FA14F6C.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_roof.uasset'
+[2019.04.03-13.37.14:429][932]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/SM_Wheelstopers5B9B236F45EFA4F11C083E9CD7D8B204.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/garage/Garage_FBX/SM_Wheelstopers.uasset'
+[2019.04.03-13.37.28:314][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_eleviator)
+[2019.04.03-13.37.38:872][381]LogEditorViewport: Clicking Background
+[2019.04.03-13.37.44:209][701]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.04.03-13.39.13:499][ 36]LogEditorViewport: Clicking on Actor (LMB): BoxReflectionCapture (BoxReflectionCapture)
+[2019.04.03-13.39.51:078][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.39.51:363][284]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_dayFC994BD844343AC373EE73BC91D5AA0F.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day.umap'
+[2019.04.03-13.39.51:467][284]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day_BuiltData2D7F3E794F0294191B7848A3390872EA.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day_BuiltData.uasset'
+[2019.04.03-13.39.54:436][441]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day0CCAB13F426E09137DD4FFA336D3A7B5.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day.umap'
+[2019.04.03-13.39.54:543][441]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day_BuiltData3C904F074739C8C5DE1363A8D15FF277.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day_BuiltData.uasset'
+[2019.04.03-13.39.55:060][469]MapCheck: New page: Map Check
+[2019.04.03-13.39.55:095][469]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.03-13.39.55:096][469]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.03-13.39.55:162][469]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Fred_skin, compiling. 
+[2019.04.03-13.39.55:173][469]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.04.03-13.39.55:613][469]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-13.39.55:613][469]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-13.39.55:613][469]TextureStreamingBuild: Display: Compiling optional shaders took 0.458 seconds.
+[2019.04.03-13.39.55:614][469]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2019.04.03-13.39.55:639][469]TextureStreamingBuild: Display: Build Texture Streaming took 0.025 seconds.
+[2019.04.03-13.39.55:663][469]LightingResults: New page: Lighting Build - Apr 3, 2019, 5:39:55 AM
+[2019.04.03-13.39.55:701][469]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.03-13.39.55:884][469]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.03-13.39.55:899][469]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.03-13.39.56:408][469]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.03-13.39.56:408][469]LogSwarmInterface: [TryOpenConnection] Local Process ID is 272864
+[2019.04.03-13.40.06:245][469]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.03-13.40.06:245][469]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.03-13.40.06:246][469]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.03-13.40.06:246][469]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.03-13.40.06:246][469]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.03-13.40.07:361][469]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.03-13.40.07:361][469]MapCheck: New page: Garage_day - Apr 3, 2019, 5:40:07 AM
+[2019.04.03-13.40.07:362][469]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.04.03-13.40.07:363][469]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.449ms to complete.
+[2019.04.03-13.40.07:387][469]LogEditorBuildUtils: Build time 0:12
+[2019.04.03-13.40.10:739][479]Job is a success!
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2019.04.03-13.40.11:242][480]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2019.04.03-13.40.11:476][480]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.04.03-13.40.11:476][480]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.04.03-13.40.11:497][480]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X64)
+[2019.04.03-13.40.11:529][480]Lightmass on MATTS-BEEFY-BOI: 3.36 sec total, 275 ms importing, 283 ms setup, 706 ms photons, 2.07 sec processing, 0 ms extra exporting [34/34 mappings]. Threads: 14.3 sec total, 5.52 sec processing.
+[2019.04.03-13.40.11:575][480]LogStaticLightingSystem: Illumination: 15.5 sec (186 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2019.04.03-13.40.11:575][480]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.03-13.40.11:575][480]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.03-13.40.11:694][480]DumpUnbuiltLightIteractions
+[2019.04.03-13.40.11:694][480]Lights with unbuilt interactions: 0
+[2019.04.03-13.40.11:694][480]
+[2019.04.03-13.40.11:694][480]Primitives with unbuilt interactions: 0
+[2019.04.03-13.40.11:776][481]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.03-13.40.11:776][481]MapCheck: New page: Garage_day - Apr 3, 2019, 5:40:11 AM
+[2019.04.03-13.40.11:778][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.278ms to complete.
+[2019.04.03-13.41.25:216][787]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-13.41.25:229][787]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-13.41.37:001][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door)
+[2019.04.03-13.41.50:852][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wheelstopers)
+[2019.04.03-13.41.52:509][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor)
+[2019.04.03-13.41.53:348][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wheelstopers)
+[2019.04.03-13.42.00:407][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwall)
+[2019.04.03-13.42.06:332][170]LogEditorViewport: Clicking Background
+[2019.04.03-13.42.10:423][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightwallback)
+[2019.04.03-13.42.18:349][876]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_rightwallback)
+[2019.04.03-13.42.18:379][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-13.42.20:827][999]Cmd: PIVOT SNAPPED
+[2019.04.03-13.42.22:092][ 71]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_rightwallback)
+[2019.04.03-13.42.22:123][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-13.42.24:925][213]Cmd: ACTOR BAKEPREPIVOT
+[2019.04.03-13.42.38:280][  3]LogEditorViewport: Clicking Background
+[2019.04.03-13.43.29:461][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.43.30:698][ 69]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-13.43.30:727][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-13.43.30:928][ 69]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day45DDC65F4FF22D1EDAAB3EA45122D449.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day.umap'
+[2019.04.03-13.43.30:967][ 69]LogFileHelpers: Saving map 'Garage_day' took 0.214
+[2019.04.03-13.43.31:052][ 69]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day_BuiltData41A027CB413825A00781B89B06230AE7.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day_BuiltData.uasset'
+[2019.04.03-13.43.44:948][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.43.45:239][900]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day0C4ACB7440C42A99585FB3900740AAFF.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day.umap'
+[2019.04.03-13.43.45:356][900]LogSavePackage: Moving '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Garage_day_BuiltData6991D4D944CFE67FA0CCF6B9B1C82129.tmp' to '../../../../../../Users/Matth/OneDrive/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Garage_day_BuiltData.uasset'
+[2019.04.03-13.43.45:908][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-13.45.49:229][376]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-13.45.49:539][377]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{3db0b4b2-5232-4642-93eb-a054a00228fd} was removed. Shutting down audio device.
+[2019.04.03-13.45.49:539][377]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-13.45.49:873][378]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-13.49.33:331][181]LogSlate: Window 'DogDaysOfFall - Unreal Editor' being destroyed
+[2019.04.03-13.49.33:588][182]Cmd: QUIT_EDITOR
+[2019.04.03-13.49.33:616][182]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-13.49.33:635][182]LogExit: Preparing to exit.
+[2019.04.03-13.49.34:760][182]LogExit: Editor shut down
+[2019.04.03-13.49.34:761][182]LogExit: Transaction tracking system shut down
+[2019.04.03-13.49.35:047][182]LogExit: Object subsystem successfully closed.
+[2019.04.03-13.49.35:065][182]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.03-13.49.35:071][182]LogD3D11RHI: Shutdown
+[2019.04.03-13.49.35:071][182]LogD3D11RHI: CleanupD3DDevice
+[2019.04.03-13.49.35:075][182]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.03-13.49.35:112][182]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.04.03-13.49.35:112][182]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.04.03-13.49.35:112][182]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.04.03-13.49.35:112][182]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.04.03-13.49.35:112][182]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.03-13.49.35:115][182]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.03-13.49.35:116][182]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.03-13.49.36:110][182]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.03-13.49.36:111][182]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.03-13.49.36:177][182]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.03-13.49.36:177][182]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.03-13.49.36:177][182]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.03-13.49.36:177][182]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.03-13.49.36:177][182]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.03-13.49.36:177][182]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.03-13.49.36:178][182]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.03-13.49.36:182][182]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.03-13.49.36:218][182]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.03-13.49.36:219][182]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.03-13.49.36:219][182]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.03-13.49.36:219][182]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.03-13.49.36:225][182]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.03-13.49.36:226][182]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.03-13.49.36:327][182]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.03-13.49.36:427][182]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.03-13.49.36:428][182]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.03-13.49.36:428][182]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.03-13.49.36:428][182]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.03-13.49.36:428][182]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.03-13.49.36:429][182]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.03-13.49.36:430][182]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.03-13.49.36:434][182]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.03-13.49.36:442][182]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.03-13.49.36:443][182]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.03-13.49.36:443][182]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.03-13.49.36:443][182]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.03-13.49.36:443][182]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.03-13.49.36:445][182]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.03-13.49.36:458][182]LogDerivedDataCache: Shutdown
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.03-13.49.36:458][182]LogXGEController: Cleaning working directory: C:/Users/Matth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.03-13.49.36:458][182]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.03-13.49.36:459][182]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.03-13.49.36:459][182]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.03-13.49.36:459][182]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.03-13.49.36:459][182]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.03-13.49.36:459][182]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.03-13.49.36:460][182]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.03-13.49.36:460][182]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.03-13.49.36:461][182]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.03-13.49.36:461][182]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.03-13.49.36:468][182]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.03-13.49.36:468][182]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.03-13.49.36:470][182]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.03-13.49.36:470][182]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.03-13.49.36:487][182]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.03-13.49.36:487][182]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.03-13.49.36:487][182]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44AF38C1-4336-3D4A-9D77-26BD46D71B94%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=95b7908b465ba65a50b8d49376ef3057%7Ca022dfe1f7724355a846901e790c6827%7C4a058cce-af84-4f14-849d-c9c286d2d96a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.03-13.49.36:497][182]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.03-13.49.36:499][182]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.03-13.49.36:500][182]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.03-13.49.36:500][182]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.03-13.49.36:502][182]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.03-13.49.36:503][182]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.03-13.49.36:503][182]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.03-13.49.36:503][182]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.03-13.49.36:503][182]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.03-13.49.36:503][182]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.03-13.49.36:503][182]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.03-13.49.36:504][182]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.03-13.49.36:516][182]LogExit: Exiting.
+[2019.04.03-13.49.36:526][182]Log file closed, 04/03/19 09:49:36
