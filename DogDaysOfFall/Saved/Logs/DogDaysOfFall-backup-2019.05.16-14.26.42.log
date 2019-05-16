@@ -1,0 +1,1516 @@
+﻿Log file open, 05/16/19 10:05:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DogDaysOfFall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.300432
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.102s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.16-14.05.31:071][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.16-14.05.31:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:072][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:077][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-14.05.31:077][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-14.05.31:078][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-14.05.31:078][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-14.05.31:078][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.16-14.05.31:097][  0]LogHAL: Display: Platform has ~ 16 GB [17053204480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.16-14.05.31:097][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.16-14.05.31:097][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.16-14.05.31:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-14.05.31:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.16-14.05.31:099][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.16-14.05.31:099][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Config/Windows/Engine.ini]
+[2019.05.16-14.05.31:099][  0]LogInit: Computer: DESKTOP-IOL7IH2
+[2019.05.16-14.05.31:099][  0]LogInit: User: topan
+[2019.05.16-14.05.31:099][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.16-14.05.31:099][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.16-14.05.31:099][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.16-14.05.31:099][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.16-14.05.31:099][  0]LogMemory: Process Physical Memory: 103.73 MB used, 103.74 MB peak
+[2019.05.16-14.05.31:099][  0]LogMemory: Process Virtual Memory: 89.61 MB used, 89.61 MB peak
+[2019.05.16-14.05.31:099][  0]LogMemory: Physical Memory: 10465.00 MB used,  5798.20 MB free, 16263.20 MB total
+[2019.05.16-14.05.31:099][  0]LogMemory: Virtual Memory: 4648.39 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.05.16-14.05.31:121][  0]LogInit: Using OS detected language (en-US).
+[2019.05.16-14.05.31:121][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.16-14.05.31:122][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.16-14.05.31:562][  0]LogStreaming: Display: Took  0.441s to InitEngineTextLocalization.
+[2019.05.16-14.05.31:562][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.16-14.05.31:627][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.16-14.05.31:627][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.16-14.05.31:869][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-14.05.31:869][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.16-14.05.31:948][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2019.05.16-14.05.31:949][  0]LogD3D11RHI:       16257/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.16-14.05.31:961][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.16-14.05.31:961][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.16-14.05.31:963][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.16-14.05.31:963][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.16-14.05.31:963][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.16-14.05.31:996][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.16-14.05.31:996][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.16-14.05.31:996][  0]LogWindows: EnumDisplayDevices:
+[2019.05.16-14.05.31:997][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.16-14.05.31:997][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.16-14.05.31:997][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.16-14.05.31:998][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:1)
+[2019.05.16-14.05.31:998][  0]LogWindows:    4. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.05.16-14.05.31:998][  0]LogWindows:    5. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.05.16-14.05.31:999][  0]LogWindows:    6. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.05.16-14.05.32:000][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.16-14.05.32:000][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2019.05.16-14.05.32:000][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2019.05.16-14.05.32:000][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2019.05.16-14.05.32:000][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
+[2019.05.16-14.05.32:051][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.16-14.05.32:070][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.16-14.05.32:481][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.16-14.05.32:494][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.16-14.05.32:508][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.16-14.05.32:521][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.16-14.05.32:536][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.16-14.05.32:550][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.16-14.05.32:565][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.16-14.05.32:578][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.16-14.05.32:586][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-14.05.32:666][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.16-14.05.32:729][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.16-14.05.32:729][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.16-14.05.32:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.16-14.05.32:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.16-14.05.32:768][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.16-14.05.32:779][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.16-14.05.32:793][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.16-14.05.32:807][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.16-14.05.32:853][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.16-14.05.32:853][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.16-14.05.32:853][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.16-14.05.32:927][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Intermediate/Shaders/WorkingDirectory/11212/).
+[2019.05.16-14.05.32:927][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/topan/AppData/Local/Temp/UnrealShaderWorkingDir/0CAE92B2424125A7FF0A8E994204B62E/'.
+[2019.05.16-14.05.32:930][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.16-14.05.32:930][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.16-14.05.32:930][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.16-14.05.33:496][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.16-14.05.33:557][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/topan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.16-14.05.33:557][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/topan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.16-14.05.33:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.16-14.05.33:557][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.16-14.05.33:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-14.05.33:557][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.16-14.05.33:574][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.16-14.05.33:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-14.05.33:574][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.16-14.05.33:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/topan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.16-14.05.33:586][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.16-14.05.33:586][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.16-14.05.33:612][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.16-14.05.33:614][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.16-14.05.33:615][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.16-14.05.33:702][  0]LogAssetRegistry: FAssetRegistry took 0.0326 seconds to start up
+[2019.05.16-14.05.34:062][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-14.05.34:141][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.16-14.05.34:145][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.16-14.05.34:145][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.16-14.05.34:145][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.16-14.05.34:145][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.16-14.05.34:251][  0]LogNetVersion: DogDaysOfFall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1062122466)
+[2019.05.16-14.05.34:898][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.130813 seconds
+[2019.05.16-14.05.34:904][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.16-14.05.34:904][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.16-14.05.34:904][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.16-14.05.35:826][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.16-14.05.35:841][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.16-14.05.36:561][  0]SourceControl: Source control is disabled
+[2019.05.16-14.05.36:561][  0]SourceControl: Source control is disabled
+[2019.05.16-14.05.36:563][  0]SourceControl: Source control is disabled
+[2019.05.16-14.05.36:564][  0]SourceControl: Source control is disabled
+[2019.05.16-14.05.36:741][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.16-14.05.36:834][  0]LogOcInput: OculusInput pre-init called
+[2019.05.16-14.05.36:982][  0]LogEngine: Initializing Engine...
+[2019.05.16-14.05.36:982][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-14.05.36:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.16-14.05.36:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.16-14.05.36:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.16-14.05.36:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.16-14.05.37:281][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.16-14.05.37:297][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.16-14.05.37:391][  0]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-14.05.37:414][  0]LogInit: FAudioDevice initialized.
+[2019.05.16-14.05.37:415][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.16-14.05.37:472][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/topan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.16-14.05.37:485][  0]LogInit: Texture streaming: Enabled
+[2019.05.16-14.05.37:504][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.16-14.05.37:520][  0]LogInit: Transaction tracking system initialized
+[2019.05.16-14.05.37:546][  0]BlueprintLog: New page: Editor Load
+[2019.05.16-14.05.37:633][  0]LocalizationService: Localization service is disabled
+[2019.05.16-14.05.38:162][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.16-14.05.38:162][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.16-14.05.38:162][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.16-14.05.38:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.16-14.05.38:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.16-14.05.38:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.16-14.05.38:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.16-14.05.38:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/' took 0.03s
+[2019.05.16-14.05.38:295][  0]SourceControl: Source control is disabled
+[2019.05.16-14.05.38:296][  0]Cmd: MAP LOAD FILE="../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Alley.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-14.05.38:300][  0]LightingResults: New page: Lighting Build
+[2019.05.16-14.05.38:302][  0]MapCheck: New page: Map Check
+[2019.05.16-14.05.38:302][  0]LightingResults: New page: Lighting Build
+[2019.05.16-14.05.40:465][  0]LogMaterial: Display: Missing cached shader map for material Asphalt, compiling. 
+[2019.05.16-14.05.40:468][  0]LogMaterial: Warning: C:\Users\topan\Documents\GitHub\DogDaysOfFall_New\DogDaysOfFall\Content\Art\Alley_Materials\Asphalt\Asphalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.16-14.05.40:468][  0]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Art/Alley_Materials/Asphalt/sivodcfa_2K_Albedo.sivodcfa_2K_Albedo
+[2019.05.16-14.05.40:500][  0]LogAIModule: Creating AISystem for world Alley
+[2019.05.16-14.05.40:517][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-14.05.40:543][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-14.05.40:543][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2019.05.16-14.05.40:543][  0]LogFileHelpers: Loading map 'Alley' took 2.248
+[2019.05.16-14.05.40:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-14.05.40:747][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-14.05.40:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-14.05.40:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-14.05.40:797][  0]LogCollectionManager: Loaded 0 collections in 0.002124 seconds
+[2019.05.16-14.05.40:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Collections/' took 0.01s
+[2019.05.16-14.05.40:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Developers/topan/Collections/' took 0.00s
+[2019.05.16-14.05.40:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Collections/' took 0.00s
+[2019.05.16-14.05.40:838][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.16-14.05.40:854][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2651 classes and 620 folders.
+[2019.05.16-14.05.40:882][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.16-14.05.40:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.40:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-14.05.41:261][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.16-14.05.41:275][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.05.16-14.05.41:350][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.16-14.05.41:353][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.16-14.05.41:372][  0]LogSlate: Took 0.005129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.16-14.05.41:657][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.16-14.05.41:657][  0]LogLoad: (Engine Initialization) Total time: 12.34 seconds
+[2019.05.16-14.05.41:657][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.16-14.05.41:718][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.16-14.05.41:834][  0]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-14.05.47:276][360]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.16-14.05.50:466][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-14.05.52:640][989]LogAssetRegistry: Asset discovery search completed in 18.9598 seconds
+[2019.05.16-14.05.52:641][989]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2019.05.16-14.05.56:436][433]LogMaterial: Display: Missing cached shader map for material Plain_Board, compiling. 
+[2019.05.16-14.05.56:518][433]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.05.56:518][433]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.05.56:518][433]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.05.56:518][433]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.05.56:518][433]LogSlate: Took 0.005720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-14.05.56:547][433]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model.Large_SkateBoard_Model
+[2019.05.16-14.05.57:493][433]LogRenderer: Reallocating scene render targets to support 1208x556 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-14.05.57:493][433]LogSlate: Took 0.007145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.16-14.06.15:806][965]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx]
+[2019.05.16-14.06.15:853][965]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx
+[2019.05.16-14.06.15:864][965]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.06.15:899][965]LogFbx: Warning: Triangulating static mesh SkateBoard9
+[2019.05.16-14.06.16:068][965]LogStaticMesh: Building static mesh Large_SkateBoard_Model...
+[2019.05.16-14.06.16:123][965]LogStaticMesh: Built static mesh [0.05s] /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model.Large_SkateBoard_Model
+[2019.05.16-14.06.16:158][965]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.22:938][114]LogSlate: Window 'Large_SkateBoard_Model*' being destroyed
+[2019.05.16-14.15.22:945][114]LogSlate: Window 'Large_SkateBoard_Model*' being destroyed
+[2019.05.16-14.15.24:541][276]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model.Large_SkateBoard_Model
+[2019.05.16-14.15.27:615][516]LogSlate: Window 'Large_SkateBoard_Model*' being destroyed
+[2019.05.16-14.15.27:621][516]LogSlate: Window 'Large_SkateBoard_Model*' being destroyed
+[2019.05.16-14.15.32:483][ 39]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx]
+[2019.05.16-14.15.32:510][ 39]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx
+[2019.05.16-14.15.32:517][ 39]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.32:525][ 39]LogFbx: Warning: Triangulating static mesh SkateBoard9
+[2019.05.16-14.15.32:692][ 39]LogStaticMesh: Building static mesh Large_SkateBoard_Model...
+[2019.05.16-14.15.32:739][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model.Large_SkateBoard_Model
+[2019.05.16-14.15.32:767][ 39]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.34:417][216]LogMaterial: Display: Missing cached shader map for material Banshee_Board, compiling. 
+[2019.05.16-14.15.34:448][216]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.15.34:449][216]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.15.34:449][216]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.15.34:449][216]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.15.35:633][298]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx]
+[2019.05.16-14.15.35:663][298]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx
+[2019.05.16-14.15.35:674][298]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.35:693][298]LogFbx: Warning: Triangulating static mesh SkateBoard9
+[2019.05.16-14.15.35:907][298]LogStaticMesh: Building static mesh Large_SkateBoard_ModelBanshee...
+[2019.05.16-14.15.35:989][298]LogStaticMesh: Built static mesh [0.08s] /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelBanshee.Large_SkateBoard_ModelBanshee
+[2019.05.16-14.15.36:025][298]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.37:008][367]LogMaterial: Display: Missing cached shader map for material Cellec_Board, compiling. 
+[2019.05.16-14.15.37:062][367]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.15.37:116][369]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.15.38:035][430]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx]
+[2019.05.16-14.15.38:079][430]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx
+[2019.05.16-14.15.38:091][430]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.38:109][430]LogFbx: Warning: Triangulating static mesh SkateBoard9
+[2019.05.16-14.15.38:339][430]LogStaticMesh: Building static mesh Large_SkateBoard_ModelCellec...
+[2019.05.16-14.15.38:423][430]LogStaticMesh: Built static mesh [0.08s] /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelCellec.Large_SkateBoard_ModelCellec
+[2019.05.16-14.15.38:464][430]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.39:093][469]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.15.39:357][494]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.15.39:559][507]LogMaterial: Display: Missing cached shader map for material Neutron_Board, compiling. 
+[2019.05.16-14.15.39:622][507]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.15.39:809][514]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.15.40:610][560]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx]
+[2019.05.16-14.15.40:655][560]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Large_SkateBoard_Model.fbx
+[2019.05.16-14.15.40:666][560]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.40:689][560]LogFbx: Warning: Triangulating static mesh SkateBoard9
+[2019.05.16-14.15.40:918][560]LogStaticMesh: Building static mesh Large_SkateBoard_ModelNeutron...
+[2019.05.16-14.15.40:994][560]LogStaticMesh: Built static mesh [0.08s] /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelNeutron.Large_SkateBoard_ModelNeutron
+[2019.05.16-14.15.41:033][560]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.42:146][620]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.15.42:402][638]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.15.42:816][673]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx]
+[2019.05.16-14.15.42:861][673]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx
+[2019.05.16-14.15.42:876][673]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.42:911][673]LogFbx: Warning: Triangulating static mesh Small_SkateBoard8
+[2019.05.16-14.15.43:141][673]LogStaticMesh: Building static mesh Small_SkateBoard_Model...
+[2019.05.16-14.15.43:245][673]LogStaticMesh: Built static mesh [0.11s] /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_Model.Small_SkateBoard_Model
+[2019.05.16-14.15.43:275][673]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.45:153][815]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx]
+[2019.05.16-14.15.45:187][815]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx
+[2019.05.16-14.15.45:197][815]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.45:212][815]LogFbx: Warning: Triangulating static mesh Small_SkateBoard8
+[2019.05.16-14.15.45:406][815]LogStaticMesh: Building static mesh Small_SkateBoard_ModelBanshee...
+[2019.05.16-14.15.45:491][815]LogStaticMesh: Built static mesh [0.08s] /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelBanshee.Small_SkateBoard_ModelBanshee
+[2019.05.16-14.15.45:513][815]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.47:575][ 17]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx]
+[2019.05.16-14.15.47:601][ 17]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx
+[2019.05.16-14.15.47:608][ 17]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.47:622][ 17]LogFbx: Warning: Triangulating static mesh Small_SkateBoard8
+[2019.05.16-14.15.47:792][ 17]LogStaticMesh: Building static mesh Small_SkateBoard_ModelCellec...
+[2019.05.16-14.15.47:870][ 17]LogStaticMesh: Built static mesh [0.08s] /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelCellec.Small_SkateBoard_ModelCellec
+[2019.05.16-14.15.47:896][ 17]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.49:480][161]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx]
+[2019.05.16-14.15.49:507][161]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Small_SkateBoard_Model.fbx
+[2019.05.16-14.15.49:516][161]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.49:530][161]LogFbx: Warning: Triangulating static mesh Small_SkateBoard8
+[2019.05.16-14.15.49:696][161]LogStaticMesh: Building static mesh Small_SkateBoard_ModelNeutron...
+[2019.05.16-14.15.49:771][161]LogStaticMesh: Built static mesh [0.08s] /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelNeutron.Small_SkateBoard_ModelNeutron
+[2019.05.16-14.15.49:795][161]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.52:774][472]LogMaterial: Display: Missing cached shader map for material Walkie_Talkie, compiling. 
+[2019.05.16-14.15.52:806][472]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.15.52:806][472]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.15.52:806][472]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.15.52:806][472]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.15.53:984][561]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Walkie_Talkie_Model.fbx]
+[2019.05.16-14.15.54:023][561]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Walkie_Talkie_Model.fbx
+[2019.05.16-14.15.54:033][561]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.15.54:057][561]LogFbx: Warning: Triangulating static mesh Walkie_Talkie3
+[2019.05.16-14.15.54:156][561]LogStaticMesh: Building static mesh Walkie_Talkie_Model...
+[2019.05.16-14.15.54:191][561]LogStaticMesh: Built static mesh [0.04s] /Game/Art/toy_aisle/fbx/Small_Toys/Walkie_Talkie_Model.Walkie_Talkie_Model
+[2019.05.16-14.15.54:209][561]LogEditorFactories: -- imported successfully
+[2019.05.16-14.15.55:576][659]LogMaterial: Display: Missing cached shader map for material Cellec_Cube, compiling. 
+[2019.05.16-14.15.55:614][659]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.15.55:614][659]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.15.57:309][791]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.15.57:546][812]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.16.24:795][167]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Alley' took 0.039
+[2019.05.16-14.16.24:798][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model] ([1] browsable assets)...
+[2019.05.16-14.16.24:812][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model.Large_SkateBoard_Model]
+[2019.05.16-14.16.24:812][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model]
+[2019.05.16-14.16.24:877][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_Model_Auto1DFD85E3D4AB077860B25B399D6F8DB92.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model_Auto1.uasset'
+[2019.05.16-14.16.24:879][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelBanshee] ([1] browsable assets)...
+[2019.05.16-14.16.24:893][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelBanshee.Large_SkateBoard_ModelBanshee]
+[2019.05.16-14.16.24:893][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelBanshee]
+[2019.05.16-14.16.24:933][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_ModelBanshee_Au5550107044B08F0908BBD2979BBFF300.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelBanshee_Auto1.uasset'
+[2019.05.16-14.16.24:935][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelCellec] ([1] browsable assets)...
+[2019.05.16-14.16.24:949][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelCellec.Large_SkateBoard_ModelCellec]
+[2019.05.16-14.16.24:949][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelCellec]
+[2019.05.16-14.16.24:984][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_ModelCellec_Aut3DDAFF25417A82611A1C2B9596E103B4.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelCellec_Auto1.uasset'
+[2019.05.16-14.16.24:986][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelNeutron] ([1] browsable assets)...
+[2019.05.16-14.16.24:998][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelNeutron.Large_SkateBoard_ModelNeutron]
+[2019.05.16-14.16.24:998][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelNeutron]
+[2019.05.16-14.16.25:050][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_ModelNeutron_Au28D9232940459B3EE09F6DB41F1CB8DE.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelNeutron_Auto1.uasset'
+[2019.05.16-14.16.25:051][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_Model] ([1] browsable assets)...
+[2019.05.16-14.16.25:061][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_Model.Small_SkateBoard_Model]
+[2019.05.16-14.16.25:061][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_Model]
+[2019.05.16-14.16.25:093][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_Model_Auto114BA850F40A3588FFB96398BFE53B569.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_Model_Auto1.uasset'
+[2019.05.16-14.16.25:095][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelBanshee] ([1] browsable assets)...
+[2019.05.16-14.16.25:107][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelBanshee.Small_SkateBoard_ModelBanshee]
+[2019.05.16-14.16.25:107][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelBanshee]
+[2019.05.16-14.16.25:135][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelBanshee_Au474B1CC74C0194FD191DDF99A8E237D4.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelBanshee_Auto1.uasset'
+[2019.05.16-14.16.25:136][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelCellec] ([1] browsable assets)...
+[2019.05.16-14.16.25:147][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelCellec.Small_SkateBoard_ModelCellec]
+[2019.05.16-14.16.25:147][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelCellec]
+[2019.05.16-14.16.25:180][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelCellec_Aut15A337F24F60EC7FC5E12086EF124518.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelCellec_Auto1.uasset'
+[2019.05.16-14.16.25:181][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelNeutron] ([1] browsable assets)...
+[2019.05.16-14.16.25:192][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelNeutron.Small_SkateBoard_ModelNeutron]
+[2019.05.16-14.16.25:192][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelNeutron]
+[2019.05.16-14.16.25:237][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelNeutron_Au0C9785424F134EC1730D2BAFD67CA409.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelNeutron_Auto1.uasset'
+[2019.05.16-14.16.25:238][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/toy_aisle/fbx/Small_Toys/Walkie_Talkie_Model] ([1] browsable assets)...
+[2019.05.16-14.16.25:250][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/toy_aisle/fbx/Small_Toys/Walkie_Talkie_Model.Walkie_Talkie_Model]
+[2019.05.16-14.16.25:250][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/toy_aisle/fbx/Small_Toys/Walkie_Talkie_Model]
+[2019.05.16-14.16.25:282][167]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Walkie_Talkie_Model_Auto1D587BF56453B4EBCAE5A3988F91B6D79.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Autosaves/Game/Art/toy_aisle/fbx/Small_Toys/Walkie_Talkie_Model_Auto1.uasset'
+[2019.05.16-14.16.25:283][167]LogFileHelpers: Auto-saving content packages took 0.487
+[2019.05.16-14.17.26:671][766]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Cellec_Cube_Model.fbx]
+[2019.05.16-14.17.26:697][766]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Cellec_Cube_Model.fbx
+[2019.05.16-14.17.26:703][766]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.26:724][766]LogFbx: Warning: Triangulating static mesh Cellec_Cube
+[2019.05.16-14.17.26:821][766]LogStaticMesh: Building static mesh Toy_Cellec_Cube_Model...
+[2019.05.16-14.17.26:876][766]LogStaticMesh: Built static mesh [0.06s] /Game/Art/toy_aisle/fbx/Small_Toys/Toy_Cellec_Cube_Model.Toy_Cellec_Cube_Model
+[2019.05.16-14.17.26:891][766]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.35:744][697]LogMaterial: Display: Missing cached shader map for material Toy_Banana, compiling. 
+[2019.05.16-14.17.35:775][697]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.17.35:775][697]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.17.35:775][697]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.17.35:775][697]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.17.37:092][795]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Banana_Model.fbx]
+[2019.05.16-14.17.37:127][795]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Banana_Model.fbx
+[2019.05.16-14.17.37:134][795]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.37:158][795]LogFbx: Warning: Triangulating static mesh Banana_Banana
+[2019.05.16-14.17.37:221][795]LogStaticMesh: Building static mesh Toy_Banana_Model...
+[2019.05.16-14.17.37:243][795]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Banana_Model.Toy_Banana_Model
+[2019.05.16-14.17.37:261][795]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.39:374][930]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Bowl_Model.fbx]
+[2019.05.16-14.17.39:405][930]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Bowl_Model.fbx
+[2019.05.16-14.17.39:413][930]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.39:430][930]LogFbx: Warning: Triangulating static mesh pCylinder2
+[2019.05.16-14.17.39:489][930]LogStaticMesh: Building static mesh Toy_Bowl_Model...
+[2019.05.16-14.17.39:508][930]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Bowl_Model.Toy_Bowl_Model
+[2019.05.16-14.17.39:527][930]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.40:421][991]LogMaterial: Display: Missing cached shader map for material Toy_CKnife, compiling. 
+[2019.05.16-14.17.40:451][991]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.17.40:451][991]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.17.40:451][991]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.17.40:451][991]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.17.41:590][ 74]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_CKnife_Model.fbx]
+[2019.05.16-14.17.41:625][ 74]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_CKnife_Model.fbx
+[2019.05.16-14.17.41:633][ 74]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.41:650][ 74]LogFbx: Warning: Triangulating static mesh Cutting_Knife2
+[2019.05.16-14.17.41:685][ 74]LogStaticMesh: Building static mesh Toy_CKnife_Model...
+[2019.05.16-14.17.41:693][ 74]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_CKnife_Model.Toy_CKnife_Model
+[2019.05.16-14.17.41:711][ 74]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.44:233][258]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Cup_Model.fbx]
+[2019.05.16-14.17.44:260][258]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Cup_Model.fbx
+[2019.05.16-14.17.44:268][258]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.44:276][258]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2019.05.16-14.17.44:317][258]LogStaticMesh: Building static mesh Toy_Cup_Model...
+[2019.05.16-14.17.44:328][258]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Cup_Model.Toy_Cup_Model
+[2019.05.16-14.17.44:346][258]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.45:309][330]LogMaterial: Display: Missing cached shader map for material Cutting_Board, compiling. 
+[2019.05.16-14.17.45:342][330]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.17.45:342][330]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.17.45:342][330]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.17.45:342][330]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.17.46:447][413]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Cutting_Board_Model.fbx]
+[2019.05.16-14.17.46:484][413]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Cutting_Board_Model.fbx
+[2019.05.16-14.17.46:491][413]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.46:509][413]LogFbx: Warning: Triangulating static mesh Cutting_Board
+[2019.05.16-14.17.46:532][413]LogStaticMesh: Building static mesh Toy_Cutting_Board_Model...
+[2019.05.16-14.17.46:537][413]LogStaticMesh: Built static mesh [0.00s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Cutting_Board_Model.Toy_Cutting_Board_Model
+[2019.05.16-14.17.46:552][413]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.48:778][560]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_EKnife_Model.fbx]
+[2019.05.16-14.17.48:807][560]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_EKnife_Model.fbx
+[2019.05.16-14.17.48:816][560]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.48:828][560]LogFbx: Warning: Triangulating static mesh Knife1
+[2019.05.16-14.17.48:864][560]LogStaticMesh: Building static mesh Toy_EKnife_Model...
+[2019.05.16-14.17.48:877][560]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_EKnife_Model.Toy_EKnife_Model
+[2019.05.16-14.17.48:894][560]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.50:754][708]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Fork_Model.fbx]
+[2019.05.16-14.17.50:785][708]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Fork_Model.fbx
+[2019.05.16-14.17.50:792][708]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.50:805][708]LogFbx: Warning: Triangulating static mesh Fork
+[2019.05.16-14.17.50:851][708]LogStaticMesh: Building static mesh Toy_Fork_Model...
+[2019.05.16-14.17.50:867][708]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Fork_Model.Toy_Fork_Model
+[2019.05.16-14.17.50:883][708]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.52:982][882]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Liwi_Bottom_Model.fbx]
+[2019.05.16-14.17.53:011][882]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Liwi_Bottom_Model.fbx
+[2019.05.16-14.17.53:018][882]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.53:033][882]LogFbx: Warning: Triangulating static mesh polySurface16
+[2019.05.16-14.17.53:084][882]LogStaticMesh: Building static mesh Toy_Kiwi_Bottom_Model...
+[2019.05.16-14.17.53:097][882]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Kiwi_Bottom_Model.Toy_Kiwi_Bottom_Model
+[2019.05.16-14.17.53:115][882]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.55:635][ 95]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Liwi_Top_Model.fbx]
+[2019.05.16-14.17.55:663][ 95]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Liwi_Top_Model.fbx
+[2019.05.16-14.17.55:672][ 95]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.55:684][ 95]LogFbx: Warning: Triangulating static mesh polySurface17
+[2019.05.16-14.17.55:736][ 95]LogStaticMesh: Building static mesh Toy_Kiwi_Top_Model...
+[2019.05.16-14.17.55:750][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Kiwi_Top_Model.Toy_Kiwi_Top_Model
+[2019.05.16-14.17.55:767][ 95]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.56:981][188]LogMaterial: Display: Missing cached shader map for material Toy_Orange_Bottom, compiling. 
+[2019.05.16-14.17.57:028][188]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.17.57:029][188]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.17.57:029][188]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.17.57:029][188]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.17.58:000][257]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Orange_Bottom_Model.fbx]
+[2019.05.16-14.17.58:032][257]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Orange_Bottom_Model.fbx
+[2019.05.16-14.17.58:044][257]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.17.58:063][257]LogFbx: Warning: Triangulating static mesh polySurface15
+[2019.05.16-14.17.58:127][257]LogStaticMesh: Building static mesh Toy_Orange_Bottom_Model...
+[2019.05.16-14.17.58:143][257]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Orange_Bottom_Model.Toy_Orange_Bottom_Model
+[2019.05.16-14.17.58:166][257]LogEditorFactories: -- imported successfully
+[2019.05.16-14.17.59:328][321]LogMaterial: Display: Missing cached shader map for material Toy_Orange_Top, compiling. 
+[2019.05.16-14.17.59:392][321]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.17.59:717][335]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.18.00:415][384]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Orange_Top_Model.fbx]
+[2019.05.16-14.18.00:452][384]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Orange_Top_Model.fbx
+[2019.05.16-14.18.00:463][384]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.00:487][384]LogFbx: Warning: Triangulating static mesh polySurface14
+[2019.05.16-14.18.00:560][384]LogStaticMesh: Building static mesh Toy_Orange_Top_Model...
+[2019.05.16-14.18.00:579][384]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Orange_Top_Model.Toy_Orange_Top_Model
+[2019.05.16-14.18.00:605][384]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.01:906][443]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.18.02:139][461]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.18.02:200][464]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Pear_Bottom_Model.fbx]
+[2019.05.16-14.18.02:245][464]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Pear_Bottom_Model.fbx
+[2019.05.16-14.18.02:258][464]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.02:276][464]LogFbx: Warning: Triangulating static mesh Pear1
+[2019.05.16-14.18.02:304][464]LogStaticMesh: Building static mesh Toy_Pear_Bottom_Model...
+[2019.05.16-14.18.02:312][464]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Pear_Bottom_Model.Toy_Pear_Bottom_Model
+[2019.05.16-14.18.02:328][464]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.05:628][713]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Pear_Top_Model.fbx]
+[2019.05.16-14.18.05:650][713]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Pear_Top_Model.fbx
+[2019.05.16-14.18.05:656][713]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.05:668][713]LogFbx: Warning: Triangulating static mesh Pear2
+[2019.05.16-14.18.05:692][713]LogStaticMesh: Building static mesh Toy_Pear_Top_Model...
+[2019.05.16-14.18.05:702][713]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Pear_Top_Model.Toy_Pear_Top_Model
+[2019.05.16-14.18.05:717][713]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.07:891][894]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_plate_Model.fbx]
+[2019.05.16-14.18.07:919][894]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_plate_Model.fbx
+[2019.05.16-14.18.07:924][894]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.07:938][894]LogFbx: Warning: Triangulating static mesh Plate
+[2019.05.16-14.18.07:973][894]LogStaticMesh: Building static mesh Toy_plate_Model...
+[2019.05.16-14.18.07:984][894]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_plate_Model.Toy_plate_Model
+[2019.05.16-14.18.08:001][894]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.09:752][ 29]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Spoon_Model.fbx]
+[2019.05.16-14.18.09:782][ 29]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Spoon_Model.fbx
+[2019.05.16-14.18.09:788][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.09:805][ 29]LogFbx: Warning: Triangulating static mesh pSphere2
+[2019.05.16-14.18.09:841][ 29]LogStaticMesh: Building static mesh Toy_Spoon_Model...
+[2019.05.16-14.18.09:857][ 29]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Spoon_Model.Toy_Spoon_Model
+[2019.05.16-14.18.09:875][ 29]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.11:684][173]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Watermelon_Left_Model.fbx]
+[2019.05.16-14.18.11:715][173]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Watermelon_Left_Model.fbx
+[2019.05.16-14.18.11:721][173]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.11:732][173]LogFbx: Warning: Triangulating static mesh Watermelon
+[2019.05.16-14.18.11:755][173]LogStaticMesh: Building static mesh Toy_Watermelon_Left_Model...
+[2019.05.16-14.18.11:763][173]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Watermelon_Left_Model.Toy_Watermelon_Left_Model
+[2019.05.16-14.18.11:777][173]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.15:492][487]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Watermelon_Middle_Model.fbx]
+[2019.05.16-14.18.15:515][487]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Watermelon_Middle_Model.fbx
+[2019.05.16-14.18.15:523][487]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.15:533][487]LogFbx: Warning: Triangulating static mesh Watermelon2
+[2019.05.16-14.18.15:562][487]LogStaticMesh: Building static mesh Toy_Watermelon_Middle_Model...
+[2019.05.16-14.18.15:574][487]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Watermelon_Middle_Model.Toy_Watermelon_Middle_Model
+[2019.05.16-14.18.15:587][487]LogEditorFactories: -- imported successfully
+[2019.05.16-14.18.17:914][687]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Watermelon_Right_Model.fbx]
+[2019.05.16-14.18.17:944][687]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Toy_Watermelon_Right_Model.fbx
+[2019.05.16-14.18.17:952][687]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.18.17:966][687]LogFbx: Warning: Triangulating static mesh Watermelon1
+[2019.05.16-14.18.17:990][687]LogStaticMesh: Building static mesh Toy_Watermelon_Right_Model...
+[2019.05.16-14.18.17:998][687]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Watermelon_Right_Model.Toy_Watermelon_Right_Model
+[2019.05.16-14.18.18:013][687]LogEditorFactories: -- imported successfully
+[2019.05.16-14.20.42:217][147]LogLinker: Warning: Can't find file '/Game/Scenes/Toyscene_BuiltData'
+[2019.05.16-14.20.42:218][147]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Toyscene_BuiltData' while loading ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Toyscene.umap.
+[2019.05.16-14.20.42:218][147]LoadErrors: Error: /Game/Scenes/Toyscene : Can't find file for asset. /Game/Scenes/Toyscene_BuiltData
+[2019.05.16-14.20.42:415][147]LogLinker: Warning: Can't find file '/Game/Scenes/Toyscene_BuiltData'
+[2019.05.16-14.20.42:415][147]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Toyscene_BuiltData' while loading ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Toyscene.umap.
+[2019.05.16-14.20.42:421][147]LogLinker: Warning: Can't find file '/Game/Scenes/Toyscene_BuiltData'
+[2019.05.16-14.20.42:421][147]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Toyscene_BuiltData' while loading NULL.
+[2019.05.16-14.20.42:421][147]LogLinker: Warning: Can't find file '/Game/Scenes/Toyscene_BuiltData'
+[2019.05.16-14.20.42:421][147]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Toyscene_BuiltData' while loading NULL.
+[2019.05.16-14.20.42:483][147]LogLinker: Warning: Can't find file '/Game/Scenes/Toyscene_BuiltData'
+[2019.05.16-14.20.42:483][147]LoadErrors: Failed to load /Game/Scenes/Toyscene_BuiltData.Toyscene_BuiltData Referenced by PersistentLevel
+[2019.05.16-14.20.42:483][147]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Toyscene_BuiltData' while loading NULL.
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_backshelf_metalparts_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_notnerfboxagian_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_notnerfgunagian_2_gun_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_rightasile_metalparts_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_rightasile_metalparts_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_notnerfboxagian_lambert1_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_rightasile_metalparts_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_notnerfgunagian_2_gun_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_notnerfgunagian_2_gun_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_backshelf_shelf_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_backshelf_shelf_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_backshelf_shelf_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_rightasile_backboard_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_rightasile_backboard_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_leftshelftall_shelf_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:338][147]LogTexture: Display: Building textures: SM_leftshelftall_shelf_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.47:369][147]LogTexture: Display: Building textures: SM_leftshelftall_shelf_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:369][147]LogStaticMesh: Building static mesh SM_notnerfgunagian_2...
+[2019.05.16-14.20.47:484][147]LogTexture: Display: Building textures: SM_notnerfboxagian_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.47:484][147]LogStaticMesh: Built static mesh [0.12s] /Game/Art/toy_aisle/fbx/SM_notnerfgunagian_2.SM_notnerfgunagian_2
+[2019.05.16-14.20.47:543][147]LogStaticMesh: Building static mesh SM_notnerfboxagian...
+[2019.05.16-14.20.47:559][147]LogStaticMesh: Built static mesh [0.02s] /Game/Art/toy_aisle/fbx/SM_notnerfboxagian.SM_notnerfboxagian
+[2019.05.16-14.20.47:574][147]LogStaticMesh: Building static mesh SM_hangingtoys...
+[2019.05.16-14.20.47:585][147]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/SM_hangingtoys.SM_hangingtoys
+[2019.05.16-14.20.47:607][147]LogStaticMesh: Building static mesh SM_hangingtoys2...
+[2019.05.16-14.20.47:624][147]LogStaticMesh: Built static mesh [0.04s] /Game/Art/toy_aisle/fbx/SM_hangingtoys2.SM_hangingtoys2
+[2019.05.16-14.20.48:236][147]LogTexture: Display: Building textures: SM_backshelf_backboard_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.48:236][147]LogTexture: Display: Building textures: SM_backshelf_metalparts_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.48:612][147]LogTexture: Display: Building textures: SM_backshelf_metalparts_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.48:612][147]LogTexture: Display: Building textures: SM_rightasile_shelf_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.52:536][147]LogTexture: Display: Building textures: SM_backshelf_backboard_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.52:536][147]LogTexture: Display: Building textures: SM_backshelf_backboard_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.52:537][147]LogTexture: Display: Building textures: SM_notnerfgunagian_2_barrrel_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.52:537][147]LogTexture: Display: Building textures: SM_notnerfgunagian_2_barrrel_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.52:537][147]LogTexture: Display: Building textures: SM_notnerfgunagian_2_barrrel_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.52:537][147]LogTexture: Display: Building textures: SM_leftshelftall_metalparts_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.52:537][147]LogTexture: Display: Building textures: SM_leftshelftall_metalparts_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.52:537][147]LogTexture: Display: Building textures: SM_rightasile_shelf_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.55:111][147]LogTexture: Display: Building textures: SM_rightasile_backboard_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:111][147]LogTexture: Display: Building textures: SM_rightasile_shelf_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: SM_leftshelftall_backboard_BaseColor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: SM_leftshelftall_metalparts_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: New_Graph_basecolor (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: New_Graph_normal (BC5, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: New_Graph_AO (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: New_Graph_roughness (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: SM_leftshelftall_backboard_Normal (BC5, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogTexture: Display: Building textures: SM_leftshelftall_backboard_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.16-14.20.55:112][147]LogMaterial: Display: Missing cached shader map for material M_rightshelf, compiling. 
+[2019.05.16-14.20.55:152][147]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.20.55:152][147]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.20.55:152][147]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.20.55:152][147]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.20.55:152][147]LogMaterial: Display: Missing cached shader map for material M-gunbarrel, compiling. 
+[2019.05.16-14.20.55:184][147]LogMaterial: Display: Missing cached shader map for material M_rightmetalthings, compiling. 
+[2019.05.16-14.20.55:238][147]LogStaticMesh: Building static mesh SM_rightasile...
+[2019.05.16-14.20.55:385][147]LogStaticMesh: Built static mesh [0.15s] /Game/Art/toy_aisle/fbx/SM_rightasile.SM_rightasile
+[2019.05.16-14.20.55:410][147]LogMaterial: Display: Missing cached shader map for material M-gun, compiling. 
+[2019.05.16-14.20.55:442][147]LogMaterial: Display: Missing cached shader map for material M_backshelf, compiling. 
+[2019.05.16-14.20.55:490][147]LogMaterial: Display: Missing cached shader map for material M_backshelfmetal, compiling. 
+[2019.05.16-14.20.55:561][147]LogStaticMesh: Building static mesh SM_backshelf...
+[2019.05.16-14.20.55:678][147]LogStaticMesh: Built static mesh [0.12s] /Game/Art/toy_aisle/fbx/SM_backshelf.SM_backshelf
+[2019.05.16-14.20.55:697][147]LogMaterial: Display: Missing cached shader map for material M_backshelfwall, compiling. 
+[2019.05.16-14.20.55:948][147]LogStaticMesh: Building static mesh SM_Floortoyroom...
+[2019.05.16-14.20.56:554][147]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.05.16-14.20.56:554][147]LogStaticMesh: Built static mesh [0.61s] /Game/Art/toy_aisle/fbx/SM_Floortoyroom.SM_Floortoyroom
+[2019.05.16-14.20.56:683][147]LogMaterial: Display: Missing cached shader map for material M_gunbox, compiling. 
+[2019.05.16-14.20.56:731][147]LogMaterial: Display: Missing cached shader map for material M_leftrshelfmetal, compiling. 
+[2019.05.16-14.20.56:814][147]LogStaticMesh: Building static mesh SM_leftshelftall...
+[2019.05.16-14.20.57:009][147]LogStaticMesh: Built static mesh [0.19s] /Game/Art/toy_aisle/fbx/SM_leftshelftall.SM_leftshelftall
+[2019.05.16-14.20.57:051][147]LogStaticMesh: Building static mesh SM_tyobox2...
+[2019.05.16-14.20.57:054][147]LogStaticMesh: Built static mesh [0.00s] /Game/Art/toy_aisle/fbx/SM_tyobox2.SM_tyobox2
+[2019.05.16-14.20.57:056][147]LogStaticMesh: Building static mesh SM_tyobox1...
+[2019.05.16-14.20.57:064][147]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/SM_tyobox1.SM_tyobox1
+[2019.05.16-14.20.57:069][147]LogMaterial: Display: Missing cached shader map for material M_rightwallshelf, compiling. 
+[2019.05.16-14.20.57:214][147]LogStaticMesh: Building static mesh SM_metalhook...
+[2019.05.16-14.20.57:227][147]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/SM_metalhook.SM_metalhook
+[2019.05.16-14.20.57:229][147]LogStaticMesh: Building static mesh SM_tyobox3...
+[2019.05.16-14.20.57:237][147]LogStaticMesh: Built static mesh [0.01s] /Game/Art/toy_aisle/fbx/SM_tyobox3.SM_tyobox3
+[2019.05.16-14.20.57:244][147]LogMaterial: Display: Missing cached shader map for material M_nottargetfloor, compiling. 
+[2019.05.16-14.20.57:281][147]LogMaterial: Display: Missing cached shader map for material M_leftshelfwall, compiling. 
+[2019.05.16-14.20.57:353][147]LogMaterial: Display: Missing cached shader map for material M_leftshelf, compiling. 
+[2019.05.16-14.20.57:392][147]LogAIModule: Creating AISystem for world Toyscene
+[2019.05.16-14.20.57:407][147]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/Toyscene.Toyscene
+[2019.05.16-14.20.58:258][147]LogShaderCompilers: Display: Shaders left to compile 362
+[2019.05.16-14.20.58:429][147]LogShaderCompilers: Display: Shaders left to compile 352
+[2019.05.16-14.20.59:708][147]LogShaderCompilers: Display: Shaders left to compile 342
+[2019.05.16-14.20.59:742][147]LogShaderCompilers: Display: Shaders left to compile 332
+[2019.05.16-14.21.00:998][147]LogSlate: Window 'Save Content' being destroyed
+[2019.05.16-14.21.01:060][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_Model41B4B53A47137D3D36DD4DA0A865F097.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_Model.uasset'
+[2019.05.16-14.21.01:105][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_ModelBanshee2305C65E468ED4BDAD37259738593DDC.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelBanshee.uasset'
+[2019.05.16-14.21.01:148][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_ModelCellec368AF6A247187EC374F04F8A90135957.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelCellec.uasset'
+[2019.05.16-14.21.01:205][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Large_SkateBoard_ModelNeutron855B4ACA46FED484DD62588DF5137A7F.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Large_SkateBoard_ModelNeutron.uasset'
+[2019.05.16-14.21.01:252][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelD50939784F6AAFE63B81C1A0CFE39525.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_Model.uasset'
+[2019.05.16-14.21.01:294][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelBanshee82769B17420D99142F664AA4B0FB45BB.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelBanshee.uasset'
+[2019.05.16-14.21.01:337][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelCellecBC417E2E48169803E4EA769CEC2A8499.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelCellec.uasset'
+[2019.05.16-14.21.01:376][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Small_SkateBoard_ModelNeutron4D5ADA9642E6BEF00B30488C29AECCA9.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/SkateBoards/Small_SkateBoard_ModelNeutron.uasset'
+[2019.05.16-14.21.01:469][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Banana_Model61717C6C489562B0290DC7B9CAB0C4CB.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Banana_Model.uasset'
+[2019.05.16-14.21.01:560][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Bowl_ModelBAEDDFC94D3FD3DD2DEF488BA9CF22D0.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Bowl_Model.uasset'
+[2019.05.16-14.21.01:588][147]LogShaderCompilers: Display: Shaders left to compile 322
+[2019.05.16-14.21.01:635][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_CKnife_Model678D1B8546463DE9CC6DC58013D6EE79.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_CKnife_Model.uasset'
+[2019.05.16-14.21.01:711][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Cup_Model746F6FA04AADAA837631B88BD4BE28FE.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Cup_Model.uasset'
+[2019.05.16-14.21.01:788][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Cutting_Board_ModelC52D75E343EEF31AF4A16CA17B4112C6.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Cutting_Board_Model.uasset'
+[2019.05.16-14.21.01:874][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_EKnife_Model0D57CB224291D851F3A2639C3D72601E.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_EKnife_Model.uasset'
+[2019.05.16-14.21.01:960][147]LogShaderCompilers: Display: Shaders left to compile 312
+[2019.05.16-14.21.01:960][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Fork_ModelD15DB60E4DB525366CC43FA6B13C3922.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Fork_Model.uasset'
+[2019.05.16-14.21.02:036][147]LogShaderCompilers: Display: Shaders left to compile 302
+[2019.05.16-14.21.02:036][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Kiwi_Bottom_Model42D153B74C408556AF473292C533BF1F.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Kiwi_Bottom_Model.uasset'
+[2019.05.16-14.21.02:124][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Kiwi_Top_ModelF810689D41EDB26426009BBE137E7DBD.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Kiwi_Top_Model.uasset'
+[2019.05.16-14.21.02:205][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Orange_Bottom_ModelA86DF42A427A6387D68CF5A2E6FB6C76.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Orange_Bottom_Model.uasset'
+[2019.05.16-14.21.02:292][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Orange_Top_Model9CD28865423DB72F07970F942C3ADDFB.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Orange_Top_Model.uasset'
+[2019.05.16-14.21.02:371][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Pear_Bottom_ModelCEC61ED44A6BC6A1EE23A3BAA07274CA.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Pear_Bottom_Model.uasset'
+[2019.05.16-14.21.02:454][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Pear_Top_Model57CD98284685FD021832B29AC3D0DEB9.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Pear_Top_Model.uasset'
+[2019.05.16-14.21.02:529][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_plate_ModelAF90520E4ED6B737267E0185E8456AA7.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_plate_Model.uasset'
+[2019.05.16-14.21.02:612][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Spoon_Model3090D8434524082A7583B9A19A443E50.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Spoon_Model.uasset'
+[2019.05.16-14.21.02:693][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Watermelon_Left_Model4A46B82544F7A475E8C5BFA13847D206.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Watermelon_Left_Model.uasset'
+[2019.05.16-14.21.02:768][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Watermelon_Middle_ModelEC193A794A4F2AE86F2AEC93C9DC41FD.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Watermelon_Middle_Model.uasset'
+[2019.05.16-14.21.02:845][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Watermelon_Right_ModelCE9EF4BB45D4B25B6226A19EDA5EA24C.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Kitchen_Set/Toy_Watermelon_Right_Model.uasset'
+[2019.05.16-14.21.02:926][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toy_Cellec_Cube_Model8BC06A5C417CA5071984069B1678BA48.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Toy_Cellec_Cube_Model.uasset'
+[2019.05.16-14.21.02:961][147]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Walkie_Talkie_Model79D37840436A5FCA698544AA42EF5F80.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/toy_aisle/fbx/Small_Toys/Walkie_Talkie_Model.uasset'
+[2019.05.16-14.21.02:973][147]Cmd: MAP LOAD FILE="../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Toyscene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-14.21.02:973][147]LightingResults: New page: Lighting Build
+[2019.05.16-14.21.02:974][147]LoadErrors: New page: Loading map: Toyscene.umap
+[2019.05.16-14.21.02:977][147]MapCheck: New page: Map Check
+[2019.05.16-14.21.02:977][147]LightingResults: New page: Lighting Build
+[2019.05.16-14.21.03:039][147]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-14.21.03:118][147]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-14.21.03:121][147]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.446ms to complete.
+[2019.05.16-14.21.03:121][147]LogFileHelpers: Loading map 'Toyscene' took 0.150
+[2019.05.16-14.21.03:894][168]LogShaderCompilers: Display: Shaders left to compile 292
+[2019.05.16-14.21.04:285][200]LogShaderCompilers: Display: Shaders left to compile 282
+[2019.05.16-14.21.06:739][392]LogShaderCompilers: Display: Shaders left to compile 272
+[2019.05.16-14.21.07:160][407]LogShaderCompilers: Display: Shaders left to compile 262
+[2019.05.16-14.21.07:324][407]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toyscene96E868B84C09E320D8EF9190E2A7D906.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Toyscene.umap'
+[2019.05.16-14.21.07:390][407]LogShaderCompilers: Display: Shaders left to compile 252
+[2019.05.16-14.21.08:156][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelBanshee)
+[2019.05.16-14.21.09:334][533]LogShaderCompilers: Display: Shaders left to compile 242
+[2019.05.16-14.21.10:774][619]LogShaderCompilers: Display: Shaders left to compile 232
+[2019.05.16-14.21.11:356][655]LogShaderCompilers: Display: Shaders left to compile 222
+[2019.05.16-14.21.12:076][701]LogShaderCompilers: Display: Shaders left to compile 212
+[2019.05.16-14.21.13:774][813]LogShaderCompilers: Display: Shaders left to compile 202
+[2019.05.16-14.21.14:886][885]LogShaderCompilers: Display: Shaders left to compile 192
+[2019.05.16-14.21.16:196][964]LogShaderCompilers: Display: Shaders left to compile 182
+[2019.05.16-14.21.16:213][965]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.05.16-14.21.18:823][132]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.05.16-14.21.19:071][148]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.05.16-14.21.19:594][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-14.21.20:185][216]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.05.16-14.21.21:218][284]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.05.16-14.21.22:662][379]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.05.16-14.21.23:142][411]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.05.16-14.21.25:026][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelBanshee)
+[2019.05.16-14.21.25:542][555]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.05.16-14.21.25:574][557]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.05.16-14.21.26:007][584]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.05.16-14.21.26:081][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelNeutron5)
+[2019.05.16-14.21.26:922][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelNeutron5)
+[2019.05.16-14.21.27:005][643]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.21.28:297][722]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.16-14.21.28:419][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelBanshee)
+[2019.05.16-14.21.28:476][731]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.21.29:037][759]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.16-14.21.30:150][835]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.16-14.21.30:657][868]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.21.31:259][904]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.16-14.21.31:358][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rightasile)
+[2019.05.16-14.21.31:898][939]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.16-14.21.31:979][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelBanshee)
+[2019.05.16-14.21.32:796][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelBanshee)
+[2019.05.16-14.21.33:098][ 10]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.21.33:474][ 31]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.16-14.21.34:367][ 90]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.16-14.21.35:463][164]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.16-14.21.37:219][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-14.21.46:189][230]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Toyscene1D9C268B4BD3041D5BFC228F371A0064.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Toyscene.umap'
+[2019.05.16-14.22.03:079][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_tyobox5)
+[2019.05.16-14.22.04:255][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toy_CKnife_Model2)
+[2019.05.16-14.22.04:578][ 72]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.22.06:123][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelBanshee)
+[2019.05.16-14.22.06:152][239]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.22.07:341][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_ModelNeutron5)
+[2019.05.16-14.22.07:412][368]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.22.08:779][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_backshelf)
+[2019.05.16-14.22.08:857][513]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.22.09:610][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Large_SkateBoard_Model)
+[2019.05.16-14.22.09:687][594]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.16-14.22.11:026][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-14.22.37:006][463]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/StoreHomePet/FBX/Clothing/Clothes_Model3.Clothes_Model3
+[2019.05.16-14.22.42:656][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-14.22.42:805][894]LogSlate: Window 'Clothes_Model3' being destroyed
+[2019.05.16-14.22.42:811][894]LogSlate: Window 'Clothes_Model3' being destroyed
+[2019.05.16-14.22.48:380][437]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/StoreHomePet/FBX/Clothing/Clothes_Model.Clothes_Model
+[2019.05.16-14.22.51:118][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-14.22.51:221][631]LogSlate: Window 'Clothes_Model' being destroyed
+[2019.05.16-14.22.51:230][631]LogSlate: Window 'Clothes_Model' being destroyed
+[2019.05.16-14.22.59:780][523]LogLinker: Warning: Can't find file '/Game/Scenes/Home_Pet_Scene_BuiltData'
+[2019.05.16-14.22.59:781][523]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Home_Pet_Scene_BuiltData' while loading ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Home_Pet_Scene.umap.
+[2019.05.16-14.22.59:781][523]LoadErrors: Error: /Game/Scenes/Home_Pet_Scene : Can't find file for asset. /Game/Scenes/Home_Pet_Scene_BuiltData
+[2019.05.16-14.22.59:878][523]LogLinker: Warning: Can't find file '/Game/Scenes/Home_Pet_Scene_BuiltData'
+[2019.05.16-14.22.59:878][523]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Home_Pet_Scene_BuiltData' while loading ../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Home_Pet_Scene.umap.
+[2019.05.16-14.22.59:881][523]LogLinker: Warning: Can't find file '/Game/Scenes/Home_Pet_Scene_BuiltData'
+[2019.05.16-14.22.59:881][523]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Home_Pet_Scene_BuiltData' while loading NULL.
+[2019.05.16-14.22.59:881][523]LogLinker: Warning: Can't find file '/Game/Scenes/Home_Pet_Scene_BuiltData'
+[2019.05.16-14.22.59:881][523]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Home_Pet_Scene_BuiltData' while loading NULL.
+[2019.05.16-14.22.59:900][523]LogLinker: Warning: Can't find file '/Game/Scenes/Home_Pet_Scene_BuiltData'
+[2019.05.16-14.22.59:900][523]LoadErrors: Failed to load /Game/Scenes/Home_Pet_Scene_BuiltData.Home_Pet_Scene_BuiltData Referenced by PersistentLevel
+[2019.05.16-14.22.59:900][523]LogLinker: Warning: Can't find file for asset '/Game/Scenes/Home_Pet_Scene_BuiltData' while loading NULL.
+[2019.05.16-14.22.59:947][523]LogMaterial: Display: Missing cached shader map for material Mug3, compiling. 
+[2019.05.16-14.22.59:968][523]LogStaticMesh: Building static mesh Top_Deco...
+[2019.05.16-14.22.59:975][523]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.22.59:975][523]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.16-14.22.59:975][523]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.16-14.22.59:975][523]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.16-14.22.59:975][523]LogStaticMesh: Built static mesh [0.01s] /Game/Art/StoreHomePet/FBX/Top_Deco.Top_Deco
+[2019.05.16-14.22.59:977][523]LogStaticMesh: Building static mesh Deco_Pillar...
+[2019.05.16-14.22.59:983][523]LogStaticMesh: Built static mesh [0.01s] /Game/Art/StoreHomePet/FBX/Deco_Pillar.Deco_Pillar
+[2019.05.16-14.22.59:984][523]LogStaticMesh: Building static mesh Floor...
+[2019.05.16-14.22.59:987][523]LogStaticMesh: Built static mesh [0.00s] /Game/Art/StoreHomePet/FBX/Floor.Floor
+[2019.05.16-14.23.00:045][523]LogTexture: Display: Building textures: qjpnjfp_2K_Displacement_2 (AutoDXT, 2048X2048)
+[2019.05.16-14.23.00:046][523]LogTexture: Display: Building textures: ACunit_metallic (AutoDXT, 2048X2048)
+[2019.05.16-14.23.00:046][523]LogStaticMesh: Building static mesh Aisle_Norm...
+[2019.05.16-14.23.00:554][523]LogTexture: Display: Building textures: qjpnjfp_2K_Roughness_2 (AutoDXT, 2048X2048)
+[2019.05.16-14.23.00:555][523]LogTexture: Display: Building textures: qjpnjfp_2K_AO_2 (AutoDXT, 2048X2048)
+[2019.05.16-14.23.00:555][523]LogTexture: Display: Building textures: qjpnjfp_2K_Albedo_2 (AutoDXT, 2048X2048)
+[2019.05.16-14.23.00:555][523]LogStaticMesh: Built static mesh [0.51s] /Game/Art/StoreHomePet/FBX/Aisle_Norm.Aisle_Norm
+[2019.05.16-14.23.01:704][523]LogTexture: Display: Building textures: qjpnjfp_2K_Normal_2 (BC5, 2048X2048)
+[2019.05.16-14.23.01:704][523]LogTexture: Display: Building textures: ACunit_normal (BC5, 2048X2048)
+[2019.05.16-14.23.01:704][523]LogTexture: Display: Building textures: ACunit_basecolor (AutoDXT, 2048X2048)
+[2019.05.16-14.23.01:704][523]LogTexture: Display: Building textures: ACunit_roughness1 (AutoDXT, 2048X2048)
+[2019.05.16-14.23.01:704][523]LogTexture: Display: Building textures: ACunit_roughness2 (AutoDXT, 2048X2048)
+[2019.05.16-14.23.03:089][523]LogMaterial: Display: Missing cached shader map for material ACUnit, compiling. 
+[2019.05.16-14.23.03:216][523]LogStaticMesh: Building static mesh BarScene_ACpipe1...
+[2019.05.16-14.23.03:227][523]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Bar/Bar_FBX/BarScene_ACpipe1.BarScene_ACpipe1
+[2019.05.16-14.23.03:550][523]LogStaticMesh: Building static mesh Aisle_Broke_V1...
+[2019.05.16-14.23.03:705][523]LogStaticMesh: Built static mesh [0.16s] /Game/Art/StoreHomePet/FBX/Aisle_Broke_V1.Aisle_Broke_V1
+[2019.05.16-14.23.03:801][523]LogStaticMesh: Building static mesh Aisle_Broke_V2...
+[2019.05.16-14.23.04:036][523]LogStaticMesh: Built static mesh [0.23s] /Game/Art/StoreHomePet/FBX/Aisle_Broke_V2.Aisle_Broke_V2
+[2019.05.16-14.23.04:067][523]LogStaticMesh: Building static mesh BarScene_ACpipe2...
+[2019.05.16-14.23.04:078][523]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Bar/Bar_FBX/BarScene_ACpipe2.BarScene_ACpipe2
+[2019.05.16-14.23.04:097][523]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.16-14.23.04:097][523]LogStaticMesh: Building static mesh Wall_Back_Aisle...
+[2019.05.16-14.23.04:105][523]LogStaticMesh: Built static mesh [0.01s] /Game/Art/StoreHomePet/FBX/Wall_Back_Aisle.Wall_Back_Aisle
+[2019.05.16-14.23.04:110][523]LogMaterial: Display: Missing cached shader map for material Mug2, compiling. 
+[2019.05.16-14.23.04:146][523]LogMaterial: Display: Missing cached shader map for material Drywall, compiling. 
+[2019.05.16-14.23.04:178][523]LogMaterial: Display: Missing cached shader map for material ACUnit2, compiling. 
+[2019.05.16-14.23.04:208][523]LogAIModule: Creating AISystem for world Home_Pet_Scene
+[2019.05.16-14.23.04:218][523]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/Home_Pet_Scene.Home_Pet_Scene
+[2019.05.16-14.23.04:262][523]Cmd: MAP LOAD FILE="../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Home_Pet_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-14.23.04:262][523]LightingResults: New page: Lighting Build
+[2019.05.16-14.23.04:263][523]LoadErrors: New page: Loading map: Home_Pet_Scene.umap
+[2019.05.16-14.23.04:266][523]MapCheck: New page: Map Check
+[2019.05.16-14.23.04:267][523]LightingResults: New page: Lighting Build
+[2019.05.16-14.23.04:306][523]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-14.23.04:400][523]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-14.23.04:400][523]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2019.05.16-14.23.04:401][523]LogFileHelpers: Loading map 'Home_Pet_Scene' took 0.141
+[2019.05.16-14.23.06:754][687]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.05.16-14.23.07:111][710]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.05.16-14.23.07:449][732]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.05.16-14.23.07:702][752]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.05.16-14.23.10:114][921]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.05.16-14.23.12:578][ 95]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.05.16-14.23.12:732][108]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.16-14.23.13:485][159]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.16-14.23.15:643][329]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.16-14.23.16:516][386]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.16-14.23.16:677][395]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/StoreHomePet/FBX/Clothing/Clothes_Model.Clothes_Model
+[2019.05.16-14.23.18:532][462]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.16-14.23.19:072][492]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.16-14.23.19:565][519]LogSlate: Window 'Clothes_Model' being destroyed
+[2019.05.16-14.23.19:578][519]LogSlate: Window 'Clothes_Model' being destroyed
+[2019.05.16-14.23.22:284][749]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Clothes_Model.fbx]
+[2019.05.16-14.23.22:319][749]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Clothes_Model.fbx
+[2019.05.16-14.23.22:330][749]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.23.22:352][749]LogFbx: Warning: Triangulating static mesh Clothes
+[2019.05.16-14.23.22:524][749]LogStaticMesh: Building static mesh Clothes_Model...
+[2019.05.16-14.23.22:571][749]LogStaticMesh: Built static mesh [0.05s] /Game/Art/StoreHomePet/FBX/Clothing/Clothes_Model.Clothes_Model
+[2019.05.16-14.23.22:593][749]LogEditorFactories: -- imported successfully
+[2019.05.16-14.23.24:978][979]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Clothes_Model.fbx]
+[2019.05.16-14.23.25:002][979]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Clothes_Model.fbx
+[2019.05.16-14.23.25:010][979]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.23.25:022][979]LogFbx: Warning: Triangulating static mesh Clothes
+[2019.05.16-14.23.25:165][979]LogStaticMesh: Building static mesh Clothes_Model2...
+[2019.05.16-14.23.25:204][979]LogStaticMesh: Built static mesh [0.04s] /Game/Art/StoreHomePet/FBX/Clothing/Clothes_Model2.Clothes_Model2
+[2019.05.16-14.23.25:229][979]LogEditorFactories: -- imported successfully
+[2019.05.16-14.23.27:177][165]LogEditorFactories: Performing atomic reimport of [C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Clothes_Model.fbx]
+[2019.05.16-14.23.27:207][165]LogFbx: Loading FBX Scene from C:/Users/topan/Desktop/Cellec/Dog Days/Exports/Models/Clothes_Model.fbx
+[2019.05.16-14.23.27:213][165]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.16-14.23.27:226][165]LogFbx: Warning: Triangulating static mesh Clothes
+[2019.05.16-14.23.27:370][165]LogStaticMesh: Building static mesh Clothes_Model3...
+[2019.05.16-14.23.27:407][165]LogStaticMesh: Built static mesh [0.04s] /Game/Art/StoreHomePet/FBX/Clothing/Clothes_Model3.Clothes_Model3
+[2019.05.16-14.23.27:436][165]LogEditorFactories: -- imported successfully
+[2019.05.16-14.23.28:961][303]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Home_Pet_Scene84E43BE2415602070A784792BF545FAF.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Home_Pet_Scene.umap'
+[2019.05.16-14.23.36:935][854]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Home_Pet_SceneED00E6874773FF2AD8FC33B043D528E0.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Scenes/Home_Pet_Scene.umap'
+[2019.05.16-14.23.44:157][317]LogSlate: Window 'Save Content' being destroyed
+[2019.05.16-14.23.44:227][317]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Clothes_Model33DF12B54F08D4FDD633FB9C6F1966FF.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/StoreHomePet/FBX/Clothing/Clothes_Model.uasset'
+[2019.05.16-14.23.44:279][317]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Clothes_Model2AD72318943247B90EA5993BA8DDAA023.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/StoreHomePet/FBX/Clothing/Clothes_Model2.uasset'
+[2019.05.16-14.23.44:336][317]LogSavePackage: Moving '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Saved/Clothes_Model3D3529A7245D74D6819A04DAD9277FBAD.tmp' to '../../../../../../Users/topan/Documents/GitHub/DogDaysOfFall_New/DogDaysOfFall/Content/Art/StoreHomePet/FBX/Clothing/Clothes_Model3.uasset'
+[2019.05.16-14.23.44:439][317]LogSlate: Window 'DogDaysOfFall - Unreal Editor' being destroyed
+[2019.05.16-14.23.44:683][318]Cmd: QUIT_EDITOR
+[2019.05.16-14.23.44:700][318]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.16-14.23.44:718][318]LogExit: Preparing to exit.
+[2019.05.16-14.23.45:430][318]LogExit: Editor shut down
+[2019.05.16-14.23.45:430][318]LogExit: Transaction tracking system shut down
+[2019.05.16-14.23.45:596][318]LogExit: Object subsystem successfully closed.
+[2019.05.16-14.23.45:622][318]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.16-14.23.45:627][318]LogD3D11RHI: Shutdown
+[2019.05.16-14.23.45:627][318]LogD3D11RHI: CleanupD3DDevice
+[2019.05.16-14.23.45:630][318]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.16-14.23.45:653][318]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.05.16-14.23.45:653][318]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (624)
+[2019.05.16-14.23.45:653][318]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.05.16-14.23.45:653][318]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.05.16-14.23.45:653][318]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.05.16-14.23.45:654][318]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.05.16-14.23.45:655][318]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.05.16-14.23.46:554][318]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.05.16-14.23.46:554][318]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.05.16-14.23.46:554][318]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.05.16-14.23.46:554][318]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.05.16-14.23.46:554][318]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.05.16-14.23.46:554][318]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.16-14.23.46:555][318]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.16-14.23.46:610][318]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.16-14.23.46:611][318]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.05.16-14.23.46:613][318]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.16-14.23.46:840][318]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.05.16-14.23.46:841][318]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.05.16-14.23.46:844][318]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.05.16-14.23.46:845][318]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.16-14.23.46:846][318]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.16-14.23.46:846][318]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.16-14.23.46:947][318]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.16-14.23.47:048][318]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.16-14.23.47:048][318]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.16-14.23.47:048][318]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.16-14.23.47:048][318]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.16-14.23.47:048][318]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.16-14.23.47:048][318]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.16-14.23.47:049][318]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.16-14.23.47:049][318]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.16-14.23.47:049][318]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.16-14.23.47:050][318]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.16-14.23.47:050][318]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.16-14.23.47:050][318]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.16-14.23.47:051][318]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.16-14.23.47:052][318]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.16-14.23.47:058][318]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.16-14.23.47:059][318]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.16-14.23.47:060][318]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.16-14.23.47:061][318]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.16-14.23.47:061][318]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.16-14.23.47:061][318]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.16-14.23.47:061][318]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.16-14.23.47:061][318]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.16-14.23.47:063][318]LogDerivedDataCache: Shutdown
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.16-14.23.47:063][318]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.16-14.23.47:064][318]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.16-14.23.47:064][318]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.16-14.23.47:064][318]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.16-14.23.47:064][318]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.16-14.23.47:064][318]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.16-14.23.47:065][318]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.16-14.23.47:065][318]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.16-14.23.47:065][318]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.16-14.23.47:065][318]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.16-14.23.47:071][318]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.16-14.23.47:071][318]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.16-14.23.47:072][318]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.16-14.23.47:087][318]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.16-14.23.47:087][318]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.16-14.23.47:088][318]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A10EA21-4E11-272E-6A18-6B858A04CA97%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b5aa04794efa80a9412c7198e9100d7b%7C205aca360d634069bc66108256cc5b80%7C5c66467b-9f7f-4098-b4f9-c67faf3e20a8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.16-14.23.47:097][318]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.16-14.23.47:099][318]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.16-14.23.47:099][318]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.16-14.23.47:099][318]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.16-14.23.47:100][318]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.16-14.23.47:100][318]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.16-14.23.47:101][318]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.16-14.23.47:110][318]LogExit: Exiting.
+[2019.05.16-14.23.47:137][318]Log file closed, 05/16/19 10:23:47
